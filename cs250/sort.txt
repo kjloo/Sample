@@ -1,0 +1,20 @@
+Kaleb Loo
+It looks like merge sort takes the same amount of time to complete the
+sort no matter what the state of the initial data.  This means that it takes
+nlog(n) time to complete a sort on any type of data.  This makes sense
+since the amount of times it splits the data and the comparisons it makes
+are always independent of what the data is. Heap sort on the other hand
+is very efficient on certain data sets such as the reverse order, but
+is less efficient on data sets such as the nearly ordered. This makes sense
+because depending on the order in which the data is in the heap either makes
+percolating down very short or fairly long. If the data is sorted in reverse
+then not very many swaps need to be made for a max heap. If the data is 
+nearly sorted then after every sort, the data is likely to have to percolate
+down and completely destroy the original order.
+In terms of advantages and disadvantages, it looks like the heap sort has
+a better runtime as it works extremely well on certain types of data
+and when it performs at its worst, it still matches the runtime of merge sort.
+In terms of complexity, the merge sort is much easier to conceptually
+understand and analize. It is easy to see, graphically, exactly what the merge
+sort is doing, while it can be hard to tell what the heap sort is doing by
+just looking at the graph.
