@@ -1,0 +1,241 @@
+Adair Village city, 830
+Adams city, 352
+Adrian city, 174
+Albany city, 51322
+Amity city, 1622
+Antelope city, 47
+Arlington city, 611
+Ashland city, 20366
+Astoria city, 9527
+Athena city, 1142
+Aumsville city, 3704
+Aurora city, 940
+Baker City city, 9696
+Bandon city, 3046
+Banks city, 1842
+Barlow city, 137
+Bay City city, 1295
+Beaverton city, 92680
+Bend city, 79109
+Boardman city, 3335
+Bonanza town, 411
+Brookings city, 6316
+Brownsville city, 1684
+Burns city, 2729
+Butte Falls town, 429
+Canby city, 15986
+Cannon Beach city, 1692
+Canyon City town, 691
+Canyonville city, 1875
+Carlton city, 2018
+Cascade Locks city, 1149
+Cave Junction city, 1875
+Central Point city, 17411
+Chiloquin city, 723
+Clatskanie city, 1729
+Coburg city, 1041
+Columbia City city, 1940
+Condon city, 712
+Coos Bay city, 15857
+Coquille city, 3836
+Cornelius city, 12147
+Corvallis city, 54998
+Cottage Grove city, 9770
+Cove city, 555
+Creswell city, 5068
+Culver city, 1360
+Dallas city, 14760
+Damascus city, 10684
+Dayton city, 2548
+Dayville town, 147
+Depoe Bay city, 1397
+Detroit city, 207
+Donald city, 978
+Drain city, 1143
+Dufur city, 609
+Dundee city, 3183
+Dunes City city, 1315
+Durham city, 1391
+Eagle Point city, 8624
+Echo city, 708
+Elgin city, 1718
+Elkton city, 194
+Enterprise city, 1888
+Estacada city, 2863
+Eugene city, 157986
+Fairview city, 9153
+Falls City city, 951
+Florence city, 8484
+Forest Grove city, 21961
+Fossil city, 466
+Garibaldi city, 774
+Gaston city, 658
+Gates city, 475
+Gearhart city, 1480
+Gervais city, 2548
+Gladstone city, 11654
+Glendale city, 868
+Gold Beach city, 2243
+Gold Hill city, 1236
+Granite city, 38
+Grants Pass city, 34805
+Grass Valley city, 162
+Gresham city, 108956
+Haines city, 410
+Halfway city, 284
+Halsey city, 926
+Happy Valley city, 15406
+Harrisburg city, 3639
+Helix city, 186
+Heppner city, 1289
+Hermiston city, 17111
+Hillsboro city, 95327
+Hines city, 1521
+Hood River city, 7292
+Hubbard city, 3198
+Huntington city, 434
+Idanha city, 136
+Imbler city, 306
+Independence city, 8650
+Ione city, 330
+Irrigon city, 1809
+Island City city, 997
+Jacksonville city, 2806
+Jefferson city, 3146
+John Day city, 1713
+Johnson City city, 568
+Jordan Valley city, 178
+Joseph city, 1054
+Junction City city, 5552
+Keizer city, 36907
+King City city, 3319
+Klamath Falls city, 21005
+Lafayette city, 3776
+La Grande city, 13048
+Lake Oswego city, 37243
+Lakeside city, 1690
+Lakeview town, 2261
+La Pine city, 1687
+Lebanon city, 15740
+Lexington town, 239
+Lincoln City city, 7965
+Lonerock city, 22
+Long Creek city, 195
+Lostine city, 208
+Lowell city, 1056
+Lyons city, 1168
+McMinnville city, 32535
+Madras city, 6351
+Malin city, 794
+Manzanita city, 605
+Maupin city, 422
+Maywood Park city, 770
+Medford city, 76462
+Merrill city, 831
+Metolius city, 708
+Mill City city, 1867
+Millersburg city, 1340
+Milton-Freewater city, 7110
+Milwaukie city, 20439
+Mitchell city, 129
+Molalla city, 8243
+Monmouth city, 9732
+Monroe city, 616
+Monument city, 126
+Moro city, 317
+Mosier city, 437
+Mount Angel city, 3399
+Mount Vernon city, 517
+Myrtle Creek city, 3427
+Myrtle Point city, 2491
+Nehalem city, 267
+Newberg city, 22396
+Newport city, 10017
+North Bend city, 9628
+North Plains city, 2013
+North Powder city, 440
+Nyssa city, 3211
+Oakland city, 920
+Oakridge city, 3207
+Ontario city, 11143
+Oregon City city, 32755
+Paisley city, 237
+Pendleton city, 16838
+Philomath city, 4594
+Phoenix city, 4585
+Pilot Rock city, 1514
+Portland city, 603106
+Port Orford city, 1128
+Powers city, 683
+Prairie City city, 895
+Prescott city, 55
+Prineville city, 9173
+Rainier city, 1889
+Redmond city, 26924
+Reedsport city, 4111
+Richland city, 154
+Riddle city, 1177
+Rivergrove city, 293
+Rockaway Beach city, 1313
+Rogue River city, 2163
+Roseburg city, 21884
+Rufus city, 243
+St. Helens city, 12910
+St. Paul city, 425
+Salem city, 157429
+Sandy city, 9888
+Scappoose city, 6658
+Scio city, 848
+Scotts Mills city, 361
+Seaside city, 6471
+Seneca city, 197
+Shady Cove city, 2939
+Shaniko city, 37
+Sheridan city, 6156
+Sherwood city, 18771
+Siletz city, 1204
+Silverton city, 9344
+Sisters city, 2118
+Sodaville city, 312
+Spray town, 158
+Springfield city, 59869
+Stanfield city, 2055
+Stayton city, 7713
+Sublimity city, 2738
+Summerville town, 135
+Sumpter city, 201
+Sutherlin city, 7763
+Sweet Home city, 9011
+Talent city, 6162
+Tangent city, 1176
+The Dalles city, 13783
+Tigard city, 49774
+Tillamook city, 4942
+Toledo city, 3462
+Troutdale city, 16425
+Tualatin city, 26716
+Turner city, 1887
+Ukiah city, 188
+Umatilla city, 7010
+Union city, 2126
+Unity city, 70
+Vale city, 1839
+Veneta city, 4631
+Vernonia city, 2142
+Waldport city, 2070
+Wallowa city, 786
+Warrenton city, 5109
+Wasco city, 402
+Waterloo town, 232
+Westfir city, 254
+West Linn city, 25600
+Weston city, 670
+Wheeler city, 414
+Willamina city, 2054
+Wilsonville city, 20489
+Winston city, 5352
+Woodburn city, 24223
+Wood Village city, 3960
+Yachats city, 696
+Yamhill city, 1036
+Yoncalla city, 1040

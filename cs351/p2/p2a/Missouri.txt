@@ -1,0 +1,950 @@
+Adrian city, 1644
+Advance city, 1343
+Agency village, 683
+Airport Drive village, 821
+Alba city, 539
+Albany city, 1732
+Aldrich village, 80
+Alexandria city, 156
+Allendale village, 51
+Allenville village, 118
+Alma city, 394
+Altamont village, 200
+Altenburg city, 349
+Alton city, 880
+Amazonia village, 313
+Amity town, 54
+Amoret city, 186
+Amsterdam city, 237
+Anderson city, 1998
+Annada village, 29
+Annapolis city, 351
+Anniston town, 232
+Appleton City city, 1093
+Arbela town, 42
+Arbyrd city, 505
+Arcadia city, 591
+Archie city, 1186
+Arcola village, 53
+Argyle town, 162
+Arkoe town, 68
+Armstrong city, 286
+Arnold city, 21013
+Arrow Point village, 86
+Arrow Rock town, 56
+Asbury city, 202
+Ash Grove city, 1477
+Ashland city, 3812
+Atlanta city, 382
+Augusta town, 254
+Aullville village, 99
+Aurora city, 7482
+Auxvasse city, 981
+Ava city, 2974
+Avilla town, 122
+Avondale city, 447
+Bagnell town, 93
+Bakersfield village, 244
+Baldwin Park village, 92
+Ballwin city, 30443
+Baring city, 131
+Barnard city, 221
+Barnett city, 199
+Bates City city, 222
+Battlefield city, 5737
+Bella Villa city, 727
+Bell City city, 442
+Belle city, 1535
+Bellefontaine Neighbors city, 10828
+Bellerive village, 189
+Bellflower city, 380
+Bel-Nor village, 1492
+Bel-Ridge village, 2728
+Belton city, 23244
+Benton city, 867
+Benton City village, 104
+Berger city, 220
+Berkeley city, 8953
+Bernie city, 1944
+Bertrand city, 817
+Bethany city, 3197
+Bethel village, 120
+Beverly Hills city, 571
+Bevier city, 716
+Bigelow village, 26
+Big Lake village, 151
+Billings city, 1055
+Birch Tree city, 668
+Birmingham village, 187
+Bismarck city, 1516
+Blackburn city, 250
+Black Jack city, 6920
+Blackwater city, 162
+Blairstown city, 96
+Bland city, 529
+Blodgett village, 213
+Bloomfield city, 1909
+Bloomsdale city, 516
+Blue Eye town, 161
+Blue Springs city, 53014
+Blythedale village, 188
+Bogard city, 161
+Bolckow city, 189
+Bolivar city, 10389
+Bonne Terre city, 7052
+Boonville city, 8300
+Bosworth city, 299
+Bourbon city, 1640
+Bowling Green city, 5481
+Bragg City town, 148
+Brandsville city, 162
+Branson city, 10842
+Branson West city, 462
+Brashear city, 273
+Braymer city, 856
+Breckenridge city, 368
+Breckenridge Hills city, 4729
+Brentwood city, 8035
+Bridgeton city, 11630
+Brimson village, 64
+Bronaugh city, 246
+Brookfield city, 4434
+Brooklyn Heights town, 98
+Browning city, 260
+Brownington town, 106
+Brumley town, 91
+Brunswick city, 838
+Bucklin city, 455
+Buckner city, 3072
+Buffalo city, 3097
+Bull Creek village, 600
+Bunceton city, 349
+Bunker city, 408
+Burgess town, 57
+Burlington Junction city, 533
+Butler city, 4157
+Butterfield village, 466
+Byrnes Mill city, 2784
+Cabool city, 2132
+Cainsville city, 283
+Cairo village, 291
+Caledonia village, 134
+Calhoun city, 461
+California city, 4320
+Callao city, 290
+Calverton Park village, 1291
+Camden city, 188
+Camden Point city, 495
+Camdenton city, 3793
+Cameron city, 9881
+Campbell city, 1984
+Canalou city, 324
+Canton city, 2376
+Cape Girardeau city, 38544
+Cardwell city, 709
+Carl Junction city, 7410
+Carrollton city, 3691
+Carterville city, 1841
+Carthage city, 14095
+Caruthersville city, 6116
+Carytown city, 265
+Cassville city, 3261
+Catron town, 65
+Cave town, 5
+Cedar Hill Lakes village, 237
+Center city, 512
+Centertown town, 277
+Centerview city, 275
+Centerville city, 194
+Centralia city, 4136
+Chaffee city, 2950
+Chain of Rocks village, 94
+Chain-O-Lakes village, 130
+Chamois city, 393
+Champ village, 13
+Charlack city, 1362
+Charleston city, 5908
+Chesterfield city, 47684
+Chilhowee town, 335
+Chillicothe city, 9431
+Chula city, 206
+Clarence city, 792
+Clark city, 297
+Clarksburg city, 334
+Clarksdale city, 274
+Clarkson Valley city, 2639
+Clarksville city, 438
+Clarkton city, 1279
+Claycomo village, 1455
+Clayton city, 15910
+Clearmont city, 170
+Cleveland city, 658
+Clever city, 2300
+Cliff Village village, 41
+Clifton Hill city, 114
+Climax Springs village, 119
+Clinton city, 9043
+Clyde village, 82
+Cobalt village, 231
+Coffey city, 162
+Cole Camp city, 1114
+Collins village, 154
+Columbia city, 113225
+Commerce village, 67
+Conception Junction town, 198
+Concordia city, 2417
+Coney Island village, 73
+Conway city, 780
+Cool Valley city, 1194
+Cooter city, 461
+Corder city, 400
+Corning town, 14
+Cosby village, 125
+Cottleville city, 3523
+Country Club village, 2472
+Country Club Hills city, 1268
+Country Life Acres village, 74
+Cowgill city, 183
+Craig city, 236
+Crane city, 1421
+Creighton city, 346
+Crestwood city, 11926
+Creve Coeur city, 17855
+Crocker city, 1121
+Cross Timbers city, 212
+Crystal City city, 4830
+Crystal Lake Park city, 475
+Crystal Lakes city, 352
+Cuba city, 3379
+Curryville city, 225
+Dadeville village, 225
+Dalton town, 17
+Dardenne Prairie city, 12017
+Darlington village, 122
+Dearborn city, 504
+Deepwater city, 426
+Deerfield village, 80
+De Kalb town, 222
+Dellwood city, 5010
+Delta city, 440
+Dennis Acres village, 77
+Denver village, 38
+Des Arc village, 173
+Desloge city, 4984
+De Soto city, 6447
+Des Peres city, 8420
+De Witt city, 121
+Dexter city, 7881
+Diamond town, 922
+Diehlstadt village, 161
+Diggins village, 300
+Dixon city, 1571
+Doniphan city, 1994
+Doolittle city, 619
+Dover town, 102
+Downing city, 330
+Drexel city, 962
+Dudley city, 231
+Duenweg city, 1097
+Duquesne village, 1721
+Dutchtown village, 95
+Eagleville town, 308
+East Lynne city, 304
+Easton city, 238
+East Prairie city, 3200
+Edgar Springs city, 206
+Edgerton city, 559
+Edina city, 1160
+Edmundson city, 836
+Eldon city, 4582
+El Dorado Springs city, 3538
+Ellington city, 993
+Ellisville city, 9143
+Ellsinore city, 454
+Elmer city, 80
+Elmira village, 49
+Elmo city, 168
+Elsberry city, 1949
+Emerald Beach village, 227
+Eminence city, 590
+Emma city, 233
+Eolia village, 518
+Essex city, 466
+Ethel town, 62
+Eureka city, 10391
+Evergreen village, 28
+Everton city, 305
+Ewing city, 452
+Excelsior Estates village, 141
+Excelsior Springs city, 11288
+Exeter city, 769
+Fairfax city, 618
+Fair Grove city, 1412
+Fair Play city, 469
+Fairview town, 390
+Farber city, 319
+Farley village, 275
+Farmington city, 17203
+Fayette city, 2709
+Fenton city, 4037
+Ferguson city, 21135
+Ferrelview village, 460
+Festus city, 11740
+Fidelity town, 251
+Fillmore city, 186
+Fisk city, 341
+Fleming city, 126
+Flemington village, 147
+Flint Hill city, 503
+Flordell Hills city, 820
+Florissant city, 52252
+Foley city, 163
+Fordland city, 797
+Forest City city, 255
+Foristell city, 505
+Forsyth city, 2280
+Fortescue town, 30
+Foster village, 115
+Fountain N' Lakes village, 167
+Frankford city, 322
+Franklin city, 96
+Fredericktown city, 4069
+Freeburg village, 436
+Freeman city, 481
+Freistatt village, 163
+Fremont Hills city, 838
+Frohna city, 257
+Frontenac city, 3508
+Fulton city, 12728
+Gainesville city, 764
+Galena city, 426
+Gallatin city, 1744
+Galt city, 256
+Garden City city, 1639
+Gasconade city, 219
+Gentry village, 73
+Gerald city, 1329
+Gerster town, 24
+Gibbs village, 107
+Gideon city, 1058
+Gilliam city, 198
+Gilman City city, 372
+Ginger Blue village, 61
+Gladstone city, 25931
+Glasgow city, 1102
+Glenaire city, 558
+Glen Allen town, 85
+Glendale city, 5920
+Glen Echo Park village, 160
+Glenwood village, 194
+Golden City city, 760
+Goodman town, 1245
+Goodnight village, 18
+Gordonville village, 397
+Goss town, 0
+Gower city, 1505
+Graham town, 171
+Grain Valley city, 13030
+Granby city, 2161
+Grand Falls Plaza town, 116
+Grandin city, 244
+Grand Pass village, 66
+Grandview city, 24601
+Granger village, 34
+Grant City town, 821
+Grantwood Village town, 865
+Gravois Mills town, 141
+Greencastle city, 267
+Green City city, 639
+Greendale city, 653
+Greenfield city, 1315
+Green Park city, 2628
+Green Ridge city, 486
+Greentop city, 439
+Greenville city, 492
+Greenwood city, 5306
+Guilford town, 85
+Gunn City village, 118
+Hale city, 410
+Halfway village, 172
+Hallsville city, 1532
+Halltown village, 173
+Hamilton city, 1743
+Hanley Hills village, 2102
+Hannibal city, 17814
+Hardin city, 555
+Harris town, 60
+Harrisburg town, 271
+Harrisonville city, 10008
+Hartsburg town, 105
+Hartville city, 608
+Harwood village, 47
+Hawk Point city, 672
+Hayti city, 2899
+Hayti Heights city, 616
+Haywood City village, 206
+Hazelwood city, 25677
+Henrietta city, 364
+Herculaneum city, 3688
+Hermann city, 2393
+Hermitage city, 462
+Higbee city, 563
+Higginsville city, 4748
+High Hill city, 190
+Highlandville city, 916
+Hillsboro city, 2926
+Hillsdale village, 1505
+Hoberg village, 56
+Holcomb city, 631
+Holden city, 2313
+Holland town, 227
+Holliday village, 135
+Hollister city, 4416
+Holt city, 455
+Holts Summit city, 3366
+Homestead village, 184
+Homestown city, 150
+Hopkins city, 528
+Hornersville city, 659
+Houston city, 2084
+Houstonia city, 221
+Houston Lake city, 241
+Howardville city, 373
+Hughesville village, 184
+Humansville city, 1041
+Hume town, 330
+Humphreys village, 116
+Hunnewell city, 181
+Huntleigh city, 335
+Huntsdale town, 32
+Huntsville city, 1548
+Hurdland city, 162
+Hurley city, 174
+Iatan village, 46
+Iberia city, 736
+Independence city, 117270
+Indian Point village, 523
+Innsbrook village, 564
+Ionia town, 88
+Irena village, 17
+Irondale city, 451
+Iron Mountain Lake city, 723
+Ironton city, 1426
+Jackson city, 14180
+Jacksonville village, 150
+Jameson town, 130
+Jamesport city, 509
+Jamestown town, 387
+Jasper city, 907
+Jefferson City city, 43183
+Jennings city, 14740
+Jerico Springs village, 226
+Jonesburg city, 749
+Joplin city, 49526
+Josephville village, 377
+Junction City village, 332
+Kahoka city, 2049
+Kansas City city, 464310
+Kearney city, 8846
+Kelso village, 586
+Kennett city, 10902
+Keytesville city, 458
+Kidder city, 314
+Kimberling City city, 2340
+Kimmswick city, 157
+King City city, 1021
+Kingdom City village, 128
+Kingston city, 341
+Kingsville city, 277
+Kinloch city, 299
+Kirbyville village, 208
+Kirksville city, 17522
+Kirkwood city, 27553
+Knob Noster city, 2782
+Knox City city, 214
+Koshkonong town, 216
+La Belle city, 656
+Laclede city, 335
+Laddonia city, 511
+Ladue city, 8542
+La Grange city, 931
+Lake Annette city, 100
+Lake Lafayette city, 330
+Lake Lotawana city, 1953
+Lake Mykee Town village, 351
+Lake Ozark city, 1614
+Lake St. Louis city, 14687
+Lakeshire city, 1428
+Lake Tapawingo city, 729
+Lake Tekakwitha village, 254
+Lake Waukomis city, 891
+Lake Winnebago city, 1130
+Lamar city, 4514
+Lamar Heights city, 178
+La Monte city, 1141
+Lanagan town, 417
+Lancaster city, 717
+La Plata city, 1361
+Laredo city, 200
+La Russell city, 111
+Lathrop city, 2053
+Laurie city, 926
+Lawson city, 2431
+Leadington city, 413
+Leadwood city, 1255
+Leasburg village, 341
+Leawood village, 694
+Lebanon city, 14543
+Lee's Summit city, 92468
+Leeton city, 578
+Leonard village, 60
+Leslie village, 170
+Levasy city, 83
+Lewis and Clark Village town, 133
+Lewistown town, 530
+Lexington city, 4667
+Liberal city, 753
+Liberty city, 29811
+Licking city, 3077
+Lilbourn city, 1161
+Lincoln city, 1186
+Linn city, 1454
+Linn Creek city, 243
+Linneus city, 273
+Livonia village, 74
+Loch Lloyd village, 617
+Lock Springs village, 56
+Lockwood city, 903
+Lohman city, 163
+Loma Linda town, 760
+Lone Jack city, 1065
+Longtown town, 102
+Louisburg village, 123
+Louisiana city, 3331
+Lowry City city, 624
+Lucerne village, 84
+Ludlow town, 135
+Lupus town, 33
+Luray village, 97
+McBaine town, 10
+McCord Bend village, 286
+McFall city, 94
+Mackenzie village, 134
+McKittrick town, 60
+Macks Creek city, 243
+Macon city, 5500
+Madison city, 541
+Maitland city, 322
+Malden city, 4253
+Malta Bend town, 251
+Manchester city, 18165
+Mansfield city, 1285
+Maplewood city, 8017
+Marble Hill city, 1499
+Marceline city, 2185
+Marionville city, 2211
+Marlborough village, 2184
+Marquand city, 207
+Marshall city, 13033
+Marshfield city, 6686
+Marston city, 491
+Marthasville city, 1131
+Martinsburg town, 305
+Maryland Heights city, 27446
+Maryville city, 12015
+Matthews city, 639
+Maysville city, 1120
+Mayview city, 210
+Meadville city, 454
+Memphis city, 1839
+Mendon city, 168
+Mercer town, 313
+Merriam Woods village, 1755
+Merwin village, 57
+Meta city, 229
+Metz town, 48
+Mexico city, 11551
+Miami city, 176
+Middletown town, 163
+Milan city, 1909
+Milford village, 26
+Millard village, 89
+Miller city, 695
+Mill Spring village, 184
+Milo village, 89
+Mindenmines city, 362
+Miner city, 979
+Mineral Point town, 356
+Miramiguoa Park village, 119
+Missouri City city, 274
+Moberly city, 13987
+Mokane city, 185
+Moline Acres city, 2436
+Monett city, 8922
+Monroe City city, 2485
+Montgomery City city, 2793
+Monticello village, 98
+Montrose city, 380
+Mooresville village, 89
+Morehouse city, 945
+Morley city, 693
+Morrison city, 137
+Morrisville town, 387
+Mosby city, 195
+Moscow Mills city, 2525
+Mound City city, 1101
+Moundville town, 123
+Mountain Grove city, 4756
+Mountain View city, 2719
+Mount Leonard town, 87
+Mount Moriah town, 85
+Mount Vernon city, 4554
+Napoleon city, 220
+Naylor city, 628
+Neck City city, 182
+Neelyville city, 483
+Nelson city, 193
+Neosho city, 12121
+Nevada city, 8171
+Newark village, 93
+New Bloomfield city, 676
+Newburg city, 461
+New Cambria city, 196
+New Florence city, 751
+New Franklin city, 1087
+New Hampton city, 284
+New Haven city, 2096
+New London city, 981
+New Madrid city, 3052
+New Melle city, 477
+Newtonia town, 202
+Newtown town, 179
+Niangua city, 404
+Nixa city, 19858
+Noel city, 1824
+Norborne city, 689
+Normandy city, 4993
+North Kansas City city, 4287
+North Lilbourn village, 48
+Northmoor city, 328
+Northwoods city, 4208
+Norwood city, 656
+Norwood Court town, 961
+Novelty village, 138
+Novinger city, 452
+Oak Grove city, 7852
+Oak Grove Village village, 502
+Oakland city, 1379
+Oak Ridge town, 247
+Oaks village, 132
+Oakview village, 384
+Oakwood village, 192
+Oakwood Park village, 193
+Odessa city, 5242
+O'Fallon city, 81979
+Old Appleton town, 86
+Old Monroe city, 275
+Olean town, 129
+Olivette city, 7785
+Olympian Village city, 768
+Oran city, 1282
+Oregon city, 814
+Oronogo city, 2324
+Orrick city, 821
+Osage Beach city, 4362
+Osborn city, 422
+Osceola city, 916
+Osgood village, 47
+Otterville city, 451
+Overland city, 16006
+Owensville city, 2635
+Ozark city, 18348
+Pacific city, 7031
+Pagedale city, 3303
+Palmyra city, 3610
+Paris city, 1201
+Parkdale village, 170
+Park Hills city, 8743
+Parkville city, 5777
+Parkway village, 435
+Parma city, 679
+Parnell city, 191
+Pasadena Hills city, 924
+Pasadena Park village, 467
+Pascola village, 107
+Passaic town, 33
+Pattonsburg city, 343
+Paynesville village, 77
+Peaceful Village village, 9
+Peculiar city, 4794
+Pendleton village, 43
+Penermon village, 64
+Perry city, 702
+Perryville city, 8262
+Pevely city, 5556
+Phillipsburg village, 201
+Pickering town, 160
+Piedmont city, 1966
+Pierce City city, 1284
+Pierpont village, 77
+Pilot Grove city, 762
+Pilot Knob city, 725
+Pine Lawn city, 3261
+Pineville city, 788
+Pinhook village, 30
+Plato village, 109
+Platte City city, 4783
+Platte Woods city, 394
+Plattsburg city, 2290
+Pleasant Hill city, 8179
+Pleasant Hope city, 612
+Pleasant Valley city, 3015
+Pocahontas town, 116
+Pollock village, 87
+Polo city, 554
+Poplar Bluff city, 17169
+Portage Des Sioux city, 329
+Portageville city, 3160
+Potosi city, 2658
+Powersville village, 60
+Prairie Home city, 279
+Prathersville village, 127
+Preston village, 219
+Princeton city, 1148
+Purcell city, 397
+Purdin city, 187
+Purdy city, 1095
+Puxico city, 873
+Queen City city, 589
+Quitman town, 45
+Qulin city, 458
+Randolph village, 53
+Ravenwood town, 435
+Raymondville town, 362
+Raymore city, 19550
+Raytown city, 29513
+Rayville village, 219
+Rea city, 50
+Redings Mill village, 154
+Reeds town, 93
+Reeds Spring city, 903
+Renick village, 172
+Rensselaer village, 231
+Republic city, 15371
+Revere town, 77
+Rhineland town, 139
+Richards town, 96
+Rich Hill city, 1362
+Richland city, 1887
+Richmond city, 5681
+Richmond Heights city, 8566
+Ridgely village, 107
+Ridgeway city, 453
+Risco city, 337
+Ritchey town, 83
+River Bend village, 10
+Riverside city, 3011
+Riverview village, 2844
+Riverview Estates village, 82
+Rives town, 63
+Rocheport city, 243
+Rockaway Beach city, 845
+Rock Hill city, 4636
+Rock Port city, 1281
+Rockville city, 163
+Rogersville city, 3218
+Rolla city, 19789
+Roscoe village, 120
+Rosebud city, 410
+Rosendale city, 144
+Rothville village, 97
+Rush Hill village, 152
+Rushville town, 279
+Russellville city, 801
+Rutledge town, 110
+Saddlebrooke village, 213
+Saginaw village, 304
+St. Ann city, 12978
+St. Charles city, 66463
+St. Clair city, 4702
+St. Cloud village, 41
+Ste. Genevieve city, 4316
+St. Elizabeth village, 338
+St. James city, 4166
+St. John city, 6494
+St. Joseph city, 77176
+St. Louis city, 318172
+St. Martins city, 1158
+St. Mary city, 350
+St. Paul city, 1806
+St. Peters city, 54078
+St. Robert city, 4563
+St. Thomas town, 267
+Salem city, 4964
+Salisbury city, 1578
+Sarcoxie city, 1297
+Savannah city, 5105
+Schell City city, 246
+Scotsdale town, 222
+Scott City city, 4547
+Sedalia city, 21476
+Sedgewickville village, 174
+Seligman city, 844
+Senath city, 1763
+Seneca city, 2390
+Seymour city, 1928
+Shelbina city, 1669
+Shelbyville city, 538
+Sheldon city, 534
+Sheridan town, 187
+Shoal Creek Drive village, 343
+Shoal Creek Estates village, 98
+Shrewsbury city, 6243
+Sibley village, 359
+Sikeston city, 16330
+Silex village, 236
+Silver Creek village, 631
+Skidmore city, 284
+Slater city, 1852
+Smithton city, 568
+Smithville city, 8768
+South Gifford village, 50
+South Gorin town, 92
+South Greenfield village, 87
+South Lineville town, 28
+Southwest City town, 960
+Sparta city, 1778
+Spickard city, 257
+Springfield city, 162191
+Stanberry city, 1196
+Stark City town, 141
+Steele city, 2172
+Steelville city, 1683
+Stella town, 161
+Stewartsville city, 752
+Stockton city, 1811
+Stotesbury town, 18
+Stotts City city, 220
+Stoutland city, 191
+Stoutsville village, 46
+Stover city, 1071
+Strafford city, 2364
+Strasburg city, 142
+Sturgeon city, 894
+Sugar Creek city, 3341
+Sullivan city, 7074
+Summersville city, 500
+Sumner town, 100
+Sunrise Beach village, 429
+Sunset Hills city, 8516
+Sweet Springs city, 1482
+Sycamore Hills village, 667
+Syracuse city, 169
+Tallapoosa city, 164
+Taneyville village, 393
+Taos city, 1089
+Tarkio city, 1534
+Thayer city, 2255
+Theodosia village, 249
+Three Creeks village, 6
+Tightwad village, 69
+Tina village, 154
+Tindall town, 78
+Tipton city, 3226
+Town and Country city, 10866
+Tracy city, 213
+Trenton city, 6037
+Trimble city, 634
+Triplett city, 40
+Troy city, 10930
+Truesdale city, 721
+Truxton village, 92
+Turney village, 146
+Tuscumbia town, 204
+Twin Oaks village, 393
+Umber View Heights village, 47
+Union city, 10456
+Union Star town, 437
+Unionville city, 1841
+Unity Village village, 77
+University City city, 35228
+Uplands Park village, 446
+Urbana city, 418
+Urich city, 497
+Utica village, 264
+Valley Park city, 6968
+Van Buren town, 826
+Vandalia city, 4017
+Vandiver village, 71
+Vanduser village, 272
+Velda City city, 1413
+Velda Village Hills village, 1053
+Verona town, 614
+Versailles city, 2431
+Viburnum city, 678
+Vienna city, 600
+Village of Four Seasons village, 2208
+Vinita Park city, 1880
+Vinita Terrace village, 278
+Vista village, 53
+Waco city, 85
+Walker city, 267
+Walnut Grove city, 701
+Wardell town, 419
+Wardsville village, 1523
+Warrensburg city, 19687
+Warrenton city, 7987
+Warsaw city, 2124
+Warson Woods city, 1957
+Washburn city, 434
+Washington city, 13918
+Watson village, 97
+Waverly city, 838
+Wayland city, 517
+Waynesville city, 5137
+Weatherby town, 108
+Weatherby Lake city, 1775
+Weaubleau city, 407
+Webb City city, 10841
+Webster Groves city, 23055
+Weldon Spring city, 5477
+Weldon Spring Heights town, 91
+Wellington city, 801
+Wellston city, 2342
+Wellsville city, 1186
+Wentworth village, 149
+Wentzville city, 31216
+West Alton city, 524
+Westboro city, 137
+West Line village, 97
+Weston city, 1690
+Westphalia city, 390
+West Plains city, 12270
+West Sullivan town, 120
+Westwood village, 279
+Wheatland city, 363
+Wheaton city, 695
+Wheeling city, 268
+Whiteside village, 76
+Whitewater town, 127
+Wilbur Park village, 472
+Wildwood city, 35698
+Willard city, 5403
+Williamsville city, 339
+Willow Springs city, 2181
+Wilson City village, 117
+Winchester city, 1546
+Windsor city, 2863
+Windsor Place village, 329
+Winfield city, 1411
+Winona city, 1317
+Winston village, 253
+Wood Heights city, 708
+Woodson Terrace city, 4064
+Wooldridge village, 61
+Worth village, 61
+Worthington village, 81
+Wright City city, 3314
+Wyaconda city, 219
+Wyatt city, 315
+Zalma village, 91

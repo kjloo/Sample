@@ -1,0 +1,271 @@
+Aguilar town, 518
+Akron town, 1686
+Alamosa city, 9433
+Alma town, 267
+Antonito town, 779
+Arriba town, 193
+Arvada city, 109745
+Aspen city, 6680
+Ault town, 1555
+Aurora city, 339030
+Avon town, 6345
+Basalt town, 3826
+Bayfield town, 2433
+Bennett town, 2379
+Berthoud town, 5267
+Bethune town, 242
+Black Hawk city, 119
+Blanca town, 383
+Blue River town, 853
+Bonanza town, 16
+Boone town, 342
+Boulder city, 101808
+Bow Mar town, 892
+Branson town, 72
+Breckenridge town, 4564
+Brighton city, 34636
+Brookside town, 239
+Broomfield city, 58298
+Brush city, 5513
+Buena Vista town, 2662
+Burlington city, 4013
+Calhan town, 798
+Campo town, 109
+Cañon City city, 16462
+Carbondale town, 6489
+Castle Pines city, 10651
+Castle Rock town, 51348
+Cedaredge town, 2206
+Centennial city, 103743
+Center town, 2271
+Central City city, 673
+Cheraw town, 251
+Cherry Hills Village city, 6226
+Cheyenne Wells town, 864
+City of Creede town, 286
+Coal Creek town, 343
+Cokedale town, 125
+Collbran town, 705
+Colorado Springs city, 431834
+Columbine Valley town, 1301
+Commerce City city, 48421
+Cortez city, 8474
+Craig city, 9046
+Crawford town, 420
+Crested Butte town, 1503
+Crestone town, 132
+Cripple Creek city, 1183
+Crook town, 109
+Crowley town, 173
+Dacono city, 4324
+De Beque town, 502
+Deer Trail town, 561
+Del Norte town, 1678
+Delta city, 8818
+Denver city, 634265
+Dillon town, 907
+Dinosaur town, 322
+Dolores town, 931
+Dove Creek town, 710
+Durango city, 17216
+Eads town, 622
+Eagle town, 6474
+Eaton town, 4526
+Eckley town, 256
+Edgewater city, 5222
+Elizabeth town, 1364
+Empire town, 280
+Englewood city, 31177
+Erie town, 19272
+Estes Park town, 6017
+Evans city, 19576
+Fairplay town, 670
+Federal Heights city, 11794
+Firestone town, 10903
+Flagler town, 570
+Fleming town, 402
+Florence city, 3888
+Fort Collins city, 148612
+Fort Lupton city, 7592
+Fort Morgan city, 11451
+Fountain city, 26891
+Fowler town, 1171
+Foxfield town, 714
+Fraser town, 1156
+Frederick town, 9400
+Frisco town, 2727
+Fruita city, 12696
+Garden City town, 241
+Genoa town, 139
+Georgetown town, 1023
+Gilcrest town, 1059
+Glendale city, 4459
+Glenwood Springs city, 9677
+Golden city, 19186
+Granada town, 507
+Granby town, 1764
+Grand Junction city, 59899
+Grand Lake town, 452
+Greeley city, 95357
+Green Mountain Falls town, 661
+Greenwood Village city, 14454
+Grover town, 141
+Gunnison city, 5892
+Gypsum town, 6515
+Hartman town, 75
+Haswell town, 70
+Haxtun town, 932
+Hayden town, 1786
+Hillrose town, 261
+Holly town, 784
+Holyoke city, 2271
+Hooper town, 104
+Hotchkiss town, 923
+Hot Sulphur Springs town, 638
+Hudson town, 2380
+Hugo town, 726
+Idaho Springs city, 1692
+Ignacio town, 708
+Iliff town, 263
+Jamestown town, 281
+Johnstown town, 11051
+Julesburg town, 1227
+Keenesburg town, 1161
+Kersey town, 1489
+Kim town, 72
+Kiowa town, 716
+Kit Carson town, 237
+Kremmling town, 1383
+Lafayette city, 25733
+La Jara town, 815
+La Junta city, 7046
+Lake City town, 391
+Lakeside town, 8
+Lakewood city, 145516
+Lamar city, 7836
+Larkspur town, 192
+La Salle town, 2003
+Las Animas city, 2302
+La Veta town, 778
+Leadville city, 2594
+Limon town, 1868
+Littleton city, 43775
+Lochbuie town, 5197
+Log Lane Village town, 878
+Lone Tree city, 11852
+Longmont city, 88669
+Louisville city, 19074
+Loveland city, 70223
+Lyons town, 2092
+Manassa town, 986
+Mancos town, 1341
+Manitou Springs city, 5172
+Manzanola town, 428
+Marble town, 131
+Mead town, 3775
+Meeker town, 2509
+Merino town, 283
+Milliken town, 5787
+Minturn town, 1026
+Moffat town, 119
+Monte Vista city, 4431
+Montezuma town, 65
+Montrose city, 18981
+Monument town, 5742
+Morrison town, 433
+Mountain View town, 512
+Mountain Village town, 1349
+Mount Crested Butte town, 799
+Naturita town, 534
+Nederland town, 1478
+New Castle town, 4551
+Northglenn city, 36891
+Norwood town, 532
+Nucla town, 695
+Nunn town, 428
+Oak Creek town, 873
+Olathe town, 1809
+Olney Springs town, 336
+Ophir town, 162
+Orchard City town, 3065
+Ordway town, 1058
+Otis town, 468
+Ouray city, 1014
+Ovid town, 317
+Pagosa Springs town, 1713
+Palisade town, 2644
+Palmer Lake town, 2512
+Paoli town, 34
+Paonia town, 1425
+Parachute town, 1095
+Parker town, 47169
+Peetz town, 237
+Pierce town, 854
+Pitkin town, 66
+Platteville town, 2557
+Poncha Springs town, 748
+Pritchett town, 139
+Pueblo city, 107772
+Ramah town, 126
+Rangely town, 2453
+Raymer (New Raymer) town, 99
+Red Cliff town, 263
+Rico town, 256
+Ridgway town, 931
+Rifle city, 9267
+Rockvale town, 497
+Rocky Ford city, 3920
+Romeo town, 400
+Rye town, 155
+Saguache town, 493
+Salida city, 5317
+Sanford town, 876
+San Luis town, 631
+Sawpit town, 41
+Sedgwick town, 147
+Seibert town, 184
+Severance town, 3331
+Sheridan city, 5830
+Sheridan Lake town, 91
+Silt town, 2972
+Silver Cliff town, 582
+Silver Plume town, 169
+Silverthorne town, 3915
+Silverton town, 628
+Simla town, 619
+Snowmass Village town, 2844
+South Fork town, 376
+Springfield town, 1441
+Starkville town, 57
+Steamboat Springs city, 12029
+Sterling city, 14727
+Stratton town, 669
+Sugar City town, 251
+Superior town, 12782
+Swink town, 611
+Telluride town, 2291
+Thornton city, 124140
+Timnath town, 1157
+Trinidad city, 8771
+Two Buttes town, 43
+Vail town, 5253
+Victor city, 396
+Vilas town, 113
+Vona town, 108
+Walden town, 585
+Walsenburg city, 2977
+Walsh town, 540
+Ward town, 154
+Wellington town, 6514
+Westcliffe town, 563
+Westminster city, 109169
+Wheat Ridge city, 30717
+Wiggins town, 906
+Wiley town, 397
+Williamsburg town, 667
+Windsor town, 19751
+Winter Park town, 944
+Woodland Park city, 7189
+Wray city, 2364
+Yampa town, 425
+Yuma city, 3551

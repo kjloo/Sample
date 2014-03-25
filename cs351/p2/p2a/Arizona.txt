@@ -1,0 +1,91 @@
+Apache Junction city, 36613
+Avondale city, 78256
+Benson city, 5090
+Bisbee city, 5498
+Buckeye town, 54542
+Bullhead City city, 39571
+Camp Verde town, 10925
+Carefree town, 3447
+Casa Grande city, 49974
+Cave Creek town, 5170
+Chandler city, 245628
+Chino Valley town, 10839
+Clarkdale town, 4091
+Clifton town, 3447
+Colorado City town, 4830
+Coolidge city, 11882
+Cottonwood city, 11279
+Dewey-Humboldt town, 3913
+Douglas city, 17270
+Duncan town, 740
+Eagar town, 5003
+El Mirage city, 32574
+Eloy city, 17448
+Flagstaff city, 67468
+Florence town, 26754
+Fountain Hills town, 23031
+Fredonia town, 1320
+Gila Bend town, 1964
+Gilbert town, 221140
+Glendale city, 232143
+Globe city, 7457
+Goodyear city, 69648
+Guadalupe town, 6001
+Hayden town, 652
+Holbrook city, 5005
+Huachuca City town, 1822
+Jerome town, 444
+Kearny town, 2007
+Kingman city, 28336
+Lake Havasu City city, 52819
+Litchfield Park city, 5171
+Mammoth town, 1470
+Marana town, 36756
+Maricopa city, 44803
+Mesa city, 452084
+Miami town, 1800
+Nogales city, 20751
+Oro Valley town, 41388
+Page city, 7316
+Paradise Valley town, 13154
+Parker town, 3027
+Patagonia town, 905
+Payson town, 15215
+Peoria city, 159789
+Phoenix city, 1488750
+Pima town, 2415
+Pinetop-Lakeside town, 4272
+Prescott city, 40308
+Prescott Valley town, 39114
+Quartzsite town, 3654
+Queen Creek town, 27963
+Safford city, 9479
+Sahuarita town, 26289
+St. Johns city, 3560
+San Luis city, 26418
+Scottsdale city, 223514
+Sedona city, 10037
+Show Low city, 10724
+Sierra Vista city, 46351
+Snowflake town, 5564
+Somerton city, 14854
+South Tucson city, 5684
+Springerville town, 1997
+Star Valley town, 2287
+Superior town, 2900
+Surprise city, 121287
+Taylor town, 4106
+Tempe city, 166842
+Thatcher town, 4899
+Tolleson city, 6704
+Tombstone city, 1358
+Tucson city, 524295
+Tusayan town, 555
+Wellton town, 2912
+Wickenburg town, 6532
+Willcox city, 3698
+Williams city, 3020
+Winkelman town, 348
+Winslow city, 9409
+Youngtown town, 6290
+Yuma city, 95429

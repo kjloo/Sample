@@ -1,0 +1,324 @@
+Absecon city, 8387
+Allendale borough, 6657
+Allenhurst borough, 494
+Allentown borough, 1816
+Alpha borough, 2327
+Alpine borough, 1933
+Andover borough, 595
+Asbury Park city, 15865
+Atlantic City city, 39504
+Atlantic Highlands borough, 4361
+Audubon borough, 8784
+Audubon Park borough, 1019
+Avalon borough, 1315
+Avon-by-the-Sea borough, 1913
+Barnegat Light borough, 577
+Barrington borough, 6895
+Bay Head borough, 983
+Bayonne city, 64416
+Beach Haven borough, 1177
+Beachwood borough, 11100
+Bellmawr borough, 11547
+Belmar borough, 5751
+Belvidere town, 2634
+Bergenfield borough, 27017
+Berlin borough, 7606
+Bernardsville borough, 7755
+Beverly city, 2573
+Bloomingdale borough, 7688
+Bloomsbury borough, 854
+Bogota borough, 8261
+Boonton town, 8465
+Bordentown city, 3916
+Bound Brook borough, 10702
+Bradley Beach borough, 4300
+Branchville borough, 825
+Bridgeton city, 25290
+Brielle borough, 4783
+Brigantine city, 9420
+Brooklawn borough, 1947
+Buena borough, 4565
+Burlington city, 9879
+Butler borough, 7595
+Caldwell borough, 7854
+Califon borough, 1054
+Camden city, 77250
+Cape May city, 3570
+Cape May Point borough, 287
+Carlstadt borough, 6319
+Carteret borough, 24062
+Chatham borough, 9072
+Chesilhurst borough, 1643
+Chester borough, 1838
+Clayton borough, 8175
+Clementon borough, 5003
+Cliffside Park borough, 23872
+Clifton city, 84722
+Clinton town, 2669
+Closter borough, 8498
+Collingswood borough, 13869
+Corbin City city, 502
+Cresskill borough, 8650
+Deal borough, 746
+Demarest borough, 4967
+Dover town, 18307
+Dumont borough, 17645
+Dunellen borough, 7397
+East Newark borough, 2441
+East Orange city, 64268
+East Rutherford borough, 8978
+Eatontown borough, 12431
+Edgewater borough, 11972
+Egg Harbor City city, 4299
+Elizabeth city, 126458
+Elmer borough, 1383
+Elmwood Park borough, 19890
+Emerson borough, 7706
+Englewood city, 27605
+Englewood Cliffs borough, 5337
+Englishtown borough, 1909
+Essex Fells borough, 2185
+Estell Manor city, 1734
+Fair Haven borough, 6088
+Fair Lawn borough, 32847
+Fairview borough, 14217
+Fanwood borough, 7410
+Far Hills borough, 923
+Farmingdale borough, 1314
+Fieldsboro borough, 532
+Flemington borough, 4635
+Florham Park borough, 11860
+Folsom borough, 1873
+Fort Lee borough, 35732
+Franklin borough, 4945
+Franklin Lakes borough, 10697
+Freehold borough, 12097
+Frenchtown borough, 1354
+Garfield city, 30872
+Garwood borough, 4521
+Gibbsboro borough, 2261
+Glassboro borough, 18897
+Glen Gardner borough, 1675
+Glen Ridge borough, 7594
+Glen Rock borough, 11799
+Gloucester City city, 11440
+Guttenberg town, 11356
+Hackensack city, 43845
+Hackettstown town, 9769
+Haddonfield borough, 11577
+Haddon Heights borough, 7611
+Haledon borough, 8546
+Hamburg borough, 3208
+Hammonton town, 14751
+Hampton borough, 1373
+Harrington Park borough, 4807
+Harrison town, 13874
+Harvey Cedars borough, 344
+Hasbrouck Heights borough, 11936
+Haworth borough, 3403
+Hawthorne borough, 18888
+Helmetta borough, 2192
+High Bridge borough, 3581
+Highland Park borough, 14299
+Highlands borough, 4978
+Hightstown borough, 5549
+Hillsdale borough, 10346
+Hi-Nella borough, 867
+Hoboken city, 52034
+Ho-Ho-Kus borough, 4140
+Hopatcong borough, 14927
+Hopewell borough, 1921
+Interlaken borough, 821
+Island Heights borough, 1673
+Jamesburg borough, 5963
+Jersey City city, 254441
+Keansburg borough, 10013
+Kearny town, 41389
+Kenilworth borough, 8025
+Keyport borough, 7233
+Kinnelon borough, 10404
+Lake Como borough, 1738
+Lakehurst borough, 2664
+Lambertville city, 3837
+Laurel Springs borough, 1900
+Lavallette borough, 1878
+Lawnside borough, 2934
+Lebanon borough, 2002
+Leonia borough, 9018
+Lincoln Park borough, 10524
+Linden city, 40880
+Lindenwold borough, 17783
+Linwood city, 7090
+Little Ferry borough, 10730
+Little Silver borough, 5982
+Loch Arbour village, 193
+Lodi borough, 24360
+Long Branch city, 30646
+Longport borough, 887
+Madison borough, 16128
+Magnolia borough, 4352
+Manasquan borough, 5871
+Mantoloking borough, 297
+Manville borough, 10399
+Margate City city, 6328
+Matawan borough, 8762
+Maywood borough, 9588
+Medford Lakes borough, 4185
+Mendham borough, 5018
+Merchantville borough, 3819
+Metuchen borough, 13691
+Middlesex borough, 13737
+Midland Park borough, 7227
+Milford borough, 1208
+Millstone borough, 417
+Milltown borough, 6946
+Millville city, 28619
+Monmouth Beach borough, 3279
+Montvale borough, 7959
+Moonachie borough, 2734
+Morris Plains borough, 5714
+Morristown town, 18523
+Mountain Lakes borough, 4275
+Mountainside borough, 6779
+Mount Arlington borough, 5259
+Mount Ephraim borough, 4674
+National Park borough, 3013
+Neptune City borough, 4840
+Netcong borough, 3268
+Newark city, 277727
+New Brunswick city, 56160
+Newfield borough, 1540
+New Milford borough, 16504
+New Providence borough, 12385
+Newton town, 7856
+North Arlington borough, 15533
+North Caldwell borough, 6340
+Northfield city, 8641
+North Haledon borough, 8442
+North Plainfield borough, 22013
+Northvale borough, 4848
+North Wildwood city, 3989
+Norwood borough, 5815
+Oakland borough, 12873
+Oaklyn borough, 4022
+Ocean City city, 11527
+Ocean Gate borough, 2023
+Oceanport borough, 5833
+Ogdensburg borough, 2376
+Old Tappan borough, 5843
+Oradell borough, 8083
+Palisades Park borough, 19936
+Palmyra borough, 7410
+Paramus borough, 26532
+Park Ridge borough, 8863
+Passaic city, 70218
+Paterson city, 145219
+Paulsboro borough, 6041
+Peapack and Gladstone borough, 2570
+Pemberton borough, 1396
+Pennington borough, 2583
+Penns Grove borough, 5090
+Perth Amboy city, 51744
+Phillipsburg town, 14699
+Pine Beach borough, 2137
+Pine Hill borough, 10571
+Pine Valley borough, 12
+Pitman borough, 8939
+Plainfield city, 50244
+Pleasantville city, 20750
+Point Pleasant borough, 18449
+Point Pleasant Beach borough, 4676
+Pompton Lakes borough, 11137
+Port Republic city, 1114
+Princeton borough, 12339
+Prospect Park borough, 5888
+Rahway city, 27785
+Ramsey borough, 14727
+Raritan borough, 7242
+Red Bank borough, 12187
+Ridgefield borough, 11255
+Ridgefield Park village, 12864
+Ridgewood village, 25205
+Ringwood borough, 12334
+Riverdale borough, 3935
+River Edge borough, 11464
+Riverton borough, 2794
+Rockaway borough, 6486
+Rockleigh borough, 530
+Rocky Hill borough, 685
+Roosevelt borough, 874
+Roseland borough, 5884
+Roselle borough, 21299
+Roselle Park borough, 13512
+Rumson borough, 7044
+Runnemede borough, 8451
+Rutherford borough, 18219
+Saddle River borough, 3178
+Salem city, 5165
+Sayreville borough, 43761
+Sea Bright borough, 1388
+Sea Girt borough, 1805
+Sea Isle City city, 2099
+Seaside Heights borough, 2892
+Seaside Park borough, 1587
+Secaucus town, 18351
+Shiloh borough, 514
+Ship Bottom borough, 1158
+Shrewsbury borough, 3909
+Somerdale borough, 5238
+Somers Point city, 10804
+Somerville borough, 12160
+South Amboy city, 8721
+South Bound Brook borough, 4814
+South Plainfield borough, 23669
+South River borough, 16137
+South Toms River borough, 3696
+Spotswood borough, 8403
+Spring Lake borough, 2993
+Spring Lake Heights borough, 4689
+Stanhope borough, 3548
+Stockton borough, 536
+Stone Harbor borough, 854
+Stratford borough, 6987
+Summit city, 21828
+Surf City borough, 1207
+Sussex borough, 2108
+Swedesboro borough, 2833
+Tavistock borough, 5
+Tenafly borough, 14635
+Teterboro borough, 70
+Tinton Falls borough, 17869
+Totowa borough, 10932
+Trenton city, 84477
+Tuckerton borough, 3365
+Union Beach borough, 6211
+Union City city, 67744
+Upper Saddle River borough, 8285
+Ventnor City city, 10615
+Victory Gardens borough, 1531
+Vineland city, 60854
+Waldwick borough, 9857
+Wallington borough, 11592
+Wanaque borough, 11148
+Washington borough, 6420
+Watchung borough, 5836
+Wenonah borough, 2264
+West Cape May borough, 1022
+Westfield town, 30639
+West Long Branch borough, 8516
+West New York town, 51464
+Westville borough, 4252
+West Wildwood borough, 592
+Westwood borough, 11011
+Wharton borough, 6577
+Wildwood city, 5251
+Wildwood Crest borough, 3234
+Woodbine borough, 2462
+Woodbury city, 10085
+Woodbury Heights borough, 3029
+Woodcliff Lake borough, 5827
+Woodland Park borough, 12428
+Woodlynne borough, 2966
+Wood-Ridge borough, 8358
+Woodstown borough, 3514
+Wrightstown borough, 801

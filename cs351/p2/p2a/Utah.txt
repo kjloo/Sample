@@ -1,0 +1,245 @@
+Alpine city, 9853
+Alta town, 389
+Altamont town, 233
+Alton town, 118
+Amalga town, 497
+American Fork city, 27147
+Annabella town, 797
+Antimony town, 119
+Apple Valley town, 719
+Aurora city, 1017
+Ballard town, 868
+Bear River City city, 835
+Beaver city, 3072
+Bicknell town, 325
+Big Water town, 472
+Blanding city, 3504
+Bluffdale city, 7975
+Boulder town, 220
+Bountiful city, 42898
+Brian Head town, 84
+Brigham City city, 18149
+Bryce Canyon City town, 196
+Cannonville town, 163
+Castle Dale city, 1624
+Castle Valley town, 324
+Cedar City city, 29118
+Cedar Fort town, 375
+Cedar Hills city, 10063
+Centerfield town, 1372
+Centerville city, 16203
+Central Valley town, 528
+Charleston town, 431
+Circleville town, 538
+Clarkston town, 679
+Clawson town, 165
+Clearfield city, 30376
+Cleveland town, 466
+Clinton city, 20805
+Coalville city, 1398
+Corinne city, 690
+Cornish town, 294
+Cottonwood Heights city, 34017
+Daniel town, 1010
+Delta city, 3457
+Deweyville town, 325
+Draper city, 44103
+Duchesne city, 1733
+Eagle Mountain city, 23212
+East Carbon city, 1277
+Elk Ridge city, 2690
+Elmo town, 418
+Elsinore town, 845
+Elwood town, 1029
+Emery town, 286
+Enoch city, 5992
+Enterprise city, 1752
+Ephraim city, 6146
+Escalante city, 783
+Eureka city, 667
+Fairfield town, 121
+Fairview city, 1252
+Farmington city, 20750
+Farr West city, 6122
+Fayette town, 243
+Ferron city, 1626
+Fielding town, 444
+Fillmore city, 2489
+Fountain Green city, 1077
+Francis town, 1120
+Fruit Heights city, 5302
+Garden City town, 567
+Garland city, 2360
+Genola town, 1390
+Glendale town, 379
+Glenwood town, 464
+Goshen town, 933
+Grantsville city, 9379
+Green River city, 949
+Gunnison city, 3250
+Hanksville town, 214
+Harrisville city, 5804
+Hatch town, 129
+Heber city, 12260
+Helper city, 2189
+Henefer town, 805
+Henrieville town, 224
+Herriman city, 24433
+Hideout town, 678
+Highland city, 16440
+Hildale city, 2921
+Hinckley town, 694
+Holden town, 375
+Holladay city, 26936
+Honeyville city, 1423
+Hooper city, 7722
+Howell town, 245
+Huntington city, 2111
+Huntsville town, 612
+Hurricane city, 14362
+Hyde Park city, 4054
+Hyrum city, 7758
+Independence town, 169
+Ivins city, 7171
+Joseph town, 342
+Junction town, 187
+Kamas city, 1899
+Kanab city, 4410
+Kanarraville town, 356
+Kanosh town, 472
+Kaysville city, 28283
+Kingston town, 169
+Koosharem town, 327
+Laketown town, 250
+La Verkin city, 4146
+Layton city, 68677
+Leamington town, 227
+Leeds town, 837
+Lehi city, 51173
+Levan town, 852
+Lewiston city, 1774
+Lindon city, 10442
+Loa town, 564
+Logan city, 48879
+Lyman town, 252
+Lynndyl town, 107
+Manila town, 313
+Manti city, 3300
+Mantua town, 673
+Mapleton city, 8442
+Marriott-Slaterville city, 1727
+Marysvale town, 392
+Mayfield town, 499
+Meadow town, 311
+Mendon city, 1272
+Midvale city, 30229
+Midway city, 4023
+Milford city, 1368
+Millville city, 1867
+Minersville town, 886
+Moab city, 5093
+Mona city, 1558
+Monroe city, 2260
+Monticello city, 1980
+Morgan city, 3728
+Moroni city, 1429
+Mount Pleasant city, 3278
+Murray city, 48263
+Myton city, 584
+Naples city, 1883
+Nephi city, 5438
+New Harmony town, 211
+Newton town, 787
+Nibley city, 5827
+North Logan city, 8765
+North Ogden city, 17791
+North Salt Lake city, 16717
+Oak City town, 584
+Oakley city, 1524
+Ogden city, 83793
+Ophir town, 40
+Orangeville city, 1466
+Orderville town, 576
+Orem city, 90749
+Panguitch city, 1508
+Paradise town, 922
+Paragonah town, 492
+Park City city, 7873
+Parowan city, 2827
+Payson city, 18938
+Perry city, 4484
+Plain City city, 5887
+Pleasant Grove city, 34519
+Pleasant View city, 8340
+Plymouth town, 411
+Portage town, 247
+Price city, 8621
+Providence city, 7119
+Provo city, 115919
+Randolph town, 463
+Redmond town, 732
+Richfield city, 7520
+Richmond city, 2514
+Riverdale city, 8560
+River Heights city, 1769
+Riverton city, 40398
+Rockville town, 251
+Rocky Ridge town, 744
+Roosevelt city, 6310
+Roy city, 37604
+Rush Valley town, 466
+St. George city, 75561
+Salem city, 6762
+Salina city, 2492
+Salt Lake City city, 189314
+Sandy city, 89344
+Santa Clara city, 6277
+Santaquin city, 9674
+Saratoga Springs city, 21137
+Scipio town, 326
+Scofield town, 24
+Sigurd town, 432
+Smithfield city, 9988
+Snowville town, 169
+South Jordan city, 55934
+South Ogden city, 16738
+South Salt Lake city, 24366
+South Weber city, 6372
+Spanish Fork city, 36277
+Spring City city, 994
+Springdale town, 547
+Springville city, 30621
+Sterling town, 274
+Stockton town, 615
+Sunnyside city, 374
+Sunset city, 5136
+Syracuse city, 25118
+Tabiona town, 175
+Taylorsville city, 60227
+Tooele city, 32115
+Toquerville town, 1404
+Torrey town, 180
+Tremonton city, 7790
+Trenton town, 469
+Tropic town, 521
+Uintah town, 1334
+Vernal city, 9817
+Vernon town, 250
+Vineyard town, 235
+Virgin town, 606
+Wales town, 297
+Wallsburg town, 272
+Washington city, 20888
+Washington Terrace city, 9147
+Wellington city, 1673
+Wellsville city, 3500
+Wendover city, 1401
+West Bountiful city, 5329
+West Haven city, 11069
+West Jordan city, 108383
+West Point city, 9819
+West Valley City city, 132434
+Willard city, 1746
+Woodland Hills city, 1405
+Woodruff town, 179
+Woods Cross city, 10212

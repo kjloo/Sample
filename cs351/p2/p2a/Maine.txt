@@ -1,0 +1,22 @@
+Auburn city, 22972
+Augusta city, 18946
+Bangor city, 32817
+Bath city, 8408
+Belfast city, 6657
+Biddeford city, 21309
+Brewer city, 9400
+Calais city, 3069
+Caribou city, 8051
+Eastport city, 1308
+Ellsworth city, 7824
+Gardiner city, 5747
+Hallowell city, 2366
+Lewiston city, 36460
+Old Town city, 7759
+Portland city, 66214
+Presque Isle city, 9529
+Rockland city, 7225
+Saco city, 18758
+South Portland city, 25088
+Waterville city, 15855
+Westbrook city, 17606

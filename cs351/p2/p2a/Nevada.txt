@@ -1,0 +1,19 @@
+Boulder City city, 15168
+Caliente city, 1201
+Carlin city, 2432
+Carson City, 54838
+Elko city, 19386
+Ely city, 4250
+Fallon city, 8453
+Fernley city, 19093
+Henderson city, 265679
+Las Vegas city, 596424
+Lovelock city, 1895
+Mesquite city, 16062
+North Las Vegas city, 223491
+Reno city, 231027
+Sparks city, 92183
+Wells city, 1322
+West Wendover city, 4508
+Winnemucca city, 7729
+Yerington city, 3011

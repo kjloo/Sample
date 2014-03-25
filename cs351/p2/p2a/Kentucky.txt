@@ -1,0 +1,418 @@
+Adairville city, 843
+Albany city, 2032
+Alexandria city, 8640
+Allen city, 190
+Anchorage city, 2381
+Arlington city, 320
+Ashland city, 21506
+Auburn city, 1332
+Audubon Park city, 1491
+Augusta city, 1189
+Bancroft city, 500
+Barbourmeade city, 1235
+Barbourville city, 3146
+Bardstown city, 12848
+Bardwell city, 714
+Barlow city, 682
+Beattyville city, 1278
+Beaver Dam city, 3515
+Bedford city, 608
+Beechwood Village city, 1340
+Bellefonte city, 879
+Bellemeade city, 875
+Bellevue city, 5928
+Bellewood city, 325
+Benham city, 489
+Benton city, 4409
+Berea city, 14148
+Berry city, 264
+Blackey city, 136
+Blaine city, 47
+Bloomfield city, 854
+Blue Ridge Manor city, 780
+Bonnieville city, 257
+Booneville city, 80
+Bowling Green city, 60600
+Bradfordsville city, 298
+Brandenburg city, 2822
+Bremen city, 195
+Briarwood city, 440
+Brodhead city, 1208
+Broeck Pointe city, 275
+Bromley city, 804
+Brooksville city, 649
+Brownsboro Farm city, 656
+Brownsboro Village city, 323
+Brownsville city, 831
+Buckhorn city, 160
+Burgin city, 960
+Burkesville city, 1528
+Burnside city, 826
+Butler city, 599
+Cadiz city, 2609
+Calhoun city, 759
+California city, 86
+Calvert City city, 2547
+Camargo city, 1097
+Cambridge city, 177
+Campbellsburg city, 809
+Campbellsville city, 10759
+Campton city, 429
+Caneyville city, 616
+Carlisle city, 1968
+Carrollton city, 3957
+Carrsville city, 50
+Catlettsburg city, 1837
+Cave City city, 2272
+Centertown city, 445
+Central City city, 5912
+Clarkson city, 884
+Clay city, 1180
+Clay City city, 1066
+Clinton city, 1352
+Cloverport city, 1157
+Coal Run Village city, 1685
+Cold Spring city, 6132
+Coldstream city, 1118
+Columbia city, 4478
+Columbus city, 165
+Concord city, 35
+Corbin city, 7272
+Corinth city, 230
+Corydon city, 722
+Covington city, 40713
+Crab Orchard city, 832
+Creekside city, 309
+Crescent Springs city, 3972
+Crestview city, 476
+Crestview Hills city, 3134
+Crestwood city, 4617
+Crittenden city, 3795
+Crofton city, 762
+Crossgate city, 228
+Cumberland city, 2171
+Cynthiana city, 6326
+Danville city, 16349
+Dawson Springs city, 2755
+Dayton city, 5363
+Dixon city, 608
+Douglass Hills city, 5571
+Dover city, 253
+Drakesboro city, 510
+Druid Hills city, 312
+Dry Ridge city, 2177
+Earlington city, 1408
+Eddyville city, 2572
+Edgewood city, 8662
+Edmonton city, 1575
+Ekron city, 154
+Elizabethtown city, 29335
+Elkhorn City city, 970
+Elkton city, 2194
+Elsmere city, 8460
+Eminence city, 2482
+Erlanger city, 18359
+Eubank city, 322
+Evarts city, 944
+Ewing city, 268
+Fairfield city, 114
+Fairview city, 144
+Falmouth city, 2154
+Ferguson city, 946
+Fincastle city, 832
+Flatwoods city, 7428
+Fleming-Neon city, 753
+Flemingsburg city, 2693
+Florence city, 31088
+Fordsville city, 528
+Forest Hills city, 449
+Fort Mitchell city, 8222
+Fort Thomas city, 16222
+Fort Wright city, 5691
+Fountain Run city, 214
+Fox Chase city, 456
+Frankfort city, 27590
+Franklin city, 8551
+Fredonia city, 400
+Frenchburg city, 523
+Fulton city, 2344
+Gamaliel city, 371
+Georgetown city, 30271
+Germantown city, 154
+Ghent city, 326
+Glasgow city, 14095
+Glencoe city, 353
+Glenview city, 537
+Glenview Hills city, 323
+Glenview Manor city, 193
+Goose Creek city, 298
+Goshen city, 926
+Grand Rivers city, 378
+Gratz city, 77
+Graymoor-Devondale city, 2904
+Grayson city, 4099
+Greensburg city, 2175
+Green Spring city, 726
+Greenup city, 1179
+Greenville city, 4432
+Guthrie city, 1435
+Hanson city, 740
+Hardin city, 610
+Hardinsburg city, 2342
+Harlan city, 1693
+Harrodsburg city, 8312
+Hartford city, 2703
+Hawesville city, 996
+Hazard city, 5477
+Hazel city, 412
+Hebron Estates city, 1112
+Henderson city, 28911
+Heritage Creek city, 1094
+Hickman city, 2296
+Hickory Hill city, 115
+Highland Heights city, 6935
+Hills and Dales city, 144
+Hillview city, 9409
+Hindman city, 766
+Hodgenville city, 3232
+Hollow Creek city, 792
+Hollyvilla city, 543
+Hopkinsville city, 32966
+Horse Cave city, 2331
+Houston Acres city, 513
+Hunters Hollow city, 367
+Hurstbourne city, 4283
+Hurstbourne Acres city, 1839
+Hustonville city, 400
+Hyden city, 362
+Independence city, 25664
+Indian Hills city, 2907
+Inez city, 705
+Irvine city, 2442
+Irvington city, 1190
+Island city, 457
+Jackson city, 2182
+Jamestown city, 1792
+Jeffersontown city, 26923
+Jeffersonville city, 1525
+Jenkins city, 2150
+Junction City city, 2211
+Kenton Vale city, 107
+Kevil city, 380
+Kingsley city, 386
+Kuttawa city, 660
+La Center city, 1019
+LaFayette city, 168
+La Grange city, 8231
+Lakeside Park city, 2736
+Lakeview Heights city, 230
+Lancaster city, 3433
+Langdon Place city, 952
+Lawrenceburg city, 11042
+Lebanon city, 5620
+Lebanon Junction city, 1850
+Leitchfield city, 6790
+Lewisburg city, 803
+Lewisport city, 1693
+Lexington-Fayette urban county, 305489
+Liberty city, 2189
+Lincolnshire city, 150
+Livermore city, 1359
+Livingston city, 226
+London city, 6052
+Loretto city, 723
+Louisa city, 2467
+Louisville/Jefferson County metro government (balance), 605110
+Loyall city, 668
+Ludlow city, 4536
+Lynch city, 726
+Lyndon city, 11170
+Lynnview city, 925
+McHenry city, 392
+McKee city, 788
+Mackville city, 224
+Madisonville city, 19798
+Manchester city, 1431
+Manor Creek city, 142
+Marion city, 3025
+Martin city, 622
+Maryhill Estates city, 181
+Mayfield city, 10115
+Maysville city, 9021
+Meadowbrook Farm city, 138
+Meadow Vale city, 745
+Meadowview Estates city, 367
+Melbourne city, 402
+Mentor city, 210
+Middlesborough city, 10014
+Middletown city, 7328
+Midway city, 1649
+Millersburg city, 792
+Milton city, 573
+Mockingbird Valley city, 169
+Monterey city, 137
+Monticello city, 6188
+Moorland city, 436
+Morehead city, 6860
+Morganfield city, 3247
+Morgantown city, 2463
+Mortons Gap city, 860
+Mount Olivet city, 284
+Mount Sterling city, 6995
+Mount Vernon city, 2471
+Mount Washington city, 9317
+Muldraugh city, 1053
+Munfordville city, 1630
+Murray city, 17981
+Murray Hill city, 593
+Nebo city, 235
+New Castle city, 907
+New Haven city, 871
+Newport city, 15438
+Nicholasville city, 28400
+Norbourne Estates city, 446
+Northfield city, 1035
+North Middletown city, 644
+Nortonville city, 1199
+Norwood city, 374
+Oak Grove city, 7606
+Oakland city, 226
+Old Brownsboro Place city, 357
+Olive Hill city, 1580
+Orchard Grass Hills city, 1629
+Owensboro city, 58083
+Owenton city, 1532
+Owingsville city, 1546
+Paducah city, 25048
+Paintsville city, 4119
+Paris city, 9752
+Park City city, 543
+Park Hills city, 2991
+Parkway Village city, 658
+Pembroke city, 895
+Perryville city, 755
+Pewee Valley city, 1479
+Pikeville city, 6875
+Pineville city, 1845
+Pioneer Village city, 487
+Pippa Passes city, 532
+Plantation city, 842
+Pleasureville city, 830
+Plum Springs city, 467
+Poplar Hills city, 366
+Powderly city, 738
+Prestonsburg city, 3222
+Prestonville city, 163
+Princeton city, 6302
+Prospect city, 4790
+Providence city, 3175
+Raceland city, 2385
+Radcliff city, 23036
+Ravenna city, 598
+Raywick city, 136
+Richlawn city, 410
+Richmond city, 32112
+River Bluff city, 412
+Riverwood city, 451
+Robards city, 517
+Rochester city, 154
+Rockport city, 269
+Rolling Fields city, 654
+Rolling Hills city, 970
+Russell city, 3325
+Russell Springs city, 2452
+Russellville city, 6954
+Ryland Heights city, 1030
+Sacramento city, 467
+Sadieville city, 317
+St. Charles city, 275
+St. Matthews city, 17700
+St. Regis Park city, 1476
+Salem city, 745
+Salt Lick city, 309
+Salyersville city, 1842
+Sanders city, 240
+Sandy Hook city, 653
+Sardis city, 103
+Science Hill city, 697
+Scottsville city, 4291
+Sebree city, 1596
+Seneca Gardens city, 704
+Sharpsburg city, 329
+Shelbyville city, 14585
+Shepherdsville city, 11463
+Shively city, 15455
+Silver Grove city, 1107
+Simpsonville city, 2580
+Slaughters city, 216
+Smithfield city, 105
+Smithland city, 298
+Smiths Grove city, 721
+Somerset city, 11320
+Sonora city, 500
+South Carrollton city, 182
+Southgate city, 3800
+South Park View city, 7
+South Shore city, 1117
+Sparta city, 262
+Springfield city, 2565
+Spring Mill city, 290
+Spring Valley city, 662
+Stamping Ground city, 662
+Stanford city, 3702
+Stanton city, 2708
+Strathmoor Manor city, 341
+Strathmoor Village city, 656
+Sturgis city, 1892
+Sycamore city, 162
+Taylor Mill city, 6659
+Taylorsville city, 778
+Ten Broeck city, 104
+Thornhill city, 182
+Tompkinsville city, 2320
+Trenton city, 390
+Union city, 5586
+Uniontown city, 988
+Upton city, 667
+Vanceburg city, 1466
+Versailles city, 8874
+Vicco city, 329
+Villa Hills city, 7347
+Vine Grove city, 5227
+Wallins Creek city, 152
+Walton city, 3772
+Warfield city, 264
+Warsaw city, 1661
+Water Valley city, 282
+Watterson Park city, 988
+Waverly city, 308
+Wayland city, 421
+Wellington city, 572
+West Buechel city, 1249
+West Liberty city, 3397
+West Point city, 776
+Westwood city, 642
+Wheatcroft city, 160
+Wheelwright city, 773
+White Plains city, 881
+Whitesburg city, 2078
+Whitesville city, 548
+Wickliffe city, 695
+Wilder city, 3042
+Wildwood city, 264
+Williamsburg city, 5256
+Williamstown city, 3897
+Willisburg city, 285
+Wilmore city, 3776
+Winchester city, 18451
+Windy Hills city, 2415
+Wingo city, 640
+Woodburn city, 363
+Woodbury city, 91
+Woodland Hills city, 704
+Woodlawn city, 233
+Woodlawn Park city, 953
+Worthington city, 1596
+Worthington Hills city, 1469
+Worthville city, 187
+Wurtland city, 1063

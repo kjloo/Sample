@@ -1,0 +1,13 @@
+Berlin city, 9743
+Claremont city, 13077
+Concord city, 42630
+Dover city, 30220
+Franklin city, 8456
+Keene city, 23272
+Laconia city, 16055
+Lebanon city, 13483
+Manchester city, 110209
+Nashua city, 86933
+Portsmouth city, 21379
+Rochester city, 29823
+Somersworth city, 11754

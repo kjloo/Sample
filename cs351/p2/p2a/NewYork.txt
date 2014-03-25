@@ -1,0 +1,617 @@
+Adams village, 1840
+Addison village, 1744
+Afton village, 823
+Airmont village, 8747
+Akron village, 2851
+Albany city, 97904
+Albion village, 6301
+Alden village, 2605
+Alexander village, 506
+Alexandria Bay village, 1116
+Alfred village, 4110
+Allegany village, 1789
+Almond village, 457
+Altamont village, 1720
+Altmar village, 400
+Ames village, 144
+Amityville village, 9522
+Amsterdam city, 18290
+Andover village, 1024
+Angelica village, 854
+Angola village, 2121
+Antwerp village, 710
+Arcade village, 2057
+Ardsley village, 4507
+Argyle village, 301
+Arkport village, 838
+Asharoken village, 658
+Athens village, 1640
+Atlantic Beach village, 1904
+Attica village, 2527
+Auburn city, 27365
+Aurora village, 685
+Avoca village, 940
+Avon village, 3347
+Babylon village, 12174
+Bainbridge village, 1342
+Baldwinsville village, 7450
+Ballston Spa village, 5417
+Barker village, 526
+Barneveld village, 284
+Batavia city, 15399
+Bath village, 5745
+Baxter Estates village, 1005
+Bayville village, 6717
+Beacon city, 15346
+Bellerose village, 1199
+Belle Terre village, 797
+Bellport village, 2087
+Belmont village, 951
+Bemus Point village, 366
+Bergen village, 1171
+Binghamton city, 46551
+Black River village, 1395
+Blasdell village, 2573
+Bloomfield village, 1348
+Bloomingburg village, 453
+Bolivar village, 1028
+Boonville village, 2058
+Brewster village, 2366
+Briarcliff Manor village, 7944
+Bridgewater village, 465
+Brightwaters village, 3105
+Broadalbin village, 1306
+Brockport village, 8305
+Brocton village, 1468
+Bronxville village, 6375
+Brookville village, 3513
+Brownville village, 1161
+Brushton village, 471
+Buchanan village, 2252
+Buffalo city, 259384
+Burdett village, 337
+Burke village, 211
+Caledonia village, 2162
+Cambridge village, 1858
+Camden village, 2222
+Camillus village, 1245
+Canajoharie village, 2191
+Canandaigua city, 10489
+Canaseraga village, 536
+Canastota village, 4723
+Candor village, 837
+Canisteo village, 2251
+Canton village, 6669
+Cape Vincent village, 753
+Carthage village, 3835
+Cassadaga village, 625
+Castile village, 1007
+Castleton-on-Hudson village, 1469
+Castorland village, 353
+Cato village, 530
+Catskill village, 3994
+Cattaraugus village, 985
+Cayuga village, 542
+Cayuga Heights village, 3744
+Cazenovia village, 2756
+Cedarhurst village, 6615
+Celoron village, 1096
+Central Square village, 1838
+Centre Island village, 411
+Champlain village, 1089
+Chateaugay village, 832
+Chatham village, 1742
+Chaumont village, 639
+Cherry Creek village, 454
+Cherry Valley village, 514
+Chester village, 3938
+Chestnut Ridge village, 8028
+Chittenango village, 5033
+Churchville village, 2127
+Clayton village, 2043
+Clayville village, 345
+Cleveland village, 749
+Clifton Springs village, 2120
+Clinton village, 1926
+Clyde village, 2059
+Cobleskill village, 4543
+Cohocton village, 832
+Cohoes city, 16174
+Cold Brook village, 330
+Cold Spring village, 1993
+Colonie village, 7869
+Constableville village, 244
+Cooperstown village, 1833
+Copenhagen village, 807
+Corfu village, 705
+Corinth village, 2535
+Corning city, 11108
+Cornwall-on-Hudson village, 2989
+Cortland city, 19292
+Cove Neck village, 289
+Coxsackie village, 2767
+Croghan village, 623
+Croton-on-Hudson village, 8155
+Cuba village, 1552
+Dannemora village, 3867
+Dansville village, 4631
+Deferiet village, 303
+Delanson village, 379
+Delevan village, 1075
+Delhi village, 3008
+Depew village, 15216
+Deposit village, 1636
+Dering Harbor village, 11
+DeRuyter village, 549
+Dexter village, 1105
+Dobbs Ferry village, 10988
+Dolgeville village, 2194
+Dresden village, 303
+Dryden village, 1907
+Dundee village, 1708
+Dunkirk city, 12382
+Earlville village, 856
+East Aurora village, 6229
+East Hampton village, 1099
+East Hills village, 7023
+East Nassau village, 582
+East Randolph village, 615
+East Rochester village, 6594
+East Rockaway village, 9854
+East Syracuse village, 3048
+East Williston village, 2566
+Edwards village, 433
+Elba village, 671
+Elbridge village, 1049
+Ellenville village, 4126
+Ellicottville village, 380
+Ellisburg village, 252
+Elmira city, 28987
+Elmira Heights village, 4083
+Elmsford village, 4719
+Endicott village, 13184
+Esperance village, 341
+Evans Mills village, 638
+Fabius village, 351
+Fair Haven village, 742
+Fairport village, 5339
+Falconer village, 2387
+Farmingdale village, 8229
+Farnham village, 377
+Fayetteville village, 4348
+Fishkill village, 2163
+Fleischmanns village, 343
+Floral Park village, 15914
+Florida village, 2840
+Flower Hill village, 4730
+Fonda village, 783
+Forestville village, 687
+Fort Ann village, 481
+Fort Edward village, 3331
+Fort Johnson village, 481
+Fort Plain village, 2279
+Frankfort village, 2583
+Franklin village, 366
+Franklinville village, 1711
+Fredonia village, 11047
+Freeport village, 43138
+Freeville village, 521
+Fulton city, 11776
+Fultonville village, 787
+Gainesville village, 228
+Galway village, 200
+Garden City village, 22546
+Geneseo village, 7927
+Geneva city, 13210
+Gilbertsville village, 392
+Glen Cove city, 27100
+Glen Park village, 520
+Glens Falls city, 14609
+Gloversville city, 15388
+Goshen village, 5415
+Gouverneur village, 3914
+Gowanda village, 2674
+Grand View-on-Hudson village, 290
+Granville village, 2509
+Great Neck village, 10066
+Great Neck Estates village, 2788
+Great Neck Plaza village, 6888
+Greene village, 1559
+Green Island village, 2620
+Greenport village, 2200
+Greenwich village, 1766
+Greenwood Lake village, 3128
+Groton village, 2377
+Hagaman village, 1294
+Hamburg village, 9492
+Hamilton village, 4197
+Hammond village, 279
+Hammondsport village, 657
+Hancock village, 1010
+Hannibal village, 548
+Harriman village, 2487
+Harrison village, 27785
+Harrisville village, 632
+Hastings-on-Hudson village, 7917
+Haverstraw village, 12037
+Head of the Harbor village, 1480
+Hempstead village, 54883
+Herkimer village, 7703
+Hermon village, 416
+Herrings village, 93
+Heuvelton village, 712
+Hewlett Bay Park village, 411
+Hewlett Harbor village, 1271
+Hewlett Neck village, 450
+Highland Falls village, 3861
+Hillburn village, 970
+Hilton village, 5974
+Hobart village, 432
+Holland Patent village, 457
+Holley village, 1784
+Homer village, 3274
+Honeoye Falls village, 2716
+Hoosick Falls village, 3474
+Hornell city, 8499
+Horseheads village, 6640
+Hudson city, 6684
+Hudson Falls village, 7215
+Hunter village, 497
+Huntington Bay village, 1428
+Ilion village, 8012
+Interlaken village, 605
+Irvington village, 6505
+Islandia village, 3344
+Island Park village, 4677
+Ithaca city, 30331
+Jamestown city, 30767
+Jeffersonville village, 352
+Johnson City village, 14937
+Johnstown city, 8559
+Jordan village, 1355
+Kaser village, 4949
+Keeseville village, 1794
+Kenmore village, 15295
+Kensington village, 1171
+Kinderhook village, 1195
+Kings Point village, 5038
+Kingston city, 23711
+Kiryas Joel village, 21357
+Lackawanna city, 18006
+Lacona village, 575
+Lake George village, 904
+Lake Grove village, 11204
+Lake Placid village, 2497
+Lake Success village, 2992
+Lakewood village, 2978
+Lancaster village, 10280
+Lansing village, 3583
+Larchmont village, 5915
+Lattingtown village, 1750
+Laurel Hollow village, 1996
+Laurens village, 263
+Lawrence village, 6538
+Leicester village, 461
+Le Roy village, 4362
+Lewiston village, 2697
+Liberty village, 4310
+Lima village, 2116
+Lindenhurst village, 27256
+Lisle village, 313
+Little Falls city, 4919
+Little Valley village, 1145
+Liverpool village, 2320
+Livonia village, 1423
+Lloyd Harbor village, 3678
+Lockport city, 20965
+Lodi village, 290
+Long Beach city, 33480
+Lowville village, 3459
+Lynbrook village, 19509
+Lyndonville village, 830
+Lyons village, 3561
+Lyons Falls village, 570
+Macedon village, 1512
+McGraw village, 1044
+Madison village, 299
+Malone village, 5888
+Malverne village, 8537
+Mamaroneck village, 19112
+Manchester village, 1693
+Manlius village, 4676
+Mannsville village, 367
+Manorhaven village, 6611
+Marathon village, 917
+Marcellus village, 1797
+Margaretville village, 587
+Massapequa Park village, 17105
+Massena village, 10837
+Mastic Beach village, 14866
+Matinecock village, 814
+Maybrook village, 2954
+Mayfield village, 828
+Mayville village, 1689
+Mechanicville city, 5212
+Medina village, 5979
+Menands village, 3990
+Meridian village, 308
+Mexico village, 1610
+Middleburgh village, 1483
+Middleport village, 1819
+Middletown city, 27886
+Middleville village, 513
+Milford village, 409
+Millbrook village, 1445
+Millerton village, 953
+Mill Neck village, 1005
+Millport village, 308
+Mineola village, 18880
+Minoa village, 3500
+Mohawk village, 2717
+Monroe village, 8507
+Montebello village, 4585
+Montgomery village, 4097
+Monticello village, 6613
+Montour Falls village, 1714
+Moravia village, 1267
+Morris village, 577
+Morristown village, 392
+Morrisville village, 1899
+Mount Kisco village, 10994
+Mount Morris village, 2929
+Mount Vernon city, 67896
+Munnsville village, 477
+Munsey Park village, 2702
+Muttontown village, 3588
+Naples village, 1030
+Nassau village, 1123
+Nelliston village, 586
+Nelsonville village, 624
+Newark village, 9017
+Newark Valley village, 980
+New Berlin village, 1013
+Newburgh city, 28651
+New Hartford village, 1835
+New Hempstead village, 5223
+New Hyde Park village, 9758
+New Paltz village, 7034
+Newport village, 637
+New Rochelle city, 78388
+New Square village, 7331
+New York city, 8336697
+New York Mills village, 3325
+Niagara Falls city, 49722
+Nichols village, 501
+Nissequogue village, 1753
+North Collins village, 1222
+North Haven village, 850
+North Hills village, 5129
+North Hornell village, 773
+Northport village, 7409
+North Syracuse village, 6926
+North Tonawanda city, 31269
+Northville village, 1098
+Norwich city, 7078
+Norwood village, 1643
+Nunda village, 1343
+Nyack village, 6856
+Oakfield village, 1800
+Ocean Beach village, 79
+Odessa village, 589
+Ogdensburg city, 11083
+Old Brookville village, 2163
+Old Field village, 921
+Old Westbury village, 4638
+Olean city, 14220
+Oneida city, 11263
+Oneida Castle village, 620
+Oneonta city, 13840
+Orchard Park village, 3223
+Oriskany village, 1389
+Oriskany Falls village, 727
+Ossining village, 25266
+Oswego city, 18147
+Otego village, 998
+Otisville village, 1058
+Ovid village, 600
+Owego village, 3836
+Oxford village, 1436
+Oyster Bay Cove village, 2218
+Painted Post village, 2032
+Palatine Bridge village, 771
+Palmyra village, 3491
+Panama village, 471
+Parish village, 444
+Patchogue village, 11879
+Pawling village, 2351
+Peekskill city, 23835
+Pelham village, 6966
+Pelham Manor village, 5542
+Penn Yan village, 5131
+Perry village, 3641
+Perrysburg village, 394
+Phelps village, 1967
+Philadelphia village, 1291
+Philmont village, 1353
+Phoenix village, 2359
+Piermont village, 2541
+Pittsford village, 1349
+Plandome village, 1367
+Plandome Heights village, 1010
+Plandome Manor village, 875
+Plattsburgh city, 19750
+Pleasantville village, 7079
+Poland village, 504
+Pomona village, 3149
+Poquott village, 953
+Port Byron village, 1278
+Port Chester village, 29247
+Port Dickinson village, 1611
+Port Henry village, 1176
+Port Jefferson village, 7772
+Port Jervis city, 8726
+Port Leyden village, 672
+Portville village, 1001
+Port Washington North village, 3186
+Potsdam village, 9564
+Poughkeepsie city, 30847
+Prospect village, 291
+Pulaski village, 2357
+Quogue village, 975
+Randolph village, 1273
+Ravena village, 3280
+Red Creek village, 523
+Red Hook village, 1951
+Remsen village, 505
+Rensselaer city, 9484
+Rensselaer Falls village, 331
+Rhinebeck village, 2640
+Richburg village, 446
+Richfield Springs village, 1251
+Richmondville village, 902
+Richville village, 324
+Riverside village, 492
+Rochester city, 210532
+Rockville Centre village, 24109
+Rome city, 32840
+Roslyn village, 2779
+Roslyn Estates village, 1261
+Roslyn Harbor village, 1068
+Round Lake village, 617
+Rouses Point village, 2194
+Rushville village, 669
+Russell Gardens village, 950
+Rye city, 15868
+Rye Brook village, 9450
+Sackets Harbor village, 1505
+Saddle Rock village, 845
+Sagaponack village, 318
+Sag Harbor village, 2251
+St. Johnsville village, 1701
+Salamanca city, 5720
+Salem village, 942
+Saltaire village, 37
+Sands Point village, 2706
+Sandy Creek village, 763
+Saranac Lake village, 5376
+Saratoga Springs city, 26960
+Saugerties village, 3928
+Savona village, 826
+Scarsdale village, 17471
+Schaghticoke village, 589
+Schenectady city, 66078
+Schoharie village, 884
+Schuylerville village, 1387
+Scotia village, 7709
+Scottsville village, 1998
+Sea Cliff village, 5014
+Seneca Falls village, 6677
+Sharon Springs village, 547
+Sherburne village, 1354
+Sherman village, 720
+Sherrill city, 3065
+Shoreham village, 534
+Shortsville village, 1437
+Sidney village, 3825
+Silver Creek village, 2616
+Silver Springs village, 771
+Sinclairville village, 581
+Skaneateles village, 2450
+Sleepy Hollow village, 9967
+Sloan village, 3632
+Sloatsburg village, 3085
+Smyrna village, 211
+Sodus village, 1808
+Sodus Point village, 889
+Solvay village, 6510
+Southampton village, 3149
+South Blooming Grove village, 3211
+South Corning village, 1135
+South Dayton village, 610
+South Floral Park village, 1770
+South Glens Falls village, 3610
+South Nyack village, 3563
+Speculator village, 321
+Spencer village, 747
+Spencerport village, 3593
+Spring Valley village, 32082
+Springville village, 4273
+Stamford village, 1105
+Stewart Manor village, 1903
+Stillwater village, 1734
+Suffern village, 10851
+Sylvan Beach village, 893
+Syracuse city, 144170
+Tannersville village, 530
+Tarrytown village, 11410
+Theresa village, 885
+Thomaston village, 2635
+Tivoli village, 1120
+Tonawanda city, 15020
+Troy city, 49946
+Trumansburg village, 1815
+Tuckahoe village, 6557
+Tully village, 873
+Tupper Lake village, 3647
+Turin village, 234
+Tuxedo Park village, 617
+Unadilla village, 1115
+Union Springs village, 1192
+Unionville village, 604
+Upper Brookville village, 1725
+Upper Nyack village, 2096
+Utica city, 61822
+Valatie village, 1795
+Valley Falls village, 466
+Valley Stream village, 37646
+Van Etten village, 536
+Vernon village, 1163
+Victor village, 2725
+Victory village, 601
+Village of the Branch village, 1812
+Voorheesville village, 2811
+Waddington village, 969
+Walden village, 6911
+Walton village, 3028
+Wampsville village, 553
+Wappingers Falls village, 5488
+Warsaw village, 3456
+Warwick village, 6796
+Washingtonville village, 5847
+Waterford village, 1968
+Waterloo village, 5173
+Watertown city, 27900
+Waterville village, 1571
+Watervliet city, 10244
+Watkins Glen village, 1860
+Waverly village, 4361
+Wayland village, 1847
+Webster village, 5584
+Weedsport village, 1801
+Wellsburg village, 577
+Wellsville village, 4599
+Wesley Hills village, 5766
+Westbury village, 15294
+West Carthage village, 2089
+Westfield village, 3178
+Westhampton Beach village, 1730
+West Hampton Dunes village, 57
+West Haverstraw village, 10287
+West Winfield village, 823
+Whitehall village, 2608
+White Plains city, 57403
+Whitesboro village, 3742
+Whitney Point village, 953
+Williamsville village, 5277
+Williston Park village, 7309
+Wilson village, 1259
+Windsor village, 907
+Wolcott village, 1677
+Woodbury village, 10688
+Woodridge village, 833
+Woodsburgh village, 781
+Wurtsboro village, 1219
+Wyoming village, 432
+Yonkers city, 198449
+Yorkville village, 2667
+Youngstown village, 1913

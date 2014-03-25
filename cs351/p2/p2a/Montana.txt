@@ -1,0 +1,129 @@
+Alberton town, 416
+Anaconda-Deer Lodge County, 9227
+Bainville town, 283
+Baker city, 1827
+Bearcreek town, 79
+Belgrade city, 7556
+Belt town, 606
+Big Sandy town, 610
+Big Timber city, 1624
+Billings city, 106954
+Boulder city, 1186
+Bozeman city, 38695
+Bridger town, 713
+Broadus town, 480
+Broadview town, 198
+Brockton town, 266
+Browning town, 1037
+Butte-Silver Bow (balance), 33730
+Cascade town, 707
+Chester town, 873
+Chinook city, 1242
+Choteau city, 1688
+Circle town, 611
+Clyde Park town, 291
+Colstrip city, 2333
+Columbia Falls city, 4712
+Columbus town, 1942
+Conrad city, 2581
+Culbertson town, 768
+Cut Bank city, 2963
+Darby town, 731
+Deer Lodge city, 3118
+Denton town, 250
+Dillon city, 4201
+Dodson town, 121
+Drummond town, 327
+Dutton town, 313
+East Helena city, 2043
+Ekalaka town, 345
+Ennis town, 853
+Eureka town, 1105
+Fairfield town, 718
+Fairview town, 939
+Flaxville town, 72
+Forsyth city, 1887
+Fort Benton city, 1486
+Fort Peck town, 244
+Froid town, 195
+Fromberg town, 435
+Geraldine town, 270
+Glasgow city, 3319
+Glendive city, 5177
+Grass Range town, 109
+Great Falls city, 58893
+Hamilton city, 4508
+Hardin city, 3583
+Harlem city, 838
+Harlowton city, 975
+Havre city, 9620
+Helena city, 29134
+Hingham town, 121
+Hobson city, 221
+Hot Springs town, 553
+Hysham town, 321
+Ismay town, 21
+Joliet town, 625
+Jordan town, 376
+Judith Gap city, 123
+Kalispell city, 20487
+Kevin town, 150
+Laurel city, 6931
+Lavina town, 175
+Lewistown city, 5857
+Libby city, 2688
+Lima town, 227
+Livingston city, 7053
+Lodge Grass town, 436
+Malta city, 1936
+Manhattan town, 1549
+Medicine Lake town, 237
+Melstone town, 107
+Miles City city, 8569
+Missoula city, 68394
+Moore town, 192
+Nashua town, 293
+Neihart town, 50
+Opheim town, 87
+Outlook town, 52
+Philipsburg town, 844
+Pinesdale town, 925
+Plains town, 1074
+Plentywood city, 1834
+Plevna town, 179
+Polson city, 4585
+Poplar city, 845
+Red Lodge city, 2155
+Rexford town, 149
+Richey town, 180
+Ronan city, 1912
+Roundup city, 1867
+Ryegate town, 238
+Saco town, 196
+St. Ignatius town, 852
+Scobey city, 1041
+Shelby city, 3327
+Sheridan town, 651
+Sidney city, 5934
+Stanford town, 394
+Stevensville town, 1868
+Sunburst town, 376
+Superior town, 830
+Terry town, 596
+Thompson Falls city, 1341
+Three Forks city, 1892
+Townsend city, 1970
+Troy city, 962
+Twin Bridges town, 382
+Valier town, 508
+Virginia City town, 196
+Walkerville town, 673
+Westby town, 185
+West Yellowstone town, 1308
+Whitefish city, 6460
+Whitehall town, 1068
+White Sulphur Springs city, 965
+Wibaux town, 616
+Winifred town, 207
+Winnett town, 196
+Wolf Point city, 2733

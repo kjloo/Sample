@@ -1,0 +1,148 @@
+Adak city, 326
+Akhiok city, 74
+Akiak city, 360
+Akutan city, 1043
+Alakanuk city, 709
+Aleknagik city, 228
+Allakaket city, 109
+Ambler city, 268
+Anaktuvuk Pass city, 332
+Anchorage municipality, 298610
+Anderson city, 253
+Angoon city, 456
+Aniak city, 522
+Anvik city, 88
+Atka city, 67
+Atqasuk city, 241
+Barrow city, 4346
+Bethel city, 6371
+Bettles city, 12
+Brevig Mission city, 406
+Buckland city, 432
+Chefornak city, 435
+Chevak city, 982
+Chignik city, 92
+Chuathbaluk city, 123
+Clark's Point city, 65
+Coffman Cove city, 183
+Cold Bay city, 108
+Cordova city, 2267
+Craig city, 1250
+Deering city, 127
+Delta Junction city, 974
+Dillingham city, 2413
+Diomede city, 120
+Eagle city, 88
+Eek city, 308
+Egegik city, 110
+Ekwok city, 120
+Elim city, 345
+Emmonak city, 799
+Fairbanks city, 32312
+False Pass city, 35
+Fort Yukon city, 599
+Galena city, 486
+Gambell city, 712
+Golovin city, 163
+Goodnews Bay city, 253
+Grayling city, 201
+Gustavus city, 437
+Holy Cross city, 184
+Homer city, 5239
+Hoonah city, 750
+Hooper Bay city, 1144
+Houston city, 2042
+Hughes city, 80
+Huslia city, 285
+Hydaburg city, 391
+Juneau city and borough, 32556
+Kachemak city, 481
+Kake city, 556
+Kaktovik city, 246
+Kaltag city, 197
+Kasaan city, 51
+Kenai city, 7347
+Ketchikan city, 8250
+Kiana city, 375
+King Cove city, 944
+Kivalina city, 389
+Klawock city, 777
+Kobuk city, 157
+Kodiak city, 6457
+Kotlik city, 604
+Kotzebue city, 3332
+Koyuk city, 347
+Koyukuk city, 99
+Kupreanof city, 27
+Kwethluk city, 751
+Larsen Bay city, 91
+Lower Kalskag city, 294
+McGrath city, 358
+Manokotak city, 460
+Marshall city, 433
+Mekoryuk city, 199
+Mountain Village city, 851
+Napakiak city, 369
+Napaskiak city, 422
+Nenana city, 391
+Newhalen city, 193
+New Stuyahok city, 531
+Nightmute city, 292
+Nikolai city, 97
+Nome city, 3757
+Nondalton city, 167
+Noorvik city, 695
+North Pole city, 2210
+Nuiqsut city, 412
+Nulato city, 273
+Nunam Iqua city, 196
+Nunapitchuk city, 517
+Old Harbor city, 227
+Ouzinkie city, 168
+Palmer city, 6335
+Pelican city, 87
+Petersburg city, 2975
+Pilot Point city, 69
+Pilot Station city, 594
+Platinum city, 64
+Point Hope city, 695
+Port Alexander city, 52
+Port Heiden city, 104
+Port Lions city, 202
+Quinhagak city, 697
+Ruby city, 172
+Russian Mission city, 327
+St. George city, 102
+St. Mary's city, 531
+St. Michael city, 419
+St. Paul city, 491
+Sand Point city, 974
+Savoonga city, 701
+Saxman city, 419
+Scammon Bay city, 496
+Selawik city, 862
+Seldovia city, 262
+Seward city, 2737
+Shageluk city, 86
+Shaktoolik city, 262
+Shishmaref city, 588
+Shungnak city, 272
+Sitka city and borough, 9046
+Soldotna city, 4359
+Stebbins city, 581
+Tanana city, 254
+Teller city, 239
+Tenakee Springs city, 132
+Thorne Bay city, 487
+Togiak city, 851
+Toksook Bay city, 615
+Unalakleet city, 719
+Unalaska city, 4344
+Upper Kalskag city, 219
+Valdez city, 4022
+Wainwright city, 575
+Wales city, 152
+Wasilla city, 8456
+White Mountain city, 199
+Whittier city, 220
+Wrangell city and borough, 2403

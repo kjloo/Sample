@@ -1,0 +1,99 @@
+Afton town, 1909
+Albin town, 185
+Alpine town, 818
+Baggs town, 437
+Bairoil town, 108
+Bar Nunn town, 2428
+Basin town, 1292
+Bear River town, 521
+Big Piney town, 565
+Buffalo city, 4625
+Burlington town, 309
+Burns town, 303
+Byron town, 599
+Casper city, 57813
+Cheyenne city, 61537
+Chugwater town, 216
+Clearmont town, 142
+Cody city, 9689
+Cokeville town, 528
+Cowley town, 694
+Dayton town, 777
+Deaver town, 182
+Diamondville town, 727
+Dixon town, 96
+Douglas city, 6280
+Dubois town, 1002
+East Thermopolis town, 253
+Edgerton town, 197
+Elk Mountain town, 194
+Encampment town, 443
+Evanston city, 12262
+Evansville town, 2827
+Fort Laramie town, 233
+Frannie town, 161
+Gillette city, 31378
+Glendo town, 205
+Glenrock town, 2583
+Granger town, 142
+Green River city, 12801
+Greybull town, 1853
+Guernsey town, 1171
+Hanna town, 827
+Hartville town, 63
+Hudson town, 468
+Hulett town, 391
+Jackson town, 9838
+Kaycee town, 261
+Kemmerer city, 2636
+Kirby town, 93
+La Barge town, 540
+La Grange town, 456
+Lander city, 7677
+Laramie city, 31681
+Lingle town, 476
+Lost Springs town, 4
+Lovell town, 2381
+Lusk town, 1557
+Lyman town, 2094
+Manderson town, 115
+Manville town, 94
+Marbleton town, 1110
+Medicine Bow town, 277
+Meeteetse town, 330
+Midwest town, 407
+Mills town, 3479
+Moorcroft town, 1023
+Mountain View town, 1314
+Newcastle city, 3478
+Opal town, 95
+Pavillion town, 240
+Pine Bluffs town, 1147
+Pinedale town, 2043
+Pine Haven town, 492
+Powell city, 6308
+Ranchester town, 898
+Rawlins city, 9113
+Riverside town, 51
+Riverton city, 10971
+Rock River town, 244
+Rock Springs city, 24047
+Rolling Hills town, 441
+Saratoga town, 1663
+Sheridan city, 17698
+Shoshoni town, 664
+Sinclair town, 423
+Star Valley Ranch town, 1491
+Sundance town, 1213
+Superior town, 340
+Ten Sleep town, 257
+Thayne town, 357
+Thermopolis town, 3019
+Torrington city, 6757
+Upton town, 1083
+Van Tassell town, 15
+Wamsutter town, 464
+Wheatland town, 3641
+Worland city, 5454
+Wright town, 1856
+Yoder town, 155

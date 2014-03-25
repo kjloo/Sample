@@ -1,0 +1,552 @@
+Aberdeen town, 6662
+Ahoskie town, 5001
+Alamance village, 967
+Albemarle city, 15932
+Alliance town, 767
+Andrews town, 1754
+Angier town, 4570
+Ansonville town, 616
+Apex town, 40420
+Arapahoe town, 553
+Archdale city, 11500
+Archer Lodge town, 4431
+Asheboro city, 25559
+Asheville city, 85712
+Askewville town, 242
+Atkinson town, 310
+Atlantic Beach town, 1493
+Aulander town, 866
+Aurora town, 518
+Autryville town, 198
+Ayden town, 5032
+Badin town, 1977
+Bailey town, 571
+Bakersville town, 456
+Bald Head Island village, 162
+Banner Elk town, 1093
+Bath town, 247
+Bayboro town, 1265
+Bear Grass town, 72
+Beaufort town, 4095
+Beech Mountain town, 319
+Belhaven town, 1639
+Belmont city, 10302
+Belville town, 2009
+Belwood town, 940
+Benson town, 3419
+Bermuda Run town, 1741
+Bessemer City city, 5386
+Bethania town, 335
+Bethel town, 1614
+Beulaville town, 1335
+Biltmore Forest town, 1381
+Biscoe town, 1695
+Black Creek town, 773
+Black Mountain town, 7971
+Bladenboro town, 1739
+Blowing Rock town, 1235
+Boardman town, 156
+Bogue town, 688
+Boiling Spring Lakes city, 5506
+Boiling Springs town, 4618
+Bolivia town, 146
+Bolton town, 684
+Boone town, 17774
+Boonville town, 1217
+Bostic town, 383
+Brevard city, 7553
+Bridgeton town, 456
+Broadway town, 1267
+Brookford town, 379
+Brunswick town, 1115
+Bryson City town, 1440
+Bunn town, 349
+Burgaw town, 3972
+Burlington city, 51306
+Burnsville town, 1673
+Butner town, 7647
+Cajah's Mountain town, 2766
+Calabash town, 2038
+Calypso town, 552
+Cameron town, 292
+Candor town, 838
+Canton town, 4174
+Cape Carteret town, 1927
+Carolina Beach town, 5883
+Carolina Shores town, 3429
+Carrboro town, 20433
+Carthage town, 2310
+Cary town, 145693
+Casar town, 295
+Castalia town, 267
+Caswell Beach town, 401
+Catawba town, 604
+Cedar Point town, 1287
+Cedar Rock village, 296
+Centerville town, 90
+Cerro Gordo town, 206
+Chadbourn town, 1839
+Chapel Hill town, 58424
+Charlotte city, 775202
+Cherryville city, 5804
+Chimney Rock Village village, 109
+China Grove town, 4156
+Chocowinity town, 814
+Claremont city, 1354
+Clarkton town, 829
+Clayton town, 17031
+Clemmons village, 19108
+Cleveland town, 870
+Clinton city, 8743
+Clyde town, 1222
+Coats town, 2271
+Cofield village, 407
+Colerain town, 198
+Columbia town, 863
+Columbus town, 986
+Como town, 90
+Concord city, 81981
+Conetoe town, 292
+Connelly Springs town, 1660
+Conover city, 8165
+Conway town, 808
+Cooleemee town, 964
+Cornelius town, 26243
+Cove City town, 402
+Cramerton town, 4201
+Creedmoor city, 4226
+Creswell town, 267
+Crossnore town, 194
+Dallas town, 4526
+Danbury town, 188
+Davidson town, 11484
+Denton town, 1643
+Dillsboro town, 249
+Dobbins Heights town, 865
+Dobson town, 1586
+Dortches town, 935
+Dover town, 404
+Drexel town, 1861
+Dublin town, 336
+Duck town, 374
+Dunn city, 9584
+Durham city, 239358
+Earl town, 259
+East Arcadia town, 487
+East Bend town, 606
+East Laurinburg town, 295
+Eastover town, 3687
+East Spencer town, 1533
+Eden city, 15341
+Edenton town, 4993
+Elizabeth City city, 18478
+Elizabethtown town, 3611
+Elkin town, 4024
+Elk Park town, 444
+Ellenboro town, 867
+Ellerbe town, 1027
+Elm City town, 1344
+Elon town, 9576
+Emerald Isle town, 3669
+Enfield town, 2496
+Erwin town, 4573
+Eureka town, 199
+Everetts town, 161
+Fair Bluff town, 939
+Fairmont town, 2703
+Fairview town, 3445
+Faison town, 987
+Faith town, 807
+Falcon town, 261
+Falkland town, 98
+Fallston town, 604
+Farmville town, 4742
+Fayetteville city, 202103
+Flat Rock village, 3166
+Fletcher town, 7290
+Forest City town, 7413
+Forest Hills village, 364
+Fountain town, 436
+Four Oaks town, 1967
+Foxfire village, 930
+Franklin town, 3896
+Franklinton town, 2052
+Franklinville town, 1161
+Fremont town, 1272
+Fuquay-Varina town, 19929
+Gamewell town, 3993
+Garland town, 631
+Garner town, 26732
+Garysburg town, 1022
+Gaston town, 1116
+Gastonia city, 72723
+Gatesville town, 315
+Gibson town, 534
+Gibsonville town, 6582
+Glen Alpine town, 1513
+Godwin town, 141
+Goldsboro city, 37051
+Goldston town, 278
+Graham city, 14248
+Grandfather village, 25
+Granite Falls town, 4665
+Granite Quarry town, 2933
+Grantsboro town, 682
+Greenevers town, 653
+Green Level town, 2125
+Greensboro city, 277080
+Greenville city, 87242
+Grifton town, 2667
+Grimesland town, 445
+Grover town, 704
+Halifax town, 231
+Hamilton town, 398
+Hamlet city, 6620
+Harmony town, 539
+Harrells town, 205
+Harrellsville town, 106
+Harrisburg town, 11973
+Hassell town, 82
+Havelock city, 20767
+Haw River town, 2334
+Hayesville town, 320
+Hemby Bridge town, 1579
+Henderson city, 15320
+Hendersonville city, 13288
+Hertford town, 2168
+Hickory city, 40093
+Highlands town, 923
+High Point city, 106586
+High Shoals city, 702
+Hildebran town, 2018
+Hillsborough town, 6271
+Hobgood town, 344
+Hoffman town, 587
+Holden Beach town, 593
+Holly Ridge town, 1561
+Holly Springs town, 26865
+Hookerton town, 407
+Hope Mills town, 15597
+Hot Springs town, 556
+Hudson town, 3733
+Huntersville town, 49344
+Indian Beach town, 114
+Indian Trail town, 34800
+Jackson town, 498
+Jacksonville city, 69220
+Jamestown town, 3538
+Jamesville town, 481
+Jefferson town, 1594
+Jonesville town, 2271
+Kannapolis city, 43782
+Kelford town, 243
+Kenansville town, 878
+Kenly town, 1381
+Kernersville town, 23452
+Kill Devil Hills town, 6827
+King city, 6871
+Kings Mountain city, 10648
+Kingstown town, 677
+Kinston city, 21625
+Kittrell town, 466
+Kitty Hawk town, 3331
+Knightdale town, 12724
+Kure Beach town, 2063
+La Grange town, 2860
+Lake Lure town, 1191
+Lake Park village, 3558
+Lake Santeetlah town, 44
+Lake Waccamaw town, 1481
+Landis town, 3091
+Lansing town, 157
+Lasker town, 118
+Lattimore town, 486
+Laurel Park town, 2228
+Laurinburg city, 15791
+Lawndale town, 599
+Leggett town, 59
+Leland town, 15123
+Lenoir city, 17999
+Lewiston Woodville town, 530
+Lewisville town, 13050
+Lexington city, 18936
+Liberty town, 2668
+Lilesville town, 523
+Lillington town, 3346
+Lincolnton city, 10640
+Linden town, 132
+Littleton town, 663
+Locust city, 2943
+Long View town, 4867
+Louisburg town, 3412
+Love Valley town, 91
+Lowell city, 3554
+Lucama town, 1111
+Lumber Bridge town, 93
+Lumberton city, 21768
+McAdenville town, 654
+Macclesfield town, 466
+McDonald town, 115
+McFarlan town, 114
+Macon town, 117
+Madison town, 2222
+Maggie Valley town, 1140
+Magnolia town, 962
+Maiden town, 3332
+Manteo town, 1346
+Marietta town, 177
+Marion city, 7964
+Marshall town, 868
+Mars Hill town, 2036
+Marshville town, 2489
+Marvin village, 5805
+Matthews town, 28699
+Maxton town, 2461
+Mayodan town, 2472
+Maysville town, 1030
+Mebane city, 12685
+Mesic town, 218
+Micro town, 455
+Middleburg town, 132
+Middlesex town, 822
+Midland town, 3160
+Midway town, 4710
+Mills River town, 6897
+Milton town, 163
+Mineral Springs town, 2738
+Minnesott Beach town, 438
+Mint Hill town, 23956
+Misenheimer village, 684
+Mocksville town, 5088
+Momeyer town, 223
+Monroe city, 33641
+Montreat town, 685
+Mooresboro town, 309
+Mooresville town, 33451
+Morehead City town, 9042
+Morganton city, 16861
+Morrisville town, 20591
+Morven town, 498
+Mount Airy city, 10436
+Mount Gilead town, 1182
+Mount Holly city, 13776
+Mount Olive town, 4653
+Mount Pleasant town, 1711
+Murfreesboro town, 2813
+Murphy town, 1601
+Nags Head town, 2811
+Nashville town, 5376
+Navassa town, 1523
+New Bern city, 30316
+Newland town, 686
+New London town, 605
+Newport town, 4615
+Newton city, 12975
+Newton Grove town, 575
+Norlina town, 1095
+Norman town, 137
+North Topsail Beach town, 738
+Northwest city, 756
+North Wilkesboro town, 4251
+Norwood town, 2384
+Oakboro town, 1864
+Oak City town, 310
+Oak Island town, 7003
+Oak Ridge town, 6436
+Ocean Isle Beach town, 567
+Old Fort town, 908
+Oriental town, 899
+Orrum town, 92
+Ossipee town, 551
+Oxford city, 8575
+Pantego town, 178
+Parkton town, 441
+Parmele town, 271
+Patterson Springs town, 614
+Peachland town, 428
+Peletier town, 646
+Pembroke town, 3015
+Pikeville town, 687
+Pilot Mountain town, 1477
+Pinebluff town, 1363
+Pinehurst village, 15008
+Pine Knoll Shores town, 1344
+Pine Level town, 1757
+Pinetops town, 1360
+Pineville town, 7894
+Pink Hill town, 549
+Pittsboro town, 3888
+Pleasant Garden town, 4585
+Plymouth town, 3749
+Polkton town, 3330
+Polkville city, 542
+Pollocksville town, 315
+Powellsville town, 268
+Princeton town, 1234
+Princeville town, 2057
+Proctorville town, 119
+Raeford city, 4827
+Raleigh city, 423179
+Ramseur town, 1700
+Randleman city, 4138
+Ranlo town, 3460
+Raynham town, 73
+Red Cross town, 741
+Red Oak town, 3445
+Red Springs town, 3461
+Reidsville city, 14341
+Rennert town, 388
+Rhodhiss town, 1062
+Richfield town, 612
+Richlands town, 1617
+Rich Square town, 933
+River Bend town, 3164
+Roanoke Rapids city, 15692
+Robbins town, 1134
+Robbinsville town, 607
+Robersonville town, 1457
+Rockingham city, 9499
+Rockwell town, 2112
+Rocky Mount city, 57136
+Rolesville town, 4263
+Ronda town, 417
+Roper town, 587
+Roseboro town, 1200
+Rose Hill town, 1673
+Rosman town, 568
+Rowland town, 1049
+Roxboro city, 8320
+Roxobel town, 233
+Rural Hall town, 3010
+Ruth town, 437
+Rutherford College town, 1336
+Rutherfordton town, 4208
+St. Helena village, 400
+St. James town, 3602
+St. Pauls town, 2432
+Salemburg town, 434
+Salisbury city, 33622
+Saluda city, 703
+Sandy Creek town, 265
+Sandyfield town, 441
+Sanford city, 29064
+Saratoga town, 410
+Sawmills town, 5162
+Scotland Neck town, 2029
+Seaboard town, 612
+Seagrove town, 229
+Sedalia town, 637
+Selma town, 6185
+Seven Devils town, 196
+Seven Springs town, 111
+Severn town, 268
+Shallotte town, 3801
+Sharpsburg town, 2028
+Shelby city, 20270
+Siler City town, 8158
+Simpson village, 424
+Sims town, 283
+Smithfield town, 11339
+Snow Hill town, 1592
+Southern Pines town, 12736
+Southern Shores town, 2767
+Southport city, 3023
+Sparta town, 1735
+Speed town, 79
+Spencer town, 3263
+Spencer Mountain town, 37
+Spindale town, 4302
+Spring Hope town, 1324
+Spring Lake town, 13217
+Spruce Pine town, 2154
+Staley town, 390
+Stallings town, 14379
+Stanfield town, 1486
+Stanley town, 3589
+Stantonsburg town, 788
+Star town, 873
+Statesville city, 25044
+Stedman town, 1043
+Stem town, 465
+Stokesdale town, 5168
+Stoneville town, 1048
+Stonewall town, 278
+Stovall town, 420
+Sugar Mountain village, 196
+Summerfield town, 10485
+Sunset Beach town, 3647
+Surf City town, 1970
+Swansboro town, 2863
+Swepsonville town, 1172
+Sylva town, 2705
+Tabor City town, 3969
+Tarboro town, 11327
+Tar Heel town, 145
+Taylorsville town, 2075
+Taylortown town, 786
+Teachey town, 439
+Thomasville city, 26841
+Tobaccoville village, 2495
+Topsail Beach town, 383
+Trenton town, 297
+Trent Woods town, 4215
+Trinity city, 6648
+Troutman town, 2431
+Troy town, 3493
+Tryon town, 1621
+Turkey town, 295
+Unionville town, 6172
+Valdese town, 4491
+Vanceboro town, 1013
+Vandemere town, 252
+Varnamtown town, 558
+Vass town, 722
+Waco town, 319
+Wade town, 562
+Wadesboro town, 5706
+Wagram town, 827
+Wake Forest town, 32936
+Walkertown town, 4757
+Wallace town, 3983
+Wallburg town, 3057
+Walnut Cove town, 1411
+Walnut Creek village, 850
+Walstonburg town, 220
+Warrenton town, 845
+Warsaw town, 3144
+Washington city, 9757
+Washington Park town, 450
+Watha town, 215
+Waxhaw town, 10334
+Waynesville town, 9789
+Weaverville town, 3780
+Webster town, 367
+Weddington town, 9887
+Weldon town, 1628
+Wendell town, 6155
+Wentworth town, 2785
+Wesley Chapel village, 7894
+West Jefferson town, 1293
+Whispering Pines village, 3025
+Whitakers town, 740
+White Lake town, 795
+Whiteville city, 5444
+Whitsett town, 603
+Wilkesboro town, 3426
+Williamston town, 5421
+Wilmington city, 109922
+Wilson city, 49610
+Wilson's Mills town, 2352
+Windsor town, 3579
+Winfall town, 604
+Wingate town, 3651
+Winston-Salem city, 234349
+Winterville town, 9471
+Winton town, 759
+Woodfin town, 6139
+Woodland town, 779
+Wrightsville Beach town, 2534
+Yadkinville town, 2952
+Yanceyville town, 2010
+Youngsville town, 1173
+Zebulon town, 4610

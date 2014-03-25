@@ -1,0 +1,482 @@
+Adelanto city, 31239
+Agoura Hills city, 20657
+Alameda city, 75641
+Albany city, 18969
+Alhambra city, 84322
+Aliso Viejo city, 49493
+Alturas city, 2718
+Amador City city, 184
+American Canyon city, 19933
+Anaheim city, 343248
+Anderson city, 10058
+Angels city, 3753
+Antioch city, 105508
+Apple Valley town, 70700
+Arcadia city, 57497
+Arcata city, 17726
+Arroyo Grande city, 17543
+Artesia city, 16682
+Arvin city, 20127
+Atascadero city, 28814
+Atherton town, 7191
+Atwater city, 28742
+Auburn city, 13676
+Avalon city, 3765
+Avenal city, 14846
+Azusa city, 47407
+Bakersfield city, 358597
+Baldwin Park city, 76419
+Banning city, 30310
+Barstow city, 23033
+Beaumont city, 39455
+Bell city, 35820
+Bellflower city, 77356
+Bell Gardens city, 42757
+Belmont city, 26491
+Belvedere city, 2108
+Benicia city, 27426
+Berkeley city, 115403
+Beverly Hills city, 34622
+Big Bear Lake city, 5116
+Biggs city, 1710
+Bishop city, 3864
+Blue Lake city, 1248
+Blythe city, 20590
+Bradbury city, 1072
+Brawley city, 25567
+Brea city, 40330
+Brentwood city, 53673
+Brisbane city, 4394
+Buellton city, 4904
+Buena Park city, 82155
+Burbank city, 104391
+Burlingame city, 29660
+Calabasas city, 23954
+Calexico city, 39310
+California City city, 13364
+Calimesa city, 8066
+Calipatria city, 7962
+Calistoga city, 5208
+Camarillo city, 65968
+Campbell city, 40272
+Canyon Lake city, 10861
+Capitola city, 10012
+Carlsbad city, 109318
+Carmel-by-the-Sea city, 3807
+Carpinteria city, 13231
+Carson city, 93002
+Cathedral City city, 52655
+Ceres city, 45719
+Cerritos city, 49629
+Chico city, 87714
+Chino city, 80164
+Chino Hills city, 76457
+Chowchilla city, 17925
+Chula Vista city, 252422
+Citrus Heights city, 84870
+Claremont city, 35457
+Clayton city, 11318
+Clearlake city, 15029
+Cloverdale city, 8695
+Clovis city, 98632
+Coachella city, 42734
+Coalinga city, 16789
+Colfax city, 2006
+Colma town, 1470
+Colton city, 53123
+Colusa city, 5962
+Commerce city, 12954
+Compton city, 97559
+Concord city, 124711
+Corcoran city, 23551
+Corning city, 7645
+Corona city, 158391
+Coronado city, 23391
+Corte Madera town, 9377
+Costa Mesa city, 111918
+Cotati city, 7360
+Covina city, 48346
+Crescent City city, 7394
+Cudahy city, 24021
+Culver City city, 39313
+Cupertino city, 60009
+Cypress city, 48779
+Daly City city, 103690
+Dana Point city, 34048
+Danville town, 43088
+Davis city, 65993
+Delano city, 52426
+Del Mar city, 4261
+Del Rey Oaks city, 1662
+Desert Hot Springs city, 27745
+Diamond Bar city, 56363
+Dinuba city, 22955
+Dixon city, 18660
+Dorris city, 917
+Dos Palos city, 5044
+Downey city, 112873
+Duarte city, 21657
+Dublin city, 48775
+Dunsmuir city, 1602
+East Palo Alto city, 28867
+Eastvale city, 54635
+El Cajon city, 101435
+El Centro city, 43107
+El Cerrito city, 24048
+Elk Grove city, 159038
+El Monte city, 115111
+El Paso de Robles (Paso Robles) city, 30556
+El Segundo city, 16849
+Emeryville city, 10335
+Encinitas city, 60994
+Escalon city, 7266
+Escondido city, 147575
+Etna city, 725
+Eureka city, 26961
+Exeter city, 10466
+Fairfax town, 7534
+Fairfield city, 107684
+Farmersville city, 10740
+Ferndale city, 1366
+Fillmore city, 15162
+Firebaugh city, 7946
+Folsom city, 73384
+Fontana city, 201812
+Fort Bragg city, 7252
+Fort Jones city, 827
+Fortuna city, 11836
+Foster City city, 32129
+Fountain Valley city, 56464
+Fowler city, 5939
+Fremont city, 221986
+Fresno city, 505882
+Fullerton city, 138574
+Galt city, 24337
+Gardena city, 59490
+Garden Grove city, 174389
+Gilroy city, 50660
+Glendale city, 194478
+Glendora city, 50719
+Goleta city, 30289
+Gonzales city, 8364
+Grand Terrace city, 12290
+Grass Valley city, 12808
+Greenfield city, 16793
+Gridley city, 6567
+Grover Beach city, 13342
+Guadalupe city, 7176
+Gustine city, 5625
+Half Moon Bay city, 11653
+Hanford city, 54324
+Hawaiian Gardens city, 14393
+Hawthorne city, 85681
+Hayward city, 149392
+Healdsburg city, 11440
+Hemet city, 81046
+Hercules city, 24660
+Hermosa Beach city, 19773
+Hesperia city, 92062
+Hidden Hills city, 1893
+Highland city, 54154
+Hillsborough town, 11144
+Hollister city, 36096
+Holtville city, 6005
+Hughson city, 6836
+Huntington Beach city, 194708
+Huntington Park city, 58673
+Huron city, 6798
+Imperial city, 15665
+Imperial Beach city, 26845
+Indian Wells city, 5126
+Indio city, 79302
+Industry city, 222
+Inglewood city, 111182
+Ione city, 7296
+Irvine city, 229985
+Irwindale city, 1436
+Isleton city, 814
+Jackson city, 4570
+Jurupa Valley city, 97426
+Kerman city, 14306
+King City city, 13169
+Kingsburg city, 11588
+La Cañada Flintridge city, 20493
+Lafayette city, 24589
+Laguna Beach city, 23176
+Laguna Hills city, 30951
+Laguna Niguel city, 64452
+Laguna Woods city, 16493
+La Habra city, 61392
+La Habra Heights city, 5411
+Lake Elsinore city, 55288
+Lake Forest city, 78853
+Lakeport city, 4695
+Lakewood city, 80833
+La Mesa city, 58160
+La Mirada city, 49001
+Lancaster city, 159055
+La Palma city, 15860
+La Puente city, 40272
+La Quinta city, 38783
+Larkspur city, 12099
+Lathrop city, 19141
+La Verne city, 31348
+Lawndale city, 33122
+Lemon Grove city, 25961
+Lemoore city, 24738
+Lincoln city, 44390
+Lindsay city, 12833
+Live Oak city, 8514
+Livermore city, 83547
+Livingston city, 13538
+Lodi city, 63301
+Loma Linda city, 23600
+Lomita city, 20533
+Lompoc city, 43260
+Long Beach city, 467892
+Loomis town, 6617
+Los Alamitos city, 11668
+Los Altos city, 29929
+Los Altos Hills town, 8212
+Los Angeles city, 3857799
+Los Banos city, 36747
+Los Gatos town, 30141
+Loyalton city, 729
+Lynwood city, 70709
+McFarland city, 12393
+Madera city, 62624
+Malibu city, 12832
+Mammoth Lakes town, 8253
+Manhattan Beach city, 35738
+Manteca city, 71067
+Maricopa city, 1163
+Marina city, 20253
+Martinez city, 36673
+Marysville city, 12152
+Maywood city, 27659
+Mendota city, 11398
+Menifee city, 81474
+Menlo Park city, 32881
+Merced city, 80793
+Millbrae city, 22078
+Mill Valley city, 14159
+Milpitas city, 68800
+Mission Viejo city, 95290
+Modesto city, 203547
+Monrovia city, 36955
+Montague city, 1419
+Montclair city, 37528
+Montebello city, 63305
+Monterey city, 29003
+Monterey Park city, 60937
+Monte Sereno city, 3464
+Moorpark city, 35088
+Moraga town, 16511
+Moreno Valley city, 199552
+Morgan Hill city, 39420
+Morro Bay city, 10370
+Mountain View city, 76621
+Mount Shasta city, 3330
+Murrieta city, 106810
+Napa city, 78340
+National City city, 59387
+Needles city, 4912
+Nevada City city, 3046
+Newark city, 43621
+Newman city, 10576
+Newport Beach city, 87068
+Norco city, 27393
+Norwalk city, 106278
+Novato city, 53301
+Oakdale city, 21194
+Oakland city, 400740
+Oakley city, 37278
+Oceanside city, 171293
+Ojai city, 7558
+Ontario city, 167211
+Orange city, 139419
+Orange Cove city, 9580
+Orinda city, 18342
+Orland city, 7396
+Oroville city, 15566
+Oxnard city, 201555
+Pacifica city, 38189
+Pacific Grove city, 15407
+Palmdale city, 155650
+Palm Desert city, 50013
+Palm Springs city, 45907
+Palo Alto city, 66363
+Palos Verdes Estates city, 13606
+Paradise town, 26216
+Paramount city, 54680
+Parlier city, 14777
+Pasadena city, 138547
+Patterson city, 20659
+Perris city, 71326
+Petaluma city, 58921
+Pico Rivera city, 63522
+Piedmont city, 10893
+Pinole city, 18729
+Pismo Beach city, 7785
+Pittsburg city, 65664
+Placentia city, 51673
+Placerville city, 10348
+Pleasant Hill city, 33831
+Pleasanton city, 72338
+Plymouth city, 984
+Point Arena city, 447
+Pomona city, 150812
+Porterville city, 55023
+Port Hueneme city, 21856
+Portola city, 2030
+Portola Valley town, 4490
+Poway city, 49071
+Rancho Cordova city, 66997
+Rancho Cucamonga city, 170746
+Rancho Mirage city, 17687
+Rancho Palos Verdes city, 42323
+Rancho Santa Margarita city, 48879
+Red Bluff city, 14157
+Redding city, 90755
+Redlands city, 69916
+Redondo Beach city, 67693
+Redwood City city, 79009
+Reedley city, 24842
+Rialto city, 101740
+Richmond city, 106516
+Ridgecrest city, 28325
+Rio Dell city, 3369
+Rio Vista city, 7563
+Ripon city, 14686
+Riverbank city, 23298
+Riverside city, 313673
+Rocklin city, 59030
+Rohnert Park city, 41232
+Rolling Hills city, 1886
+Rolling Hills Estates city, 8190
+Rosemead city, 54393
+Roseville city, 124519
+Ross town, 2439
+Sacramento city, 475516
+St. Helena city, 5907
+Salinas city, 154484
+San Anselmo town, 12491
+San Bernardino city, 213295
+San Bruno city, 42165
+San Buenaventura (Ventura) city, 107734
+San Carlos city, 29092
+San Clemente city, 64882
+Sand City city, 342
+San Diego city, 1338348
+San Dimas city, 33737
+San Fernando city, 23880
+San Francisco city, 825863
+San Gabriel city, 40150
+Sanger city, 24567
+San Jacinto city, 45384
+San Joaquin city, 3998
+San Jose city, 982765
+San Juan Bautista city, 1900
+San Juan Capistrano city, 35360
+San Leandro city, 86890
+San Luis Obispo city, 45878
+San Marcos city, 86752
+San Marino city, 13269
+San Mateo city, 99670
+San Pablo city, 29720
+San Rafael city, 58502
+San Ramon city, 73927
+Santa Ana city, 330920
+Santa Barbara city, 89639
+Santa Clara city, 119311
+Santa Clarita city, 179013
+Santa Cruz city, 62041
+Santa Fe Springs city, 16767
+Santa Maria city, 101459
+Santa Monica city, 91812
+Santa Paula city, 29963
+Santa Rosa city, 170685
+Santee city, 55343
+Saratoga city, 30677
+Sausalito city, 7037
+Scotts Valley city, 11670
+Seal Beach city, 24664
+Seaside city, 33878
+Sebastopol city, 7525
+Selma city, 23778
+Shafter city, 17117
+Shasta Lake city, 10213
+Sierra Madre city, 11016
+Signal Hill city, 11185
+Simi Valley city, 125793
+Solana Beach city, 13154
+Soledad city, 26478
+Solvang city, 5343
+Sonoma city, 10849
+Sonora city, 4804
+South El Monte city, 20296
+South Gate city, 95304
+South Lake Tahoe city, 21286
+South Pasadena city, 25860
+South San Francisco city, 65547
+Stanton city, 38915
+Stockton city, 297984
+Suisun City city, 28644
+Sunnyvale city, 146197
+Susanville city, 16616
+Sutter Creek city, 2457
+Taft city, 8954
+Tehachapi city, 13784
+Tehama city, 419
+Temecula city, 105208
+Temple City city, 36099
+Thousand Oaks city, 128412
+Tiburon town, 9093
+Torrance city, 147027
+Tracy city, 84669
+Trinidad city, 364
+Truckee town, 16156
+Tulare city, 60933
+Tulelake city, 993
+Turlock city, 69733
+Tustin city, 78049
+Twentynine Palms city, 25713
+Ukiah city, 15907
+Union City city, 71763
+Upland city, 75209
+Vacaville city, 93899
+Vallejo city, 117796
+Vernon city, 114
+Victorville city, 120336
+Villa Park city, 5925
+Visalia city, 127081
+Vista city, 96047
+Walnut city, 30011
+Walnut Creek city, 65695
+Wasco city, 25495
+Waterford city, 8559
+Watsonville city, 51881
+Weed city, 2941
+West Covina city, 107440
+West Hollywood city, 34781
+Westlake Village city, 8399
+Westminster city, 91377
+Westmorland city, 2267
+West Sacramento city, 49523
+Wheatland city, 3514
+Whittier city, 86177
+Wildomar city, 33192
+Williams city, 5166
+Willits city, 4845
+Willows city, 6128
+Windsor town, 27144
+Winters city, 6898
+Woodlake city, 7389
+Woodland city, 56271
+Woodside town, 5461
+Yorba Linda city, 66735
+Yountville city, 2965
+Yreka city, 7679
+Yuba City city, 65105
+Yucaipa city, 52265
+Yucca Valley town, 21098

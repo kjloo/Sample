@@ -1,0 +1,947 @@
+Ackley city, 1569
+Ackworth city, 83
+Adair city, 758
+Adel city, 3922
+Afton city, 850
+Agency city, 634
+Ainsworth city, 570
+Akron city, 1469
+Albert City city, 706
+Albia city, 3814
+Albion city, 507
+Alburnett city, 675
+Alden city, 777
+Alexander city, 174
+Algona city, 5509
+Alleman city, 439
+Allerton city, 495
+Allison city, 1027
+Alta city, 1945
+Alta Vista city, 263
+Alton city, 1233
+Altoona city, 15409
+Alvord city, 197
+Ames city, 60634
+Anamosa city, 5625
+Andover city, 102
+Andrew city, 431
+Anita city, 956
+Ankeny city, 49080
+Anthon city, 567
+Aplington city, 1125
+Arcadia city, 477
+Archer city, 129
+Aredale city, 74
+Arion city, 109
+Arispe city, 101
+Arlington city, 427
+Armstrong city, 923
+Arnolds Park city, 1180
+Arthur city, 207
+Asbury city, 4866
+Ashton city, 437
+Aspinwall city, 41
+Atalissa city, 307
+Atkins city, 1698
+Atlantic city, 7008
+Auburn city, 317
+Audubon city, 2094
+Aurelia city, 1032
+Aurora city, 171
+Avoca city, 1503
+Ayrshire city, 142
+Badger city, 549
+Bagley city, 295
+Baldwin city, 108
+Balltown city, 68
+Bancroft city, 725
+Bankston city, 25
+Barnes City city, 177
+Barnum city, 189
+Bassett city, 65
+Batavia city, 498
+Battle Creek city, 714
+Baxter city, 1096
+Bayard city, 465
+Beacon city, 492
+Beaconsfield city, 15
+Beaman city, 194
+Beaver city, 48
+Bedford city, 1413
+Belle Plaine city, 2507
+Bellevue city, 2177
+Belmond city, 2348
+Bennett city, 398
+Benton city, 43
+Berkley city, 32
+Bernard city, 111
+Bertram city, 298
+Bettendorf city, 34255
+Bevington city, 62
+Birmingham city, 440
+Blairsburg city, 214
+Blairstown city, 682
+Blakesburg city, 292
+Blanchard city, 37
+Blencoe city, 220
+Blockton city, 190
+Bloomfield city, 2605
+Blue Grass city, 1556
+Bode city, 300
+Bonaparte city, 425
+Bondurant city, 4225
+Boone city, 12546
+Bouton city, 135
+Boxholm city, 194
+Boyden city, 712
+Braddyville city, 156
+Bradgate city, 85
+Brandon city, 309
+Brayton city, 122
+Breda city, 478
+Bridgewater city, 178
+Brighton city, 657
+Bristow city, 161
+Britt city, 2046
+Bronson city, 323
+Brooklyn city, 1450
+Brunsville city, 150
+Buckeye city, 107
+Buck Grove city, 44
+Buffalo city, 1295
+Buffalo Center city, 894
+Burlington city, 25665
+Burt city, 523
+Bussey city, 419
+Calamus city, 430
+Callender city, 364
+Calmar city, 973
+Calumet city, 170
+Camanche city, 4429
+Cambridge city, 824
+Cantril city, 220
+Carbon city, 33
+Carlisle city, 3924
+Carpenter city, 108
+Carroll city, 10017
+Carson city, 807
+Carter Lake city, 3765
+Cascade city, 2202
+Casey city, 416
+Castalia city, 172
+Castana city, 145
+Cedar Falls city, 39993
+Cedar Rapids city, 128119
+Center Junction city, 110
+Center Point city, 2467
+Centerville city, 5464
+Central City city, 1273
+Centralia city, 133
+Chariton city, 4261
+Charles City city, 7515
+Charlotte city, 386
+Charter Oak city, 506
+Chatsworth city, 80
+Chelsea city, 262
+Cherokee city, 5179
+Chester city, 127
+Chillicothe city, 97
+Churdan city, 375
+Cincinnati city, 351
+Clare city, 143
+Clarence city, 966
+Clarinda city, 5483
+Clarion city, 2789
+Clarksville city, 1434
+Clayton city, 42
+Clearfield city, 356
+Clear Lake city, 7741
+Cleghorn city, 238
+Clemons city, 149
+Clermont city, 633
+Clinton city, 26647
+Clio city, 80
+Clive city, 16220
+Clutier city, 211
+Coburg city, 41
+Coggon city, 658
+Coin city, 190
+Colesburg city, 396
+Colfax city, 2061
+College Springs city, 210
+Collins city, 488
+Colo city, 870
+Columbus City city, 381
+Columbus Junction city, 1879
+Colwell city, 72
+Conesville city, 428
+Conrad city, 1104
+Conway city, 40
+Coon Rapids city, 1287
+Coppock city, 47
+Coralville city, 19692
+Corning city, 1581
+Correctionville city, 814
+Corwith city, 272
+Corydon city, 1574
+Cotter city, 47
+Coulter city, 279
+Council Bluffs city, 62115
+Craig city, 88
+Crawfordsville city, 266
+Crescent city, 613
+Cresco city, 3886
+Creston city, 7874
+Cromwell city, 108
+Crystal Lake city, 246
+Cumberland city, 259
+Cumming city, 373
+Curlew city, 57
+Cushing city, 221
+Cylinder city, 87
+Dakota City city, 835
+Dallas Center city, 1707
+Dana city, 70
+Danbury city, 345
+Danville city, 937
+Davenport city, 101363
+Davis City city, 197
+Dawson city, 137
+Dayton city, 818
+Decatur City city, 190
+Decorah city, 8109
+Dedham city, 266
+Deep River city, 276
+Defiance city, 283
+Delaware city, 157
+Delhi city, 464
+Delmar city, 517
+Deloit city, 267
+Delphos city, 25
+Delta city, 325
+Denison city, 8387
+Denver city, 1792
+Derby city, 113
+Des Moines city, 206688
+De Soto city, 1091
+De Witt city, 5285
+Dexter city, 625
+Diagonal city, 331
+Dickens city, 184
+Dike city, 1231
+Dixon city, 246
+Dolliver city, 66
+Donahue city, 364
+Donnellson city, 900
+Doon city, 591
+Dougherty city, 57
+Dow City city, 514
+Dows city, 528
+Drakesville city, 184
+Dubuque city, 58155
+Dumont city, 636
+Duncombe city, 399
+Dundee city, 172
+Dunkerton city, 850
+Dunlap city, 1012
+Durango city, 22
+Durant city, 1829
+Dyersville city, 4086
+Dysart city, 1367
+Eagle Grove city, 3515
+Earlham city, 1428
+Earling city, 431
+Earlville city, 802
+Early city, 545
+East Peru city, 124
+Eddyville city, 1021
+Edgewood city, 865
+Elberon city, 194
+Eldon city, 916
+Eldora city, 2703
+Eldridge city, 5903
+Elgin city, 676
+Elkader city, 1240
+Elkhart city, 691
+Elk Horn city, 647
+Elkport city, 36
+Elk Run Heights city, 1129
+Elliott city, 344
+Ellston city, 43
+Ellsworth city, 522
+Elma city, 550
+Ely city, 1880
+Emerson city, 430
+Emmetsburg city, 3838
+Epworth city, 1913
+Essex city, 782
+Estherville city, 6221
+Evansdale city, 4754
+Everly city, 604
+Exira city, 801
+Exline city, 158
+Fairbank city, 1107
+Fairfax city, 2295
+Fairfield city, 9476
+Farley city, 1563
+Farmersburg city, 296
+Farmington city, 656
+Farnhamville city, 359
+Farragut city, 463
+Fayette city, 1386
+Fenton city, 273
+Ferguson city, 127
+Fertile city, 368
+Floris city, 138
+Floyd city, 331
+Fonda city, 617
+Fontanelle city, 655
+Forest City city, 4009
+Fort Atkinson city, 343
+Fort Dodge city, 24751
+Fort Madison city, 11019
+Fostoria city, 230
+Franklin city, 142
+Fraser city, 101
+Fredericksburg city, 925
+Frederika city, 183
+Fredonia city, 241
+Fremont city, 742
+Fruitland city, 981
+Galt city, 32
+Galva city, 438
+Garber city, 86
+Garden Grove city, 204
+Garnavillo city, 729
+Garner city, 3091
+Garrison city, 368
+Garwin city, 518
+Geneva city, 164
+George city, 1085
+Gibson city, 60
+Gilbert city, 1069
+Gilbertville city, 742
+Gillett Grove city, 49
+Gilman city, 509
+Gilmore City city, 500
+Gladbrook city, 934
+Glenwood city, 5232
+Glidden city, 1136
+Goldfield city, 622
+Goodell city, 137
+Goose Lake city, 238
+Gowrie city, 1016
+Graettinger city, 832
+Graf city, 79
+Grafton city, 250
+Grand Junction city, 804
+Grand Mound city, 636
+Grand River city, 228
+Grandview city, 545
+Granger city, 1346
+Grant city, 91
+Granville city, 316
+Gravity city, 186
+Gray city, 60
+Greeley city, 253
+Greene city, 1134
+Greenfield city, 1930
+Greenville city, 75
+Grimes city, 9040
+Grinnell city, 9118
+Griswold city, 1010
+Grundy Center city, 2715
+Gruver city, 93
+Guernsey city, 62
+Guthrie Center city, 1538
+Guttenberg city, 1873
+Halbur city, 243
+Hamburg city, 1137
+Hamilton city, 130
+Hampton city, 4398
+Hancock city, 195
+Hanlontown city, 225
+Hansell city, 97
+Harcourt city, 297
+Hardy city, 47
+Harlan city, 5085
+Harper city, 113
+Harpers Ferry city, 327
+Harris city, 164
+Hartford city, 764
+Hartley city, 1648
+Hartwick city, 85
+Harvey city, 236
+Hastings city, 150
+Havelock city, 135
+Haverhill city, 175
+Hawarden city, 2546
+Hawkeye city, 443
+Hayesville city, 49
+Hazleton city, 820
+Hedrick city, 756
+Henderson city, 182
+Hepburn city, 23
+Hiawatha city, 7135
+Hills city, 806
+Hillsboro city, 181
+Hinton city, 948
+Holland city, 282
+Holstein city, 1405
+Holy Cross city, 372
+Hopkinton city, 618
+Hornick city, 226
+Hospers city, 710
+Houghton city, 145
+Hubbard city, 835
+Hudson city, 2322
+Hull city, 2191
+Humboldt city, 4654
+Humeston city, 488
+Huxley city, 3334
+Ida Grove city, 2140
+Imogene city, 69
+Independence city, 5967
+Indianola city, 14947
+Inwood city, 824
+Ionia city, 287
+Iowa City city, 70133
+Iowa Falls city, 5146
+Ireton city, 609
+Irwin city, 333
+Jackson Junction city, 58
+Jamaica city, 221
+Janesville city, 935
+Jefferson city, 4260
+Jesup city, 2561
+Jewell Junction city, 1197
+Johnston city, 18728
+Joice city, 221
+Jolley city, 29
+Kalona city, 2421
+Kamrar city, 196
+Kanawha city, 638
+Kellerton city, 313
+Kelley city, 308
+Kellogg city, 592
+Kensett city, 261
+Keokuk city, 10732
+Keomah Village city, 84
+Keosauqua city, 993
+Keota city, 1000
+Keswick city, 244
+Keystone city, 611
+Kimballton city, 303
+Kingsley city, 1393
+Kinross city, 72
+Kirkman city, 63
+Kirkville city, 167
+Kiron city, 283
+Klemme city, 496
+Knierim city, 59
+Knoxville city, 7296
+Lacona city, 356
+Ladora city, 280
+Lake City city, 1684
+Lake Mills city, 2062
+Lake Park city, 1145
+Lakeside city, 710
+Lake View city, 1117
+Lakota city, 291
+Lambs Grove city, 171
+Lamoni city, 2336
+Lamont city, 459
+La Motte city, 258
+Lanesboro city, 120
+Lansing city, 978
+La Porte City city, 2282
+Larchwood city, 890
+Larrabee city, 131
+Latimer city, 499
+Laurel city, 241
+Laurens city, 1235
+Lawler city, 429
+Lawton city, 929
+Le Claire city, 3878
+Ledyard city, 128
+Le Grand city, 942
+Lehigh city, 404
+Leighton city, 163
+Leland city, 284
+Le Mars city, 9795
+Lenox city, 1381
+Leon city, 1914
+Le Roy city, 15
+Lester city, 296
+Letts city, 379
+Lewis city, 423
+Libertyville city, 317
+Lidderdale city, 178
+Lime Springs city, 501
+Lincoln city, 158
+Linden city, 208
+Lineville city, 216
+Linn Grove city, 157
+Lisbon city, 2167
+Liscomb city, 304
+Little Rock city, 458
+Little Sioux city, 166
+Livermore city, 377
+Lockridge city, 270
+Logan city, 1492
+Lohrville city, 356
+Lone Rock city, 144
+Lone Tree city, 1390
+Long Grove city, 821
+Lorimor city, 360
+Lost Nation city, 437
+Lovilia city, 540
+Lowden city, 780
+Low Moor city, 285
+Luana city, 268
+Lucas city, 213
+Luther city, 121
+Lu Verne city, 258
+Luxemburg city, 248
+Luzerne city, 95
+Lynnville city, 380
+Lytton city, 310
+McCallsburg city, 334
+McCausland city, 307
+McClelland city, 150
+Macedonia city, 244
+McGregor city, 855
+McIntire city, 121
+Macksburg city, 112
+Madrid city, 2534
+Magnolia city, 178
+Maharishi Vedic City city, 260
+Malcom city, 284
+Mallard city, 271
+Maloy city, 29
+Malvern city, 1114
+Manchester city, 5123
+Manilla city, 786
+Manly city, 1309
+Manning city, 1482
+Manson city, 1637
+Mapleton city, 1235
+Maquoketa city, 6083
+Marathon city, 242
+Marble Rock city, 303
+Marcus city, 1103
+Marengo city, 2494
+Marion city, 35843
+Marne city, 118
+Marquette city, 457
+Marshalltown city, 27683
+Martelle city, 254
+Martensdale city, 464
+Martinsburg city, 111
+Marysville city, 66
+Mason City city, 27823
+Masonville city, 126
+Massena city, 350
+Matlock city, 88
+Maurice city, 277
+Maxwell city, 916
+Maynard city, 513
+Maysville city, 178
+Mechanicsville city, 1129
+Mediapolis city, 1575
+Melbourne city, 835
+Melcher-Dallas city, 1283
+Melrose city, 113
+Melvin city, 206
+Menlo city, 348
+Meriden city, 157
+Merrill city, 745
+Meservey city, 254
+Middletown city, 328
+Miles city, 450
+Milford city, 2954
+Millersburg city, 158
+Millerton city, 45
+Millville city, 29
+Milo city, 769
+Milton city, 418
+Minburn city, 376
+Minden city, 593
+Mingo city, 300
+Missouri Valley city, 2749
+Mitchell city, 137
+Mitchellville city, 2220
+Modale city, 276
+Mondamin city, 390
+Monmouth city, 152
+Monona city, 1521
+Monroe city, 1820
+Montezuma city, 1451
+Monticello city, 3797
+Montour city, 247
+Montrose city, 878
+Moorhead city, 222
+Moorland city, 165
+Moravia city, 653
+Morley city, 114
+Morning Sun city, 830
+Morrison city, 94
+Moulton city, 594
+Mount Auburn city, 149
+Mount Ayr city, 1682
+Mount Pleasant city, 8741
+Mount Sterling city, 36
+Mount Union city, 107
+Mount Vernon city, 4583
+Moville city, 1623
+Murray city, 751
+Muscatine city, 22988
+Mystic city, 418
+Nashua city, 1636
+Nemaha city, 84
+Neola city, 851
+Nevada city, 6754
+New Albin city, 515
+Newell city, 892
+Newhall city, 863
+New Hampton city, 3547
+New Hartford city, 515
+New Liberty city, 141
+New London city, 1885
+New Market city, 410
+New Providence city, 226
+New Sharon city, 1304
+Newton city, 15108
+New Vienna city, 425
+New Virginia city, 488
+Nichols city, 371
+Nodaway city, 111
+Nora Springs city, 1407
+Northboro city, 57
+North Buena Vista city, 117
+North English city, 1024
+North Liberty city, 14485
+North Washington city, 116
+Northwood city, 1977
+Norwalk city, 9411
+Norway city, 537
+Numa city, 91
+Oakland city, 1514
+Oakland Acres city, 155
+Oakville city, 171
+Ocheyedan city, 470
+Odebolt city, 989
+Oelwein city, 6363
+Ogden city, 2025
+Okoboji city, 819
+Olds city, 234
+Olin city, 690
+Ollie city, 213
+Onawa city, 2945
+Onslow city, 196
+Orange City city, 6155
+Orchard city, 71
+Orient city, 395
+Orleans city, 615
+Osage city, 3626
+Osceola city, 5035
+Oskaloosa city, 11555
+Ossian city, 839
+Osterdock city, 58
+Otho city, 529
+Oto city, 108
+Ottosen city, 42
+Ottumwa city, 24806
+Owasa city, 43
+Oxford city, 821
+Oxford Junction city, 490
+Oyens city, 102
+Pacific Junction city, 460
+Packwood city, 205
+Palmer city, 162
+Palo city, 1120
+Panama city, 218
+Panora city, 1102
+Panorama Park city, 133
+Parkersburg city, 1929
+Parnell city, 191
+Paton city, 232
+Patterson city, 157
+Paullina city, 1034
+Pella city, 10397
+Peosta city, 1487
+Perry city, 7981
+Persia city, 306
+Peterson city, 330
+Pierson city, 363
+Pilot Mound city, 172
+Pioneer city, 23
+Pisgah city, 245
+Plainfield city, 431
+Plano city, 69
+Pleasant Hill city, 9009
+Pleasanton city, 47
+Pleasant Plain city, 94
+Pleasantville city, 1699
+Plover city, 76
+Plymouth city, 375
+Pocahontas city, 1744
+Polk City city, 3729
+Pomeroy city, 651
+Popejoy city, 79
+Portsmouth city, 193
+Postville city, 2186
+Prairieburg city, 179
+Prairie City city, 1674
+Prescott city, 250
+Preston city, 1002
+Primghar city, 895
+Princeton city, 915
+Promise City city, 110
+Protivin city, 283
+Pulaski city, 264
+Quasqueton city, 550
+Quimby city, 316
+Radcliffe city, 537
+Rake city, 221
+Ralston city, 78
+Randalia city, 68
+Randall city, 170
+Randolph city, 161
+Rathbun city, 88
+Raymond city, 793
+Readlyn city, 813
+Reasnor city, 151
+Redding city, 82
+Redfield city, 872
+Red Oak city, 5640
+Reinbeck city, 1654
+Rembrandt city, 208
+Remsen city, 1649
+Renwick city, 240
+Rhodes city, 308
+Riceville city, 793
+Richland city, 574
+Rickardsville city, 181
+Ricketts city, 147
+Ridgeway city, 314
+Rinard city, 52
+Ringsted city, 412
+Rippey city, 286
+Riverdale city, 410
+Riverside city, 1040
+Riverton city, 287
+Robins city, 3309
+Rock Falls city, 154
+Rockford city, 849
+Rock Rapids city, 2593
+Rock Valley city, 3478
+Rockwell city, 1039
+Rockwell City city, 2160
+Rodman city, 45
+Rodney city, 59
+Roland city, 1284
+Rolfe city, 571
+Rome city, 118
+Rose Hill city, 169
+Rossie city, 72
+Rowan city, 156
+Rowley city, 264
+Royal city, 440
+Rudd city, 360
+Runnells city, 514
+Russell city, 543
+Ruthven city, 717
+Rutland city, 127
+Ryan city, 357
+Sabula city, 568
+Sac City city, 2179
+Sageville city, 121
+St. Ansgar city, 1119
+St. Anthony city, 103
+St. Charles city, 646
+St. Donatus city, 134
+St. Lucas city, 142
+St. Marys city, 127
+St. Olaf city, 107
+St. Paul city, 128
+Salem city, 382
+Salix city, 371
+Sanborn city, 1387
+Sandyville city, 51
+Scarville city, 71
+Schaller city, 759
+Schleswig city, 891
+Scranton city, 543
+Searsboro city, 147
+Sergeant Bluff city, 4269
+Seymour city, 694
+Shambaugh city, 188
+Shannon City city, 72
+Sharpsburg city, 88
+Sheffield city, 1166
+Shelby city, 630
+Sheldahl city, 319
+Sheldon city, 5119
+Shell Rock city, 1317
+Shellsburg city, 973
+Shenandoah city, 5100
+Sherrill city, 178
+Shueyville city, 610
+Sibley city, 2682
+Sidney city, 1087
+Sigourney city, 2046
+Silver City city, 242
+Sioux Center city, 7210
+Sioux City city, 82719
+Sioux Rapids city, 793
+Slater city, 1490
+Sloan city, 974
+Smithland city, 225
+Soldier city, 171
+Solon city, 2173
+Somers city, 110
+South English city, 210
+Spencer city, 11192
+Spillville city, 361
+Spirit Lake city, 4925
+Spragueville city, 81
+Springbrook city, 143
+Spring Hill city, 63
+Springville city, 1093
+Stacyville city, 476
+Stanhope city, 411
+Stanley city, 125
+Stanton city, 680
+Stanwood city, 675
+State Center city, 1475
+Steamboat Rock city, 308
+Stockport city, 293
+Stockton city, 198
+Storm Lake city, 10775
+Story City city, 3426
+Stout city, 224
+Stratford city, 729
+Strawberry Point city, 1252
+Struble city, 77
+Stuart city, 1624
+Sully city, 814
+Sumner city, 2009
+Superior city, 131
+Sutherland city, 633
+Swaledale city, 164
+Swan city, 72
+Swea City city, 533
+Swisher city, 904
+Tabor city, 993
+Tama city, 2839
+Templeton city, 358
+Tennant city, 67
+Terril city, 366
+Thayer city, 59
+Thompson city, 490
+Thor city, 185
+Thornburg city, 66
+Thornton city, 419
+Thurman city, 222
+Tiffin city, 2247
+Tingley city, 183
+Tipton city, 3201
+Titonka city, 466
+Toledo city, 2276
+Toronto city, 123
+Traer city, 1679
+Treynor city, 925
+Tripoli city, 1316
+Truesdale city, 83
+Truro city, 488
+Turin city, 67
+Udell city, 46
+Underwood city, 916
+Union city, 390
+Unionville city, 101
+University Heights city, 1098
+University Park city, 487
+Urbana city, 1444
+Urbandale city, 41020
+Ute city, 365
+Vail city, 437
+Valeria city, 57
+Van Horne city, 672
+Van Meter city, 1094
+Van Wert city, 222
+Varina city, 70
+Ventura city, 715
+Victor city, 883
+Villisca city, 1230
+Vincent city, 170
+Vining city, 50
+Vinton city, 5203
+Volga city, 212
+Wadena city, 261
+Wahpeton city, 346
+Walcott city, 1625
+Walford city, 1455
+Walker city, 797
+Wallingford city, 194
+Wall Lake city, 809
+Walnut city, 776
+Wapello city, 2044
+Washington city, 7326
+Washta city, 246
+Waterloo city, 68297
+Waterville city, 143
+Waucoma city, 259
+Waukee city, 15931
+Waukon city, 3871
+Waverly city, 10035
+Wayland city, 969
+Webb city, 141
+Webster city, 73
+Webster City city, 7885
+Weldon city, 121
+Wellman city, 1420
+Wellsburg city, 705
+Welton city, 163
+Wesley city, 382
+West Bend city, 781
+West Branch city, 2331
+West Burlington city, 2965
+West Chester city, 147
+West Des Moines city, 59296
+Westfield city, 131
+Westgate city, 210
+West Liberty city, 3730
+West Okoboji city, 295
+Westphalia city, 126
+West Point city, 976
+Westside city, 305
+West Union city, 2486
+Westwood city, 112
+What Cheer city, 636
+Wheatland city, 747
+Whiting city, 747
+Whittemore city, 496
+Whitten city, 148
+Willey city, 97
+Williams city, 338
+Williamsburg city, 3074
+Williamson city, 150
+Wilton city, 2808
+Windsor Heights city, 4877
+Winfield city, 1139
+Winterset city, 5181
+Winthrop city, 848
+Wiota city, 115
+Woden city, 226
+Woodbine city, 1418
+Woodburn city, 202
+Woodward city, 1060
+Woolstock city, 166
+Worthington city, 399
+Wyoming city, 510
+Yale city, 243
+Yetter city, 33
+Yorktown city, 83
+Zearing city, 547
+Zwingle city, 91

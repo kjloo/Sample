@@ -1,0 +1,200 @@
+Aberdeen city, 1969
+Acequia city, 123
+Albion city, 270
+American Falls city, 4421
+Ammon city, 14199
+Arco city, 942
+Arimo city, 360
+Ashton city, 1091
+Athol city, 694
+Atomic City city, 29
+Bancroft city, 368
+Basalt city, 392
+Bellevue city, 2281
+Blackfoot city, 11852
+Bliss city, 311
+Bloomington city, 207
+Boise City city, 212303
+Bonners Ferry city, 2610
+Bovill city, 259
+Buhl city, 4170
+Burley city, 10425
+Butte City city, 70
+Caldwell city, 47668
+Cambridge city, 322
+Carey city, 594
+Cascade city, 902
+Castleford city, 229
+Challis city, 1083
+Chubbuck city, 14166
+Clark Fork city, 529
+Clayton city, 7
+Clifton city, 272
+Coeur d'Alene city, 45579
+Cottonwood city, 920
+Council city, 819
+Craigmont city, 511
+Crouch city, 157
+Culdesac city, 379
+Dalton Gardens city, 2353
+Dayton city, 456
+Deary city, 512
+Declo city, 347
+Dietrich city, 338
+Donnelly city, 141
+Dover city, 549
+Downey city, 628
+Driggs city, 1627
+Drummond city, 16
+Dubois city, 599
+Eagle city, 21025
+East Hope city, 209
+Eden city, 402
+Elk River city, 123
+Emmett city, 6516
+Fairfield city, 398
+Ferdinand city, 160
+Fernan Lake Village city, 171
+Filer city, 2562
+Firth city, 475
+Franklin city, 716
+Fruitland city, 4723
+Garden City city, 11251
+Genesee city, 965
+Georgetown city, 465
+Glenns Ferry city, 1264
+Gooding city, 3519
+Grace city, 897
+Grand View city, 447
+Grangeville city, 3151
+Greenleaf city, 861
+Hagerman city, 865
+Hailey city, 7920
+Hamer city, 51
+Hansen city, 1160
+Harrison city, 208
+Hauser city, 678
+Hayden city, 13549
+Hayden Lake city, 585
+Hazelton city, 749
+Heyburn city, 3124
+Hollister city, 278
+Homedale city, 2610
+Hope city, 85
+Horseshoe Bend city, 680
+Huetter city, 101
+Idaho City city, 466
+Idaho Falls city, 57899
+Inkom city, 869
+Iona city, 1860
+Irwin city, 220
+Island Park city, 277
+Jerome city, 11027
+Juliaetta city, 582
+Kamiah city, 1316
+Kellogg city, 2110
+Kendrick city, 303
+Ketchum city, 2680
+Kimberly city, 3333
+Kooskia city, 608
+Kootenai city, 739
+Kuna city, 16189
+Lapwai city, 1140
+Lava Hot Springs city, 410
+Leadore city, 102
+Lewiston city, 32051
+Lewisville city, 469
+McCall city, 2871
+McCammon city, 811
+Mackay city, 506
+Malad City city, 2037
+Malta city, 195
+Marsing city, 1311
+Melba city, 519
+Menan city, 744
+Meridian city, 80386
+Middleton city, 5801
+Midvale city, 167
+Minidoka city, 111
+Montpelier city, 2537
+Moore city, 180
+Moscow city, 24499
+Mountain Home city, 13791
+Moyie Springs city, 701
+Mud Lake city, 366
+Mullan city, 690
+Murtaugh city, 116
+Nampa city, 83930
+Newdale city, 314
+New Meadows city, 484
+New Plymouth city, 1527
+Nezperce city, 472
+Notus city, 537
+Oakley city, 777
+Oldtown city, 179
+Onaway city, 189
+Orofino city, 3078
+Osburn city, 1544
+Oxford city, 47
+Paris city, 504
+Parker city, 297
+Parma city, 2020
+Paul city, 1183
+Payette city, 7451
+Peck city, 199
+Pierce city, 493
+Pinehurst city, 1616
+Placerville city, 52
+Plummer city, 1028
+Pocatello city, 54777
+Ponderay city, 1117
+Post Falls city, 28651
+Potlatch city, 812
+Preston city, 5145
+Priest River city, 1716
+Rathdrum city, 7024
+Reubens city, 73
+Rexburg city, 25732
+Richfield city, 485
+Rigby city, 4016
+Riggins city, 419
+Ririe city, 639
+Roberts city, 581
+Rockland city, 294
+Rupert city, 5514
+St. Anthony city, 3470
+St. Charles city, 133
+St. Maries city, 2351
+Salmon city, 3044
+Sandpoint city, 7403
+Shelley city, 4413
+Shoshone city, 1482
+Smelterville city, 623
+Soda Springs city, 2973
+Spencer city, 33
+Spirit Lake city, 1998
+Stanley city, 67
+Star city, 6194
+State Line city, 38
+Stites city, 223
+Sugar City city, 1469
+Sun Valley city, 1394
+Swan Valley city, 212
+Tensed city, 121
+Teton city, 718
+Tetonia city, 265
+Troy city, 888
+Twin Falls city, 45158
+Ucon city, 1119
+Victor city, 1902
+Wallace city, 780
+Wardner city, 189
+Warm River city, 3
+Weippe city, 419
+Weiser city, 5425
+Wendell city, 2751
+Weston city, 436
+White Bird city, 93
+Wilder city, 1560
+Winchester city, 347
+Worley city, 260

@@ -1,0 +1,229 @@
+Abingdon town, 8188
+Accomac town, 521
+Alberta town, 292
+Alexandria city, 146294
+Altavista town, 3478
+Amherst town, 2225
+Appalachia town, 1734
+Appomattox town, 1725
+Ashland town, 7289
+Bedford city, 5964
+Belle Haven town, 535
+Berryville town, 4265
+Big Stone Gap town, 5580
+Blacksburg town, 42627
+Blackstone town, 3584
+Bloxom town, 389
+Bluefield town, 5365
+Boones Mill town, 239
+Bowling Green town, 1126
+Boyce town, 599
+Boydton town, 427
+Boykins town, 556
+Branchville town, 112
+Bridgewater town, 5774
+Bristol city, 17662
+Broadway town, 3748
+Brodnax town, 292
+Brookneal town, 1119
+Buchanan town, 1174
+Buena Vista city, 6707
+Burkeville town, 426
+Cape Charles town, 999
+Capron town, 162
+Cedar Bluff town, 1114
+Charlotte Court House town, 537
+Charlottesville city, 43956
+Chase City town, 2333
+Chatham town, 1491
+Cheriton town, 483
+Chesapeake city, 228417
+Chilhowie town, 1757
+Chincoteague town, 2947
+Christiansburg town, 21458
+Claremont town, 366
+Clarksville town, 1131
+Cleveland town, 192
+Clifton town, 291
+Clifton Forge town, 3876
+Clinchco town, 331
+Clinchport town, 69
+Clintwood town, 1383
+Coeburn town, 2123
+Colonial Beach town, 3550
+Colonial Heights city, 17479
+Columbia town, 83
+Courtland town, 1271
+Covington city, 5771
+Craigsville town, 924
+Crewe town, 2302
+Culpeper town, 16633
+Damascus town, 815
+Danville city, 42996
+Dayton town, 1551
+Dendron town, 263
+Dillwyn town, 447
+Drakes Branch town, 522
+Dublin town, 2516
+Duffield town, 90
+Dumfries town, 5144
+Dungannon town, 326
+Eastville town, 241
+Edinburg town, 1054
+Elkton town, 2764
+Emporia city, 5740
+Exmore town, 1449
+Fairfax city, 23461
+Falls Church city, 13229
+Farmville town, 8161
+Fincastle town, 352
+Floyd town, 429
+Franklin city, 8528
+Fredericksburg city, 27307
+Fries town, 473
+Front Royal town, 14666
+Galax city, 6908
+Gate City town, 2008
+Glade Spring town, 1456
+Glasgow town, 1136
+Glen Lyn town, 113
+Gordonsville town, 1529
+Goshen town, 360
+Gretna town, 1250
+Grottoes town, 2710
+Grundy town, 1010
+Halifax town, 1296
+Hallwood town, 207
+Hamilton town, 550
+Hampton city, 136836
+Harrisonburg city, 50981
+Haymarket town, 1909
+Haysi town, 491
+Herndon town, 24268
+Hillsboro town, 87
+Hillsville town, 2709
+Honaker town, 1423
+Hopewell city, 22348
+Hurt town, 1286
+Independence town, 929
+Iron Gate town, 389
+Irvington town, 425
+Ivor town, 336
+Jarratt town, 634
+Jonesville town, 1030
+Keller town, 179
+Kenbridge town, 1237
+Keysville town, 823
+Kilmarnock town, 1469
+La Crosse town, 601
+Lawrenceville town, 1301
+Lebanon town, 3398
+Leesburg town, 45936
+Lexington city, 6998
+Louisa town, 1568
+Lovettsville town, 1737
+Luray town, 4869
+Lynchburg city, 77113
+McKenney town, 481
+Madison town, 226
+Manassas city, 40605
+Manassas Park city, 15798
+Marion town, 5869
+Martinsville city, 13733
+Melfa town, 410
+Middleburg town, 724
+Middletown town, 1297
+Mineral town, 469
+Monterey town, 141
+Montross town, 384
+Mount Crawford town, 439
+Mount Jackson town, 2017
+Narrows town, 1989
+Nassawadox town, 496
+New Castle town, 154
+New Market town, 2176
+Newport News city, 180726
+Newsoms town, 318
+Nickelsville town, 376
+Norfolk city, 245782
+Norton city, 4068
+Occoquan town, 976
+Onancock town, 1263
+Onley town, 518
+Orange town, 4813
+Painter town, 230
+Pamplin City town, 217
+Parksley town, 847
+Pearisburg town, 2721
+Pembroke town, 1105
+Pennington Gap town, 1865
+Petersburg city, 31973
+Phenix town, 222
+Pocahontas town, 393
+Poquoson city, 12097
+Port Royal town, 127
+Portsmouth city, 96470
+Pound town, 1029
+Pulaski town, 8999
+Purcellville town, 8300
+Quantico town, 513
+Radford city, 16685
+Remington town, 609
+Rich Creek town, 760
+Richlands town, 5694
+Richmond city, 210309
+Ridgeway town, 725
+Roanoke city, 97469
+Rocky Mount town, 4821
+Round Hill town, 577
+Rural Retreat town, 1485
+St. Charles town, 123
+St. Paul town, 963
+Salem city, 24970
+Saltville town, 2051
+Saxis town, 242
+Scottsburg town, 135
+Scottsville town, 583
+Shenandoah town, 2355
+Smithfield town, 8130
+South Boston town, 8068
+South Hill town, 4605
+Stanardsville town, 376
+Stanley town, 1676
+Staunton city, 23921
+Stephens City town, 1874
+Stony Creek town, 195
+Strasburg town, 6489
+Stuart town, 1400
+Suffolk city, 85181
+Surry town, 236
+Tangier town, 732
+Tappahannock town, 2393
+Tazewell town, 4537
+The Plains town, 220
+Timberville town, 2558
+Toms Brook town, 260
+Troutdale town, 174
+Troutville town, 429
+Urbanna town, 472
+Victoria town, 1696
+Vienna town, 16188
+Vinton town, 8092
+Virgilina town, 152
+Virginia Beach city, 447021
+Wachapreague town, 233
+Wakefield town, 913
+Warrenton town, 9803
+Warsaw town, 1498
+Washington town, 134
+Waverly town, 2121
+Waynesboro city, 21107
+Weber City town, 1293
+West Point town, 3312
+White Stone town, 347
+Williamsburg city, 15167
+Winchester city, 26881
+Windsor town, 2630
+Wise town, 3260
+Woodstock town, 5171
+Wytheville town, 8196

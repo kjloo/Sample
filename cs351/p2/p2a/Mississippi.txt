@@ -1,0 +1,297 @@
+Abbeville town, 437
+Aberdeen city, 5502
+Ackerman town, 1473
+Algoma town, 601
+Alligator town, 205
+Amory city, 7198
+Anguilla town, 708
+Arcola town, 357
+Artesia town, 435
+Ashland town, 560
+Baldwyn city, 3330
+Bassfield town, 235
+Batesville city, 7427
+Bay St. Louis city, 10259
+Bay Springs city, 1734
+Beaumont town, 934
+Beauregard village, 327
+Belmont town, 2038
+Belzoni city, 2196
+Benoit town, 471
+Bentonia town, 434
+Beulah town, 344
+Big Creek village, 153
+Biloxi city, 44578
+Blue Mountain town, 930
+Blue Springs village, 229
+Bolton town, 568
+Booneville city, 8799
+Boyle town, 642
+Brandon city, 22160
+Braxton village, 182
+Brookhaven city, 12515
+Brooksville town, 1188
+Bruce town, 1925
+Bude town, 1037
+Burnsville town, 935
+Byhalia town, 1277
+Byram city, 11721
+Caledonia town, 1030
+Calhoun City town, 1760
+Canton city, 13218
+Carrollton town, 186
+Carthage city, 5030
+Cary town, 303
+Centreville town, 1621
+Charleston city, 2134
+Chunky town, 325
+Clarksdale city, 17648
+Cleveland city, 12206
+Clinton city, 25752
+Coahoma town, 371
+Coffeeville town, 878
+Coldwater town, 1640
+Collins city, 2595
+Columbia city, 6466
+Columbus city, 23452
+Como town, 1265
+Corinth city, 14784
+Courtland town, 514
+Crawford town, 634
+Crenshaw town, 873
+Crosby town, 306
+Crowder town, 688
+Cruger town, 377
+Crystal Springs city, 4970
+Decatur town, 1753
+De Kalb town, 1126
+Derma town, 1016
+D'Iberville city, 9994
+D'Lo town, 452
+Doddsville town, 96
+Drew city, 1877
+Duck Hill town, 857
+Dumas town, 465
+Duncan town, 418
+Durant city, 2599
+Ecru town, 918
+Eden village, 102
+Edwards town, 1051
+Ellisville city, 4611
+Enterprise town, 521
+Ethel town, 409
+Eupora city, 2143
+Falcon town, 158
+Falkner town, 508
+Farmington town, 2176
+Fayette city, 1616
+Flora town, 1896
+Florence city, 4245
+Flowood city, 8154
+Forest city, 5710
+French Camp town, 171
+Friars Point town, 1177
+Fulton city, 3978
+Gattman village, 89
+Gautier city, 18554
+Georgetown town, 285
+Glen town, 409
+Glendora village, 148
+Gloster town, 946
+Golden town, 191
+Goodman town, 1355
+Greenville city, 33418
+Greenwood city, 14954
+Grenada city, 12956
+Gulfport city, 70113
+Gunnison town, 446
+Guntown town, 2325
+Hatley town, 475
+Hattiesburg city, 47169
+Hazlehurst city, 3942
+Heidelberg town, 689
+Hernando city, 14763
+Hickory town, 529
+Hickory Flat town, 599
+Hollandale city, 2646
+Holly Springs city, 7549
+Horn Lake city, 26529
+Houston city, 3562
+Indianola city, 10495
+Inverness town, 998
+Isola town, 696
+Itta Bena city, 2017
+Iuka city, 3018
+Jackson city, 175437
+Jonestown town, 1276
+Jumpertown town, 486
+Kilmichael town, 664
+Kosciusko city, 7242
+Kossuth village, 208
+Lake town, 323
+Lambert town, 1552
+Laurel city, 18838
+Leakesville town, 881
+Learned town, 97
+Leland city, 4358
+Lena town, 145
+Lexington city, 1687
+Liberty town, 716
+Long Beach city, 15300
+Louin town, 268
+Louise town, 196
+Louisville city, 6530
+Lucedale city, 3004
+Lula town, 294
+Lumberton city, 2149
+Lyon town, 345
+Maben town, 879
+McComb city, 12744
+McCool town, 132
+McLain town, 434
+Macon city, 2677
+Madison city, 24841
+Magee city, 4406
+Magnolia city, 2396
+Mantachie town, 1137
+Mantee village, 227
+Marietta town, 257
+Marion town, 1523
+Marks city, 1643
+Mathiston town, 682
+Mayersville town, 583
+Meadville town, 439
+Mendenhall city, 2493
+Meridian city, 40832
+Merigold town, 433
+Metcalfe town, 1048
+Mize town, 337
+Monticello town, 1526
+Montrose town, 136
+Moorhead city, 2368
+Morgan City town, 252
+Morton city, 3445
+Moss Point city, 13687
+Mound Bayou city, 1520
+Mount Olive town, 979
+Myrtle town, 492
+Natchez city, 15590
+Nettleton city, 1988
+New Albany city, 8206
+New Augusta town, 631
+New Hebron town, 433
+New Houlka town, 617
+Newton city, 3354
+North Carrollton town, 463
+Noxapater town, 470
+Oakland town, 514
+Ocean Springs city, 17461
+Okolona city, 2637
+Olive Branch city, 34512
+Osyka town, 435
+Oxford city, 20088
+Pace town, 270
+Pachuta town, 258
+Paden village, 116
+Pascagoula city, 22249
+Pass Christian city, 4920
+Pearl city, 26154
+Pelahatchie town, 1355
+Petal city, 10795
+Philadelphia city, 7483
+Picayune city, 10854
+Pickens town, 1128
+Pittsboro village, 200
+Plantersville town, 1174
+Polkville town, 825
+Pontotoc city, 5787
+Pope village, 211
+Poplarville city, 2834
+Port Gibson city, 1485
+Potts Camp town, 511
+Prentiss town, 1041
+Puckett village, 320
+Purvis city, 2251
+Quitman city, 2295
+Raleigh town, 1450
+Raymond city, 1850
+Renova town, 694
+Richland city, 7041
+Richton town, 1053
+Ridgeland city, 24258
+Rienzi town, 315
+Ripley city, 5347
+Rolling Fork city, 2094
+Rosedale city, 1837
+Roxie town, 485
+Ruleville city, 2936
+Sallis town, 131
+Saltillo city, 4953
+Sandersville town, 733
+Sardis town, 1680
+Satartia village, 54
+Schlater town, 306
+Scooba town, 717
+Sebastopol town, 279
+Seminary town, 314
+Senatobia city, 8054
+Shannon town, 1781
+Shaw city, 1912
+Shelby city, 2195
+Sherman town, 660
+Shubuta town, 436
+Shuqualak town, 489
+Sidon town, 503
+Silver City town, 317
+Silver Creek town, 204
+Slate Springs village, 109
+Sledge town, 527
+Smithville town, 928
+Snow Lake Shores town, 313
+Soso town, 407
+Southaven city, 50374
+Starkville city, 24360
+State Line town, 559
+Stonewall town, 1073
+Sturgis town, 267
+Summit town, 1685
+Sumner town, 315
+Sumrall town, 1528
+Sunflower town, 1127
+Sylvarena village, 111
+Taylor village, 336
+Taylorsville town, 1336
+Tchula town, 2047
+Terry town, 1102
+Thaxton town, 655
+Tishomingo town, 339
+Toccopola town, 250
+Tremont town, 463
+Tunica town, 996
+Tupelo city, 35490
+Tutwiler town, 3523
+Tylertown town, 1569
+Union town, 1988
+Utica town, 849
+Vaiden town, 768
+Vardaman town, 1305
+Verona city, 3074
+Vicksburg city, 23450
+Walls town, 1232
+Walnut town, 762
+Walnut Grove town, 1754
+Walthall village, 141
+Water Valley city, 3338
+Waveland city, 6518
+Waynesboro city, 5013
+Webb town, 553
+Weir town, 448
+Wesson town, 1902
+West town, 181
+West Point city, 11203
+Wiggins city, 4504
+Winona city, 4838
+Winstonville town, 189
+Woodland village, 123
+Woodville town, 1028
+Yazoo City city, 11517

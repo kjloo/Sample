@@ -1,0 +1,281 @@
+Aberdeen city, 16529
+Airway Heights city, 6363
+Albion town, 583
+Algona city, 3101
+Almira town, 275
+Anacortes city, 15928
+Arlington city, 18317
+Asotin city, 1271
+Auburn city, 73505
+Bainbridge Island city, 23263
+Battle Ground city, 18044
+Beaux Arts Village town, 308
+Bellevue city, 126439
+Bellingham city, 82234
+Benton City city, 3142
+Bingen city, 725
+Black Diamond city, 4269
+Blaine city, 4831
+Bonney Lake city, 17964
+Bothell city, 34651
+Bremerton city, 39251
+Brewster city, 2361
+Bridgeport city, 2429
+Brier city, 6251
+Buckley city, 4423
+Bucoda town, 562
+Burien city, 49410
+Burlington city, 8470
+Camas city, 20490
+Carbonado town, 612
+Carnation city, 1834
+Cashmere city, 3145
+Castle Rock city, 1984
+Cathlamet town, 530
+Centralia city, 16505
+Chehalis city, 7298
+Chelan city, 3942
+Cheney city, 11018
+Chewelah city, 2606
+Clarkston city, 7283
+Cle Elum city, 1890
+Clyde Hill city, 3108
+Colfax city, 2846
+College Place city, 8884
+Colton town, 432
+Colville city, 4675
+Conconully town, 212
+Concrete town, 709
+Connell city, 5421
+Cosmopolis city, 1616
+Coulee City town, 575
+Coulee Dam town, 1097
+Coupeville town, 1865
+Covington city, 18298
+Creston town, 228
+Cusick town, 205
+Darrington town, 1359
+Davenport city, 1705
+Dayton city, 2473
+Deer Park city, 3704
+Des Moines city, 30449
+DuPont city, 8808
+Duvall city, 7183
+East Wenatchee city, 13439
+Eatonville town, 2808
+Edgewood city, 9501
+Edmonds city, 40400
+Electric City city, 1007
+Ellensburg city, 18348
+Elma city, 3052
+Elmer City town, 240
+Endicott town, 292
+Entiat city, 1149
+Enumclaw city, 11327
+Ephrata city, 7916
+Everett city, 104655
+Everson city, 2549
+Fairfield town, 608
+Farmington town, 149
+Federal Way city, 91933
+Ferndale city, 11998
+Fife city, 9333
+Fircrest city, 6579
+Forks city, 3692
+Friday Harbor town, 2287
+Garfield town, 606
+George city, 511
+Gig Harbor city, 7549
+Gold Bar city, 2089
+Goldendale city, 3438
+Grand Coulee city, 1041
+Grandview city, 11012
+Granger city, 3300
+Granite Falls city, 3421
+Hamilton town, 299
+Harrah town, 634
+Harrington city, 413
+Hartline town, 155
+Hatton town, 102
+Hoquiam city, 8535
+Hunts Point town, 412
+Ilwaco city, 911
+Index town, 184
+Ione town, 449
+Issaquah city, 32633
+Kahlotus city, 196
+Kalama city, 2323
+Kelso city, 11832
+Kenmore city, 21280
+Kennewick city, 75971
+Kent city, 122999
+Kettle Falls city, 1597
+Kirkland city, 50697
+Kittitas city, 1429
+Krupp town, 49
+La Center city, 3044
+Lacey city, 43860
+La Conner town, 902
+LaCrosse town, 318
+Lake Forest Park city, 12972
+Lake Stevens city, 29104
+Lakewood city, 58852
+Lamont town, 71
+Langley city, 1045
+Latah town, 182
+Leavenworth city, 1989
+Liberty Lake city, 7889
+Lind town, 572
+Long Beach city, 1355
+Longview city, 36458
+Lyman town, 442
+Lynden city, 12605
+Lynnwood city, 36275
+Mabton city, 2323
+McCleary city, 1619
+Malden town, 204
+Mansfield town, 330
+Maple Valley city, 24171
+Marcus town, 183
+Marysville city, 62402
+Mattawa city, 4514
+Medical Lake city, 4883
+Medina city, 3066
+Mercer Island city, 23661
+Mesa city, 501
+Metaline town, 172
+Metaline Falls town, 238
+Mill Creek city, 18671
+Millwood city, 1770
+Milton city, 7048
+Monroe city, 17503
+Montesano city, 3905
+Morton city, 1126
+Moses Lake city, 21182
+Mossyrock city, 757
+Mountlake Terrace city, 20198
+Mount Vernon city, 32287
+Moxee city, 3540
+Mukilteo city, 20605
+Naches town, 803
+Napavine city, 1766
+Nespelem town, 232
+Newcastle city, 10792
+Newport city, 2115
+Nooksack city, 1391
+Normandy Park city, 6504
+North Bend city, 6030
+North Bonneville city, 961
+Northport town, 292
+Oakesdale town, 431
+Oak Harbor city, 22260
+Oakville city, 676
+Ocean Shores city, 5622
+Odessa town, 887
+Okanogan city, 2539
+Olympia city, 47698
+Omak city, 4815
+Oroville city, 1678
+Orting city, 6872
+Othello city, 7532
+Pacific city, 6838
+Palouse city, 1021
+Pasco city, 65398
+Pateros city, 662
+Pe Ell town, 632
+Pomeroy city, 1395
+Port Angeles city, 19056
+Port Orchard city, 11680
+Port Townsend city, 9117
+Poulsbo city, 9393
+Prescott city, 316
+Prosser city, 5799
+Pullman city, 31359
+Puyallup city, 38147
+Quincy city, 7013
+Rainier city, 1889
+Raymond city, 2814
+Reardan town, 566
+Redmond city, 56561
+Renton city, 95448
+Republic city, 1097
+Richland city, 51440
+Ridgefield city, 5260
+Ritzville city, 1678
+Riverside town, 277
+Rockford town, 470
+Rock Island city, 790
+Rosalia town, 557
+Roslyn city, 900
+Roy city, 800
+Royal City city, 2202
+Ruston town, 762
+St. John town, 546
+Sammamish city, 49069
+SeaTac city, 27667
+Seattle city, 634535
+Sedro-Woolley city, 10636
+Selah city, 7333
+Sequim city, 6624
+Shelton city, 9800
+Shoreline city, 54352
+Skykomish town, 203
+Snohomish city, 9275
+Snoqualmie city, 11594
+Soap Lake city, 1548
+South Bend city, 1609
+South Cle Elum town, 536
+South Prairie town, 434
+Spangle city, 282
+Spokane city, 209525
+Spokane Valley city, 90641
+Sprague city, 435
+Springdale town, 280
+Stanwood city, 6422
+Starbuck town, 127
+Steilacoom town, 6070
+Stevenson city, 1482
+Sultan city, 4715
+Sumas city, 1333
+Sumner city, 9541
+Sunnyside city, 16054
+Tacoma city, 202010
+Tekoa city, 791
+Tenino city, 1699
+Tieton city, 1199
+Toledo city, 725
+Tonasket city, 1025
+Toppenish city, 9017
+Tukwila city, 19611
+Tumwater city, 18102
+Twisp town, 940
+Union Gap city, 6060
+Uniontown town, 298
+University Place city, 31562
+Vader city, 619
+Vancouver city, 165489
+Waitsburg city, 1215
+Walla Walla city, 31864
+Wapato city, 5065
+Warden city, 2745
+Washougal city, 14584
+Washtucna town, 207
+Waterville town, 1153
+Waverly town, 106
+Wenatchee city, 32562
+Westport city, 2052
+West Richland city, 12663
+White Salmon city, 2259
+Wilbur town, 862
+Wilkeson town, 480
+Wilson Creek town, 210
+Winlock city, 1329
+Winthrop town, 406
+Woodinville city, 11234
+Woodland city, 5540
+Woodway city, 1322
+Yacolt town, 1612
+Yakima city, 93101
+Yarrow Point town, 1031
+Yelm city, 7121
+Zillah city, 3033

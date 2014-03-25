@@ -1,0 +1,103 @@
+Alamogordo city, 31500
+Albuquerque city, 555417
+Angel Fire village, 1181
+Anthony city, 9542
+Artesia city, 11365
+Aztec city, 6683
+Bayard city, 2316
+Belen city, 7255
+Bernalillo town, 8413
+Bloomfield city, 7968
+Bosque Farms village, 3889
+Capitan village, 1470
+Carlsbad city, 26697
+Carrizozo town, 984
+Causey village, 106
+Chama village, 1025
+Cimarron village, 978
+Clayton town, 2910
+Cloudcroft village, 697
+Clovis city, 39197
+Columbus village, 1662
+Corona village, 170
+Corrales village, 8453
+Cuba village, 740
+Deming city, 14793
+Des Moines village, 137
+Dexter town, 1273
+Dora village, 135
+Eagle Nest village, 278
+Edgewood town, 3779
+Elephant Butte city, 1424
+Elida town, 201
+Encino village, 80
+Española city, 10240
+Estancia town, 1632
+Eunice city, 2993
+Farmington city, 45854
+Floyd village, 135
+Folsom village, 57
+Fort Sumner village, 983
+Gallup city, 22088
+Grady village, 109
+Grants city, 9224
+Grenville village, 37
+Hagerman town, 1259
+Hatch village, 1639
+Hobbs city, 35007
+Hope village, 105
+House village, 66
+Hurley town, 1292
+Jal city, 2096
+Jemez Springs village, 253
+Lake Arthur town, 437
+Las Cruces city, 101047
+Las Vegas city, 13529
+Logan village, 1008
+Lordsburg city, 2740
+Los Lunas village, 15168
+Los Ranchos de Albuquerque village, 6087
+Loving village, 1411
+Lovington city, 11275
+Magdalena village, 926
+Maxwell village, 244
+Melrose village, 662
+Mesilla town, 1913
+Milan village, 3251
+Moriarty city, 1868
+Mosquero village, 95
+Mountainair town, 908
+Pecos village, 1367
+Peralta town, 3643
+Portales city, 12723
+Questa village, 1760
+Raton city, 6607
+Red River town, 475
+Reserve village, 284
+Rio Rancho city, 90818
+Roswell city, 48477
+Roy village, 238
+Ruidoso village, 8005
+Ruidoso Downs city, 2739
+San Jon village, 210
+Santa Clara village, 1684
+Santa Fe city, 69204
+Santa Rosa city, 2802
+San Ysidro village, 195
+Silver City town, 10273
+Socorro city, 8906
+Springer town, 1006
+Sunland Park city, 14776
+Taos town, 5676
+Taos Ski Valley village, 69
+Tatum town, 817
+Texico city, 1148
+Tijeras village, 547
+Truth or Consequences city, 6411
+Tucumcari city, 5204
+Tularosa village, 2943
+Vaughn town, 437
+Virden village, 149
+Wagon Mound village, 303
+Willard village, 247
+Williamsburg village, 447

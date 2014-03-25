@@ -1,0 +1,311 @@
+Aberdeen city, 26791
+Agar town, 79
+Akaska town, 42
+Albee town, 16
+Alcester city, 809
+Alexandria city, 623
+Alpena town, 282
+Altamont town, 34
+Andover town, 89
+Arlington city, 927
+Armour city, 690
+Artas town, 9
+Artesian town, 136
+Ashton city, 125
+Astoria town, 140
+Aurora town, 575
+Avon city, 583
+Badger town, 108
+Baltic city, 1129
+Bancroft town, 19
+Batesland town, 112
+Belle Fourche city, 5658
+Belvidere town, 52
+Beresford city, 2040
+Big Stone City city, 460
+Bison town, 340
+Blunt city, 362
+Bonesteel city, 274
+Bowdle city, 494
+Box Elder city, 8753
+Bradley town, 70
+Brandon city, 9286
+Brandt town, 107
+Brentford town, 79
+Bridgewater city, 489
+Bristol city, 332
+Britton city, 1238
+Broadland town, 31
+Brookings city, 22591
+Bruce city, 205
+Bryant city, 452
+Buffalo town, 346
+Buffalo Gap town, 126
+Burke city, 604
+Bushnell town, 65
+Butler town, 17
+Camp Crook town, 67
+Canistota city, 653
+Canova town, 101
+Canton city, 3224
+Carthage city, 138
+Castlewood city, 625
+Cavour town, 116
+Centerville city, 886
+Central City city, 133
+Chamberlain city, 2403
+Chancellor town, 263
+Chelsea town, 27
+Claire City town, 77
+Claremont town, 128
+Clark city, 1068
+Clear Lake city, 1273
+Colman city, 586
+Colome city, 286
+Colton city, 693
+Columbia city, 137
+Conde city, 147
+Corona town, 110
+Corsica city, 584
+Cottonwood town, 10
+Cresbard town, 105
+Crooks city, 1307
+Custer city, 1988
+Dallas town, 121
+Dante town, 85
+Davis town, 84
+Deadwood city, 1263
+Dell Rapids city, 3689
+Delmont city, 232
+De Smet city, 1110
+Dimock town, 122
+Doland city, 188
+Dolton town, 37
+Draper town, 81
+Dupree city, 538
+Eagle Butte city, 1352
+Eden town, 89
+Edgemont city, 753
+Egan city, 275
+Elk Point city, 1992
+Elkton city, 738
+Emery city, 455
+Erwin town, 45
+Estelline city, 760
+Ethan town, 333
+Eureka city, 856
+Fairburn town, 85
+Fairfax town, 115
+Fairview town, 63
+Faith city, 420
+Farmer town, 10
+Faulkton city, 740
+Flandreau city, 2318
+Florence town, 378
+Fort Pierre city, 2111
+Frankfort city, 155
+Frederick town, 200
+Freeman city, 1271
+Fruitdale town, 64
+Fulton town, 92
+Garden City town, 53
+Garretson city, 1207
+Gary city, 231
+Gayville town, 406
+Geddes city, 211
+Gettysburg city, 1177
+Glenham town, 106
+Goodwin town, 147
+Gregory city, 1284
+Grenville town, 53
+Groton city, 1483
+Harrisburg city, 4653
+Harrold town, 126
+Hartford city, 2810
+Hayti town, 380
+Hazel town, 90
+Hecla city, 228
+Henry town, 268
+Hermosa town, 397
+Herreid city, 422
+Herrick town, 105
+Hetland town, 47
+Highmore city, 804
+Hill City city, 966
+Hillsview town, 3
+Hitchcock town, 92
+Hosmer city, 205
+Hot Springs city, 3570
+Hoven town, 409
+Howard city, 824
+Hudson town, 308
+Humboldt town, 591
+Hurley city, 408
+Huron city, 12867
+Interior town, 99
+Ipswich city, 954
+Irene city, 419
+Iroquois city, 270
+Isabel town, 141
+Java town, 130
+Jefferson city, 547
+Kadoka city, 685
+Kennebec town, 242
+Keystone town, 342
+Kimball city, 707
+Kranzburg town, 173
+La Bolt town, 67
+Lake Andes city, 828
+Lake City town, 51
+Lake Norden city, 468
+Lake Preston city, 605
+Lane town, 58
+Langford town, 315
+Lead city, 3088
+Lebanon town, 48
+Lemmon city, 1245
+Lennox city, 2201
+Leola city, 451
+Lesterville town, 127
+Letcher town, 171
+Lily town, 4
+Long Lake town, 31
+Lowry town, 6
+McIntosh city, 175
+McLaughlin city, 667
+Madison city, 6809
+Marion city, 775
+Martin city, 1072
+Marvin town, 34
+Mellette city, 220
+Menno city, 592
+Midland town, 129
+Milbank city, 3303
+Miller city, 1467
+Mission city, 1219
+Mission Hill town, 177
+Mitchell city, 15484
+Mobridge city, 3476
+Monroe town, 158
+Montrose city, 471
+Morristown town, 68
+Mound City town, 67
+Mount Vernon city, 460
+Murdo city, 496
+Naples town, 38
+New Effington town, 260
+Newell city, 604
+New Underwood city, 673
+New Witten town, 77
+Nisland town, 237
+North Sioux City city, 2546
+Northville town, 147
+Nunda town, 45
+Oacoma town, 460
+Oelrichs town, 125
+Oldham city, 135
+Olivet town, 72
+Onaka town, 15
+Onida city, 680
+Orient town, 64
+Ortley town, 66
+Parker city, 1014
+Parkston city, 1482
+Peever town, 170
+Philip city, 780
+Pickstown town, 210
+Piedmont city, 223
+Pierpont town, 132
+Pierre city, 13914
+Plankinton city, 719
+Platte city, 1241
+Pollock town, 228
+Presho city, 502
+Pringle town, 114
+Pukwana town, 287
+Quinn town, 57
+Ramona town, 183
+Rapid City city, 69854
+Ravinia town, 62
+Raymond town, 49
+Redfield city, 2392
+Ree Heights town, 61
+Reliance town, 192
+Revillo town, 117
+Rockham town, 33
+Roscoe city, 323
+Rosholt town, 426
+Roslyn town, 180
+Roswell town, 14
+St. Francis town, 563
+St. Lawrence town, 196
+Salem city, 1345
+Scotland city, 834
+Selby city, 641
+Seneca town, 38
+Sherman town, 81
+Sinai town, 120
+Sioux Falls city, 159908
+Sisseton city, 2497
+South Shore town, 228
+Spearfish city, 10718
+Spencer city, 154
+Springfield city, 1981
+Stickney town, 286
+Stockholm town, 106
+Strandburg town, 71
+Stratford town, 72
+Sturgis city, 6644
+Summerset city, 1898
+Summit town, 292
+Tabor town, 412
+Tea city, 4300
+Timber Lake city, 461
+Tolstoy town, 37
+Toronto town, 213
+Trent town, 234
+Tripp city, 630
+Tulare town, 217
+Turton town, 49
+Twin Brooks town, 68
+Tyndall city, 1057
+Utica town, 65
+Valley Springs city, 768
+Veblen city, 530
+Verdon town, 5
+Vermillion city, 10811
+Viborg city, 775
+Vienna town, 42
+Vilas town, 19
+Virgil town, 16
+Volga city, 1780
+Volin town, 161
+Wagner city, 1573
+Wakonda town, 322
+Wall town, 843
+Wallace town, 85
+Ward town, 48
+Warner town, 467
+Wasta town, 81
+Watertown city, 21803
+Waubay city, 567
+Webster city, 1851
+Wentworth village, 180
+Wessington city, 174
+Wessington Springs city, 946
+Westport town, 134
+Wetonka town, 8
+White city, 491
+White Lake city, 375
+White River city, 593
+White Rock town, 3
+Whitewood city, 934
+Willow Lake city, 247
+Wilmot city, 499
+Winner city, 2847
+Wolsey town, 384
+Wood town, 64
+Woonsocket city, 646
+Worthing city, 915
+Yale town, 110
+Yankton city, 14538

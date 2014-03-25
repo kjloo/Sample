@@ -1,0 +1,57 @@
+Arden village, 444
+Ardencroft village, 233
+Ardentown village, 267
+Bellefonte town, 1197
+Bethany Beach town, 1099
+Bethel town, 176
+Blades town, 1281
+Bowers town, 346
+Bridgeville town, 2117
+Camden town, 3506
+Cheswold town, 1420
+Clayton town, 3008
+Dagsboro town, 829
+Delaware City city, 1713
+Delmar town, 1644
+Dewey Beach town, 348
+Dover city, 37089
+Ellendale town, 390
+Elsmere town, 6156
+Farmington town, 111
+Felton town, 1339
+Fenwick Island town, 391
+Frankford town, 878
+Frederica town, 799
+Georgetown town, 6628
+Greenwood town, 1007
+Harrington city, 3664
+Hartly town, 75
+Henlopen Acres town, 127
+Houston town, 384
+Kenton town, 270
+Laurel town, 3835
+Leipsic town, 189
+Lewes city, 2841
+Little Creek town, 232
+Magnolia town, 233
+Middletown town, 19483
+Milford city, 9797
+Millsboro town, 3987
+Millville town, 561
+Milton town, 2661
+Newark city, 32367
+New Castle city, 5373
+Newport town, 1062
+Ocean View town, 1951
+Odessa town, 373
+Rehoboth Beach city, 1373
+Seaford city, 7169
+Selbyville town, 2260
+Slaughter Beach town, 215
+Smyrna town, 10708
+South Bethany town, 466
+Townsend town, 2071
+Viola town, 162
+Wilmington city, 71292
+Woodside town, 188
+Wyoming town, 1379

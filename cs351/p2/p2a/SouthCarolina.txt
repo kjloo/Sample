@@ -1,0 +1,269 @@
+Abbeville city, 5179
+Aiken city, 29884
+Allendale town, 3317
+Anderson city, 26708
+Andrews town, 2831
+Arcadia Lakes town, 867
+Atlantic Beach town, 347
+Awendaw town, 1333
+Aynor town, 600
+Bamberg town, 3567
+Barnwell city, 4680
+Batesburg-Leesville town, 5397
+Beaufort city, 12788
+Belton city, 4206
+Bennettsville city, 8873
+Bethune town, 337
+Bishopville city, 3367
+Blacksburg town, 1862
+Blackville town, 2360
+Blenheim town, 150
+Bluffton town, 12932
+Blythewood town, 2182
+Bonneau town, 502
+Bowman town, 957
+Branchville town, 1012
+Briarcliffe Acres town, 480
+Brunson town, 542
+Burnettown town, 2722
+Calhoun Falls town, 1979
+Camden city, 6906
+Cameron town, 418
+Campobello town, 509
+Carlisle town, 423
+Cayce city, 12679
+Central town, 5154
+Central Pacolet town, 219
+Chapin town, 1492
+Charleston city, 125583
+Cheraw town, 5785
+Chesnee city, 882
+Chester city, 5517
+Chesterfield town, 1450
+Clemson city, 14089
+Clinton city, 8484
+Clio town, 703
+Clover town, 5287
+Columbia city, 131686
+Conway city, 18688
+Cope town, 76
+Cordova town, 168
+Cottageville town, 751
+Coward town, 752
+Cowpens town, 2198
+Cross Hill town, 499
+Darlington city, 6221
+Denmark city, 3487
+Dillon city, 6669
+Donalds town, 345
+Due West town, 1239
+Duncan town, 3236
+Easley city, 20098
+Eastover town, 819
+Edgefield town, 4690
+Edisto Beach town, 412
+Ehrhardt town, 540
+Elgin town, 1341
+Elko town, 191
+Elloree town, 693
+Estill town, 2006
+Eutawville town, 313
+Fairfax town, 1931
+Florence city, 37498
+Folly Beach city, 2682
+Forest Acres city, 10489
+Fort Lawn town, 877
+Fort Mill town, 11387
+Fountain Inn city, 7898
+Furman town, 234
+Gaffney city, 12449
+Gaston town, 1658
+Georgetown city, 9092
+Gifford town, 283
+Gilbert town, 581
+Goose Creek city, 38579
+Govan town, 65
+Gray Court town, 789
+Great Falls town, 1946
+Greeleyville town, 423
+Greenville city, 60709
+Greenwood city, 23324
+Greer city, 26645
+Hampton town, 2754
+Hanahan city, 19157
+Hardeeville city, 3772
+Harleyville town, 692
+Hartsville city, 7850
+Heath Springs town, 816
+Hemingway town, 446
+Hickory Grove town, 459
+Hilda town, 437
+Hilton Head Island town, 38366
+Hodges town, 156
+Holly Hill town, 1263
+Hollywood town, 4855
+Honea Path town, 3600
+Inman city, 2380
+Irmo town, 11500
+Isle of Palms city, 4247
+Iva town, 1240
+Jackson town, 1730
+Jamestown town, 75
+Jefferson town, 749
+Jenkinsville town, 45
+Johnsonville city, 1494
+Johnston town, 2305
+Jonesville town, 886
+Kershaw town, 1865
+Kiawah Island town, 1685
+Kingstree town, 3260
+Kline town, 194
+Lake City city, 6715
+Lake View town, 796
+Lamar town, 981
+Lancaster city, 8755
+Landrum city, 2420
+Lane town, 494
+Latta town, 1357
+Laurens city, 9083
+Lexington town, 19141
+Liberty city, 3258
+Lincolnville town, 1174
+Little Mountain town, 291
+Livingston town, 135
+Lockhart town, 478
+Lodge town, 118
+Loris city, 2465
+Lowndesville town, 124
+Lowrys town, 197
+Luray town, 125
+Lyman town, 3301
+Lynchburg town, 359
+McBee town, 860
+McClellanville town, 517
+McColl town, 2106
+McConnells town, 266
+McCormick town, 2735
+Manning city, 4052
+Marion city, 6839
+Mauldin city, 23808
+Mayesville town, 732
+Meggett town, 1264
+Moncks Corner town, 8662
+Monetta town, 231
+Mount Croghan town, 192
+Mount Pleasant town, 71875
+Mullins city, 4594
+Myrtle Beach city, 28292
+Neeses town, 369
+Newberry city, 10255
+New Ellenton town, 2084
+Nichols town, 363
+Ninety Six town, 2002
+Norris town, 816
+North town, 755
+North Augusta city, 21873
+North Charleston city, 101989
+North Myrtle Beach city, 14472
+Norway town, 334
+Olanta town, 567
+Olar town, 253
+Orangeburg city, 13850
+Pacolet town, 2269
+Pageland town, 2725
+Pamplico town, 1235
+Parksville town, 113
+Patrick town, 346
+Pawleys Island town, 103
+Paxville town, 187
+Peak town, 64
+Pelion town, 688
+Pelzer town, 90
+Pendleton town, 3054
+Perry town, 236
+Pickens city, 3142
+Pine Ridge town, 2128
+Pinewood town, 540
+Plum Branch town, 79
+Pomaria town, 179
+Port Royal town, 11265
+Prosperity town, 1184
+Quinby town, 934
+Ravenel town, 2533
+Reevesville town, 201
+Reidville town, 608
+Richburg town, 267
+Ridgeland town, 4065
+Ridge Spring town, 739
+Ridgeville town, 1989
+Ridgeway town, 312
+Rock Hill city, 68094
+Rockville town, 138
+Rowesville town, 302
+Ruby town, 353
+St. George town, 2127
+St. Matthews town, 1982
+St. Stephen town, 1751
+Salem town, 135
+Salley town, 410
+Saluda town, 3564
+Santee town, 954
+Scotia town, 212
+Scranton town, 902
+Seabrook Island town, 1775
+Sellers town, 216
+Seneca city, 8098
+Sharon town, 514
+Silverstreet town, 162
+Simpsonville city, 19056
+Six Mile town, 678
+Smoaks town, 124
+Smyrna town, 46
+Snelling town, 268
+Society Hill town, 557
+South Congaree town, 2362
+Spartanburg city, 37401
+Springdale town, 2684
+Springfield town, 516
+Starr town, 190
+Stuckey town, 240
+Sullivan's Island town, 1842
+Summerton town, 978
+Summerville town, 44719
+Summit town, 411
+Sumter city, 40836
+Surfside Beach town, 4007
+Swansea town, 851
+Sycamore town, 173
+Tatum town, 73
+Tega Cay city, 7934
+Timmonsville town, 2390
+Travelers Rest city, 4750
+Trenton town, 191
+Troy town, 93
+Turbeville town, 820
+Ulmer town, 83
+Union city, 8183
+Vance town, 169
+Varnville town, 2126
+Wagener town, 809
+Walhalla city, 4248
+Walterboro city, 5309
+Ward town, 91
+Ware Shoals town, 2164
+Waterloo town, 159
+Wellford city, 2416
+West Columbia city, 15631
+Westminster city, 2430
+West Pelzer town, 879
+West Union town, 292
+Whitmire town, 1440
+Williams town, 116
+Williamston town, 3992
+Williston town, 3085
+Windsor town, 121
+Winnsboro town, 3454
+Woodford town, 183
+Woodruff city, 4114
+Yemassee town, 1011
+York city, 7883

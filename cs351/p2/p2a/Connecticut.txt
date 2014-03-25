@@ -1,0 +1,30 @@
+Ansonia city, 19158
+Bantam borough, 747
+Bridgeport city, 146425
+Bristol city, 60603
+Danbury city, 82807
+Danielson borough, 4024
+Derby city, 12830
+Fenwick borough, 43
+Groton city, 9367
+Groton Long Point borough, 519
+Hartford city, 124893
+Jewett City borough, 3492
+Litchfield borough, 1236
+Meriden city, 60638
+Middletown city, 47325
+Milford city (balance), 51488
+Naugatuck borough, 31774
+New Britain city, 73153
+New Haven city, 130741
+New London city, 27707
+Newtown borough, 1973
+Norwalk city, 87190
+Norwich city, 40502
+Shelton city, 40261
+Stamford city, 125109
+Stonington borough, 925
+Torrington city, 35808
+Waterbury city, 109915
+West Haven city, 55404
+Woodmont borough, 1493

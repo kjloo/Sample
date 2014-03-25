@@ -1,0 +1,596 @@
+Abbotsford city, 2292
+Adams city, 1934
+Adell village, 510
+Albany village, 1016
+Algoma city, 3148
+Allouez village, 13992
+Alma city, 764
+Alma Center village, 501
+Almena village, 670
+Almond village, 444
+Altoona city, 6946
+Amery city, 2875
+Amherst village, 1043
+Amherst Junction village, 378
+Aniwa village, 254
+Antigo city, 8044
+Appleton city, 73016
+Arcadia city, 2944
+Arena village, 833
+Argyle village, 854
+Arlington village, 820
+Arpin village, 331
+Ashland city, 8128
+Ashwaubenon village, 17101
+Athens village, 1101
+Auburndale village, 695
+Augusta city, 1558
+Avoca village, 636
+Bagley village, 373
+Baldwin village, 3960
+Balsam Lake village, 985
+Bangor village, 1486
+Baraboo city, 12046
+Barneveld village, 1236
+Barron city, 3398
+Bay City village, 490
+Bayfield city, 488
+Bayside village, 4411
+Bear Creek village, 443
+Beaver Dam city, 16291
+Belgium village, 2259
+Bell Center village, 116
+Belleville village, 2424
+Bellevue village, 14760
+Belmont village, 983
+Beloit city, 36842
+Benton village, 970
+Berlin city, 5519
+Big Bend village, 1297
+Big Falls village, 61
+Birchwood village, 435
+Birnamwood village, 808
+Biron village, 830
+Black Creek village, 1315
+Black Earth village, 1370
+Black River Falls city, 3583
+Blair city, 1367
+Blanchardville village, 825
+Bloomer city, 3544
+Bloomfield village, 4659
+Bloomington village, 729
+Blue Mounds village, 883
+Blue River village, 428
+Boaz village, 154
+Bonduel village, 1465
+Boscobel city, 3219
+Bowler village, 300
+Boyceville village, 1089
+Boyd village, 549
+Brandon village, 873
+Brillion city, 3186
+Bristol village, 4931
+Brodhead city, 3275
+Brokaw village, 251
+Brookfield city, 37977
+Brooklyn village, 1436
+Brown Deer village, 12088
+Brownsville village, 580
+Browntown village, 281
+Bruce village, 751
+Buffalo City city, 998
+Burlington city, 10508
+Butler village, 1838
+Butternut village, 370
+Cadott village, 1440
+Caledonia village, 24687
+Cambria village, 761
+Cambridge village, 1493
+Cameron village, 1781
+Campbellsport village, 1994
+Camp Douglas village, 611
+Cascade village, 703
+Casco village, 581
+Cashton village, 1096
+Cassville village, 937
+Catawba village, 108
+Cazenovia village, 320
+Cecil village, 562
+Cedarburg city, 11435
+Cedar Grove village, 2102
+Centuria village, 926
+Chaseburg village, 293
+Chenequa village, 596
+Chetek city, 2207
+Chilton city, 3964
+Chippewa Falls city, 13676
+Clayton village, 559
+Clear Lake village, 1052
+Cleveland village, 1493
+Clinton village, 2141
+Clintonville city, 4502
+Clyman village, 415
+Cobb village, 456
+Cochrane village, 438
+Colby city, 1836
+Coleman village, 717
+Colfax village, 1157
+Coloma village, 451
+Columbus city, 5013
+Combined Locks village, 3388
+Conrath village, 95
+Coon Valley village, 780
+Cornell city, 1472
+Cottage Grove village, 6415
+Couderay village, 89
+Crandon city, 1915
+Crivitz village, 974
+Cross Plains village, 3641
+Cuba City city, 2070
+Cudahy city, 18340
+Cumberland city, 2159
+Curtiss village, 215
+Dallas village, 403
+Dane village, 1049
+Darien village, 1596
+Darlington city, 2439
+Deerfield village, 2432
+Deer Park village, 217
+DeForest village, 9247
+Delafield city, 7137
+Delavan city, 8481
+Denmark village, 2161
+De Pere city, 24209
+De Soto village, 289
+Dickeyville village, 1051
+Dodgeville city, 4690
+Dorchester village, 866
+Dousman village, 2308
+Downing village, 266
+Doylestown village, 296
+Dresser village, 872
+Durand city, 1903
+Eagle village, 1952
+Eagle River city, 1373
+Eastman village, 420
+East Troy village, 4310
+Eau Claire city, 66966
+Eden village, 869
+Edgar village, 1475
+Edgerton city, 5503
+Egg Harbor village, 201
+Eland village, 200
+Elderon village, 179
+Eleva village, 679
+Elkhart Lake village, 961
+Elkhorn city, 10082
+Elk Mound village, 876
+Ellsworth village, 3230
+Elm Grove village, 5940
+Elmwood village, 805
+Elmwood Park village, 496
+Elroy city, 1428
+Embarrass village, 409
+Endeavor village, 463
+Ephraim village, 289
+Ettrick village, 525
+Evansville city, 5074
+Exeland village, 195
+Fairchild village, 562
+Fairwater village, 365
+Fall Creek village, 1333
+Fall River village, 1696
+Fennimore city, 2512
+Fenwood village, 152
+Ferryville village, 179
+Fitchburg city, 25895
+Fond du Lac city, 43045
+Fontana-on-Geneva Lake village, 1693
+Footville village, 806
+Forestville village, 425
+Fort Atkinson city, 12466
+Fountain City city, 842
+Fox Lake city, 1504
+Fox Point village, 6734
+Francis Creek village, 663
+Franklin city, 36083
+Frederic village, 1116
+Fredonia village, 2161
+Fremont village, 672
+Friendship village, 686
+Friesland village, 354
+Galesville city, 1525
+Gays Mills village, 516
+Genoa village, 257
+Genoa City village, 3059
+Germantown village, 19783
+Gillett city, 1362
+Gilman village, 408
+Glenbeulah village, 460
+Glendale city, 12932
+Glen Flora village, 89
+Glenwood City city, 1236
+Grafton village, 11508
+Granton village, 349
+Grantsburg village, 1322
+Gratiot village, 236
+Green Bay city, 104868
+Greendale village, 14325
+Greenfield city, 37072
+Green Lake city, 967
+Greenwood city, 1012
+Gresham village, 578
+Hales Corners village, 7746
+Hammond village, 1877
+Hancock village, 413
+Hartford city, 14243
+Hartland village, 9183
+Hatley village, 591
+Haugen village, 286
+Hawkins village, 291
+Hayward city, 2313
+Hazel Green village, 1254
+Hewitt village, 826
+Highland village, 850
+Hilbert village, 1133
+Hillsboro city, 1431
+Hixton village, 429
+Hobart village, 6796
+Hollandale village, 292
+Holmen village, 9318
+Horicon city, 3623
+Hortonville village, 2712
+Howard village, 18500
+Howards Grove village, 3232
+Hudson city, 13026
+Hurley city, 1547
+Hustisford village, 1113
+Hustler village, 196
+Independence city, 1345
+Ingram village, 75
+Iola village, 1288
+Iron Ridge village, 920
+Ironton village, 255
+Jackson village, 6767
+Janesville city, 63588
+Jefferson city, 7976
+Johnson Creek village, 2840
+Junction City village, 438
+Juneau city, 2784
+Kaukauna city, 15696
+Kekoskee village, 160
+Kellnersville village, 325
+Kendall village, 471
+Kennan village, 132
+Kenosha city, 100150
+Kewaskum village, 4034
+Kewaunee city, 2942
+Kiel city, 3696
+Kimberly village, 6606
+Kingston village, 327
+Knapp village, 460
+Kohler village, 2106
+Kronenwetter village, 7321
+Lac La Belle village, 293
+La Crosse city, 51647
+Ladysmith city, 3285
+La Farge village, 754
+Lake Delton village, 2928
+Lake Geneva city, 7710
+Lake Hallie village, 6536
+Lake Mills city, 5783
+Lake Nebagamon village, 1062
+Lancaster city, 3826
+Lannon village, 1098
+La Valle village, 366
+Lena village, 555
+Lime Ridge village, 163
+Linden village, 547
+Little Chute village, 10428
+Livingston village, 658
+Lodi city, 3049
+Loganville village, 304
+Lohrville village, 397
+Lomira village, 2407
+Lone Rock village, 875
+Lowell village, 334
+Loyal city, 1245
+Lublin village, 117
+Luck village, 1093
+Luxemburg village, 2572
+Lyndon Station village, 497
+Lynxville village, 131
+McFarland village, 8040
+Madison city, 240323
+Maiden Rock village, 119
+Manawa city, 1344
+Manitowoc city, 33383
+Maple Bluff village, 1344
+Marathon City village, 1527
+Maribel village, 348
+Marinette city, 10862
+Marion city, 1244
+Markesan city, 1462
+Marquette village, 151
+Marshall village, 3937
+Marshfield city, 18952
+Mason village, 93
+Mattoon village, 430
+Mauston city, 4426
+Mayville city, 5093
+Mazomanie village, 1701
+Medford city, 4294
+Mellen city, 716
+Melrose village, 499
+Melvina village, 104
+Menasha city, 17522
+Menomonee Falls village, 35802
+Menomonie city, 16261
+Mequon city, 23225
+Merrill city, 9483
+Merrillan village, 542
+Merrimac village, 427
+Merton village, 3461
+Middleton city, 18159
+Milladore village, 277
+Milltown village, 898
+Milton city, 5549
+Milwaukee city, 598916
+Mineral Point city, 2492
+Minong village, 521
+Mishicot village, 1428
+Mondovi city, 2710
+Monona city, 7715
+Monroe city, 10794
+Montello city, 1466
+Montfort village, 710
+Monticello village, 1218
+Montreal city, 804
+Mosinee city, 3982
+Mount Calvary village, 755
+Mount Hope village, 224
+Mount Horeb village, 7294
+Mount Pleasant village, 26185
+Mount Sterling village, 210
+Mukwonago village, 7430
+Muscoda village, 1286
+Muskego city, 24407
+Nashotah village, 1395
+Necedah village, 929
+Neenah city, 25763
+Neillsville city, 2423
+Nekoosa city, 2550
+Nelson village, 364
+Nelsonville village, 155
+Neosho village, 566
+Neshkoro village, 430
+New Auburn village, 554
+New Berlin city, 39703
+Newburg village, 1248
+New Glarus village, 2178
+New Holstein city, 3251
+New Lisbon city, 2521
+New London city, 7242
+New Richmond city, 8455
+Niagara city, 1613
+Nichols village, 271
+North Bay village, 241
+North Fond du Lac village, 4953
+North Freedom village, 704
+North Hudson village, 3784
+North Prairie village, 2151
+Norwalk village, 632
+Oak Creek city, 34908
+Oakdale village, 292
+Oakfield village, 1075
+Oconomowoc city, 15888
+Oconomowoc Lake village, 595
+Oconto city, 4506
+Oconto Falls city, 2854
+Ogdensburg village, 184
+Oliver village, 405
+Omro city, 3552
+Onalaska city, 18256
+Ontario village, 558
+Oostburg village, 2899
+Oregon village, 9561
+Orfordville village, 1461
+Osceola village, 2516
+Oshkosh city, 66653
+Osseo city, 1712
+Owen city, 930
+Oxford village, 599
+Paddock Lake village, 3006
+Palmyra village, 1788
+Pardeeville village, 2101
+Park Falls city, 2395
+Park Ridge village, 502
+Patch Grove village, 197
+Pepin village, 814
+Peshtigo city, 3487
+Pewaukee city, 13610
+Pewaukee village, 8204
+Phillips city, 1437
+Pigeon Falls village, 415
+Pittsville city, 867
+Plain village, 775
+Plainfield village, 855
+Platteville city, 11286
+Pleasant Prairie village, 20027
+Plover village, 12239
+Plum City village, 589
+Plymouth city, 8396
+Poplar village, 603
+Portage city, 10208
+Port Edwards village, 1778
+Port Washington city, 11365
+Potosi village, 686
+Potter village, 255
+Pound village, 376
+Poynette village, 2510
+Prairie du Chien city, 5844
+Prairie du Sac village, 4112
+Prairie Farm village, 469
+Prentice village, 644
+Prescott city, 4200
+Princeton city, 1202
+Pulaski village, 3559
+Racine city, 78303
+Radisson village, 240
+Randolph village, 1799
+Random Lake village, 1582
+Readstown village, 423
+Redgranite village, 2140
+Reedsburg city, 9437
+Reedsville village, 1191
+Reeseville village, 700
+Rewey village, 294
+Rhinelander city, 7653
+Rib Lake village, 901
+Rice Lake city, 8348
+Richfield village, 11353
+Richland Center city, 5116
+Ridgeland village, 276
+Ridgeway village, 651
+Rio village, 1050
+Ripon city, 7716
+River Falls city, 15182
+River Hills village, 1608
+Roberts village, 1649
+Rochester village, 3675
+Rockdale village, 219
+Rockland village, 619
+Rock Springs village, 360
+Rosendale village, 1058
+Rosholt village, 504
+Rothschild village, 5263
+Rudolph village, 437
+St. Cloud village, 470
+St. Croix Falls city, 2110
+St. Francis city, 9540
+St. Nazianz village, 774
+Sauk City village, 3444
+Saukville village, 4499
+Scandinavia village, 361
+Schofield city, 2152
+Seymour city, 3444
+Sharon village, 1607
+Shawano city, 9192
+Sheboygan city, 48895
+Sheboygan Falls city, 7769
+Sheldon village, 229
+Shell Lake city, 1344
+Sherwood village, 2773
+Shiocton village, 920
+Shorewood village, 13196
+Shorewood Hills village, 1603
+Shullsburg city, 1220
+Silver Lake village, 2427
+Siren village, 796
+Sister Bay village, 901
+Slinger village, 5117
+Soldiers Grove village, 583
+Solon Springs village, 604
+Somerset village, 2656
+South Milwaukee city, 21238
+South Wayne village, 485
+Sparta city, 9600
+Spencer village, 1928
+Spooner city, 2652
+Spring Green village, 1622
+Spring Valley village, 1351
+Stanley city, 3633
+Star Prairie village, 559
+Stetsonville village, 533
+Steuben village, 130
+Stevens Point city, 26748
+Stockbridge village, 637
+Stockholm village, 66
+Stoddard village, 791
+Stoughton city, 12927
+Stratford village, 1574
+Strum village, 1128
+Sturgeon Bay city, 9098
+Sturtevant village, 6974
+Suamico village, 11631
+Sullivan village, 671
+Summit village, 4702
+Sun Prairie city, 30403
+Superior city, 26862
+Superior village, 661
+Suring village, 536
+Sussex village, 10633
+Taylor village, 472
+Tennyson village, 353
+Theresa village, 1243
+Thiensville village, 3225
+Thorp city, 1624
+Tigerton village, 732
+Tomah city, 9294
+Tomahawk city, 3339
+Tony village, 109
+Trempealeau village, 1593
+Turtle Lake village, 1041
+Twin Lakes village, 6028
+Two Rivers city, 11545
+Union Center village, 199
+Union Grove village, 4884
+Unity village, 342
+Valders village, 954
+Verona city, 11212
+Vesper village, 576
+Viola village, 693
+Viroqua city, 4397
+Waldo village, 497
+Wales village, 2564
+Walworth village, 2821
+Warrens village, 361
+Washburn city, 2105
+Waterford village, 5348
+Waterloo city, 3360
+Watertown city, 23957
+Waukesha city, 70920
+Waunakee village, 12657
+Waupaca city, 6047
+Waupun city, 11295
+Wausau city, 39160
+Wausaukee village, 578
+Wautoma city, 2215
+Wauwatosa city, 47068
+Wauzeka village, 713
+Webster village, 644
+West Allis city, 60732
+West Baraboo village, 1423
+West Bend city, 31540
+Westby city, 2253
+Westfield village, 1239
+West Milwaukee village, 4220
+Weston village, 14930
+West Salem village, 4889
+Weyauwega city, 1874
+Weyerhaeuser village, 230
+Wheeler village, 344
+Whitefish Bay village, 14137
+Whitehall city, 1577
+White Lake village, 356
+Whitelaw village, 755
+Whitewater city, 14505
+Whiting village, 1722
+Wild Rose village, 715
+Williams Bay village, 2605
+Wilson village, 185
+Wilton village, 501
+Wind Point village, 1717
+Winneconne village, 2392
+Winter village, 309
+Wisconsin Dells city, 2701
+Wisconsin Rapids city, 18217
+Withee village, 480
+Wittenberg village, 1069
+Wonewoc village, 806
+Woodman village, 131
+Woodville village, 1355
+Wrightstown village, 3021
+Wyeville village, 147
+Wyocena village, 755
+Yuba village, 73

@@ -1,0 +1,44 @@
+Albany village, 190
+Alburgh village, 499
+Barre city, 8967
+Barton village, 720
+Bellows Falls village, 3093
+Burlington city, 42282
+Cabot village, 238
+Cambridge village, 239
+Derby Center village, 589
+Derby Line village, 663
+Enosburg Falls village, 1323
+Essex Junction village, 9498
+Hyde Park village, 493
+Jacksonville village, 222
+Jeffersonville village, 741
+Johnson village, 1459
+Ludlow village, 805
+Lyndonville village, 1204
+Manchester village, 735
+Marshfield village, 272
+Montpelier city, 7787
+Morrisville village, 1994
+Newbury village, 364
+Newfane village, 116
+Newport city, 4530
+North Bennington village, 1629
+Northfield village, 2086
+North Troy village, 611
+Old Bennington village, 139
+Orleans village, 802
+Perkinsville village, 129
+Poultney village, 1595
+Rutland city, 16217
+St. Albans city, 6894
+Saxtons River village, 558
+South Burlington city, 18400
+Swanton village, 2387
+Vergennes city, 2584
+Waterbury village, 1796
+Wells River village, 398
+West Burke village, 340
+Westminster village, 287
+Winooski city, 7239
+Woodstock village, 891

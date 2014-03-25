@@ -1,0 +1,535 @@
+Abbeville city, 2894
+Acworth city, 21215
+Adairsville city, 4677
+Adel city, 5270
+Adrian city, 658
+Ailey city, 543
+Alamo town, 3377
+Alapaha town, 652
+Albany city, 77431
+Aldora town, 102
+Allenhurst city, 709
+Allentown city, 167
+Alma city, 3518
+Alpharetta city, 61981
+Alston town, 158
+Alto town, 1162
+Ambrose city, 377
+Americus city, 16393
+Andersonville city, 247
+Arabi town, 587
+Aragon city, 1237
+Arcade city, 1760
+Argyle town, 209
+Arlington city, 1428
+Arnoldsville city, 349
+Ashburn city, 3897
+Athens-Clarke County unified government (balance), 118999
+Atlanta city, 443775
+Attapulgus city, 443
+Auburn city, 7057
+Augusta-Richmond County consolidated government (balance), 197872
+Austell city, 6782
+Avalon town, 208
+Avera city, 240
+Avondale Estates city, 2771
+Baconton city, 899
+Bainbridge city, 12603
+Baldwin city, 3287
+Ball Ground city, 1472
+Barnesville city, 6537
+Bartow town, 274
+Barwick city, 378
+Baxley city, 4426
+Bellville city, 120
+Berkeley Lake city, 1706
+Berlin city, 561
+Bethlehem town, 621
+Between town, 299
+Bishop town, 227
+Blackshear city, 3488
+Blairsville city, 563
+Blakely city, 4835
+Bloomingdale city, 2745
+Blue Ridge city, 1269
+Bluffton town, 101
+Blythe city, 721
+Bogart town, 1047
+Boston city, 1318
+Bostwick city, 364
+Bowdon city, 2042
+Bowersville town, 465
+Bowman city, 840
+Braselton town, 7875
+Braswell town, 381
+Bremen city, 6209
+Brinson town, 212
+Bronwood town, 218
+Brooklet city, 1423
+Brooks town, 528
+Broxton city, 1185
+Brunswick city, 15640
+Buchanan city, 1148
+Buckhead town, 171
+Buena Vista city, 2191
+Buford city, 12735
+Butler city, 1918
+Byromville town, 534
+Byron city, 4718
+Cadwell town, 525
+Cairo city, 9821
+Calhoun city, 15812
+Camak town, 133
+Camilla city, 5059
+Canon city, 794
+Canton city, 23791
+Carl town, 200
+Carlton city, 255
+Carnesville city, 573
+Carrollton city, 24958
+Cartersville city, 19810
+Cave Spring city, 1193
+Cecil city, 278
+Cedartown city, 9775
+Centerville city, 7531
+Centralhatchee town, 401
+Chamblee city, 15790
+Chatsworth city, 4288
+Chattahoochee Hills city, 2537
+Chauncey city, 334
+Chester town, 1571
+Chickamauga city, 3121
+Clarkesville city, 1726
+Clarkston city, 7733
+Claxton city, 2666
+Clayton city, 2200
+Clermont town, 898
+Cleveland city, 3679
+Climax city, 276
+Cobbtown city, 348
+Cochran city, 4853
+Cohutta city, 668
+Colbert city, 586
+College Park city, 14649
+Collins city, 582
+Colquitt city, 1950
+Columbus city, 198413
+Comer city, 1118
+Commerce city, 6495
+Concord city, 373
+Conyers city, 15408
+Coolidge city, 525
+Cordele city, 11297
+Cornelia city, 4172
+Covington city, 13347
+Crawford city, 811
+Crawfordville city, 521
+Culloden city, 175
+Cumming city, 5532
+Cusseta-Chattahoochee County unified government, 13037
+Cuthbert city, 3669
+Dacula city, 4638
+Dahlonega city, 5860
+Daisy city, 141
+Dallas city, 12044
+Dalton city, 33413
+Damascus city, 243
+Danielsville city, 564
+Danville town, 222
+Darien city, 1869
+Dasher town, 956
+Davisboro city, 2001
+Dawson city, 4399
+Dawsonville city, 2255
+Dearing town, 546
+Decatur city, 19853
+Deepstep town, 129
+Demorest city, 1959
+Denton city, 253
+De Soto city, 186
+Dexter town, 571
+Dillard city, 341
+Doerun city, 783
+Donalsonville city, 2780
+Dooling town, 148
+Doraville city, 8482
+Douglas city, 11834
+Douglasville city, 31269
+Dublin city, 16215
+Dudley city, 571
+Duluth city, 27926
+Dunwoody city, 47224
+Du Pont town, 119
+East Dublin city, 2409
+East Ellijay city, 541
+Eastman city, 5341
+East Point city, 35584
+Eatonton city, 6480
+Edge Hill city, 25
+Edison city, 1486
+Elberton city, 4499
+Ellaville city, 1810
+Ellenton town, 285
+Ellijay city, 1630
+Emerson city, 1486
+Enigma town, 1297
+Ephesus city, 422
+Eton city, 904
+Euharlee city, 4150
+Fairburn city, 13720
+Fairmount city, 726
+Fargo city, 320
+Fayetteville city, 16206
+Fitzgerald city, 9048
+Flemington city, 762
+Flovilla city, 640
+Flowery Branch city, 6012
+Folkston city, 5418
+Forest Park city, 18874
+Forsyth city, 3922
+Fort Gaines city, 1084
+Fort Oglethorpe city, 9446
+Fort Valley city, 9721
+Franklin city, 979
+Franklin Springs city, 1011
+Funston city, 450
+Gainesville city, 34786
+Garden City city, 8913
+Garfield city, 202
+Gay town, 86
+Geneva town, 100
+Georgetown-Quitman County unified government, 2404
+Gibson city, 674
+Gillsville city, 242
+Girard town, 155
+Glennville city, 5202
+Glenwood city, 723
+Good Hope city, 277
+Gordon city, 2035
+Graham city, 294
+Grantville city, 3100
+Gray city, 3252
+Grayson city, 2757
+Greensboro city, 3370
+Greenville city, 859
+Griffin city, 23389
+Grovetown city, 12210
+Gumbranch city, 271
+Guyton city, 1696
+Hagan city, 969
+Hahira city, 2846
+Hamilton city, 1014
+Hampton city, 7098
+Hapeville city, 6698
+Haralson town, 168
+Harlem city, 2779
+Harrison town, 479
+Hartwell city, 4489
+Hawkinsville city, 5611
+Hazlehurst city, 4268
+Helen city, 518
+Helena city, 3081
+Hephzibah city, 4021
+Hiawassee city, 873
+Higgston town, 318
+Hiltonia town, 331
+Hinesville city, 34751
+Hiram city, 3599
+Hoboken city, 532
+Hogansville city, 3093
+Holly Springs city, 9667
+Homeland city, 888
+Homer town, 1136
+Homerville city, 2424
+Hoschton city, 1390
+Hull city, 197
+Ideal city, 485
+Ila city, 335
+Iron City town, 316
+Irwinton city, 591
+Ivey city, 978
+Jackson city, 4974
+Jacksonville city, 137
+Jakin city, 151
+Jasper city, 3662
+Jefferson city, 9601
+Jeffersonville city, 979
+Jenkinsburg city, 365
+Jersey city, 139
+Jesup city, 10268
+Johns Creek city, 82306
+Jonesboro city, 4580
+Junction City town, 169
+Kennesaw city, 30990
+Keysville city, 324
+Kingsland city, 16285
+Kingston city, 642
+Kite city, 236
+LaFayette city, 7076
+LaGrange city, 30478
+Lake City city, 2667
+Lakeland city, 3391
+Lake Park city, 750
+Lavonia city, 2129
+Lawrenceville city, 29481
+Leary city, 596
+Leesburg city, 2939
+Lenox town, 852
+Leslie city, 396
+Lexington city, 224
+Lilburn city, 12266
+Lilly city, 205
+Lincolnton city, 1509
+Lithonia city, 1966
+Locust Grove city, 5657
+Loganville city, 10646
+Lone Oak town, 89
+Lookout Mountain city, 1584
+Louisville city, 2399
+Lovejoy city, 6486
+Ludowici city, 1884
+Lula city, 2828
+Lumber City city, 1279
+Lumpkin city, 1097
+Luthersville city, 837
+Lyerly town, 528
+Lyons city, 4389
+McCaysville city, 1046
+McDonough city, 22599
+McIntyre town, 649
+Macon city, 91234
+McRae city, 5622
+Madison city, 3984
+Manassas city, 94
+Manchester city, 4109
+Mansfield city, 417
+Marietta city, 58359
+Marshallville city, 1396
+Martin town, 375
+Maxeys town, 220
+Maysville town, 1798
+Meansville city, 181
+Meigs city, 1035
+Menlo city, 469
+Metter city, 4172
+Midville city, 268
+Midway city, 2133
+Milan city, 681
+Milledgeville city, 19401
+Millen city, 3037
+Milner city, 602
+Milton city, 35015
+Mitchell town, 204
+Molena city, 377
+Monroe city, 13349
+Montezuma city, 3349
+Monticello city, 2609
+Montrose town, 213
+Moreland town, 408
+Morgan city, 1826
+Morganton city, 300
+Morrow city, 6859
+Morven city, 532
+Moultrie city, 14506
+Mountain City town, 1080
+Mountain Park city, 576
+Mount Airy town, 1282
+Mount Vernon city, 2214
+Mount Zion city, 1700
+Nahunta city, 1091
+Nashville city, 4986
+Nelson city, 1320
+Newborn town, 707
+Newington town, 267
+Newnan city, 34174
+Newton city, 634
+Nicholls city, 3356
+Nicholson city, 1692
+Norcross city, 15632
+Norman Park city, 976
+North High Shoals town, 672
+Norwood city, 230
+Nunez city, 147
+Oak Park town, 482
+Oakwood city, 4090
+Ochlocknee town, 678
+Ocilla city, 3538
+Oconee city, 252
+Odum city, 507
+Offerman city, 438
+Oglethorpe city, 1274
+Oliver city, 231
+Omega city, 1251
+Orchard Hill town, 207
+Oxford city, 2169
+Palmetto city, 4706
+Parrott town, 153
+Patterson city, 734
+Pavo city, 614
+Payne city, 218
+Peachtree City city, 34662
+Pearson city, 2093
+Pelham city, 3869
+Pembroke city, 2289
+Pendergrass town, 421
+Perry city, 14730
+Pinehurst city, 410
+Pine Lake city, 745
+Pine Mountain town, 1326
+Pineview town, 508
+Pitts city, 313
+Plains city, 750
+Plainville city, 317
+Pooler city, 20598
+Portal town, 646
+Porterdale city, 1442
+Port Wentworth city, 6096
+Poulan city, 851
+Powder Springs city, 14253
+Pulaski town, 266
+Quitman city, 3664
+Ranger town, 133
+Ray City city, 1058
+Rayle town, 193
+Rebecca town, 176
+Register town, 178
+Reidsville city, 2628
+Remerton city, 1151
+Rentz city, 293
+Resaca town, 773
+Rest Haven town, 64
+Reynolds city, 1048
+Rhine town, 386
+Riceboro city, 829
+Richland city, 1415
+Richmond Hill city, 10452
+Riddleville town, 95
+Rincon town, 9198
+Ringgold city, 3645
+Riverdale city, 15493
+Riverside town, 36
+Roberta city, 1010
+Rochelle city, 1145
+Rockmart city, 4144
+Rocky Ford town, 141
+Rome city, 36159
+Roopville town, 220
+Rossville city, 4051
+Roswell city, 93692
+Royston city, 2553
+Rutledge city, 783
+St. Marys city, 17606
+Sale City city, 369
+Sandersville city, 5829
+Sandy Springs city, 99419
+Santa Claus city, 166
+Sardis city, 989
+Sasser town, 267
+Savannah city, 142022
+Scotland city, 356
+Screven city, 772
+Senoia city, 3587
+Shady Dale town, 243
+Sharon city, 138
+Sharpsburg town, 347
+Shellman city, 1029
+Shiloh city, 446
+Siloam town, 281
+Sky Valley city, 269
+Smithville city, 578
+Smyrna city, 52650
+Snellville city, 19026
+Social Circle city, 4284
+Soperton city, 3100
+Sparks town, 2003
+Sparta city, 1332
+Springfield city, 2806
+Stapleton city, 422
+Statesboro city, 29779
+Statham city, 2437
+Stillmore city, 529
+Stockbridge city, 26281
+Stone Mountain city, 5940
+Sugar Hill city, 19681
+Summertown city, 161
+Summerville city, 4464
+Sumner town, 426
+Sunny Side city, 133
+Surrency town, 203
+Suwanee city, 16253
+Swainsboro city, 7599
+Sycamore city, 715
+Sylvania city, 2553
+Sylvester city, 6283
+Talbotton city, 906
+Talking Rock town, 64
+Tallapoosa city, 3118
+Tallulah Falls town, 169
+Talmo town, 179
+Tarrytown town, 87
+Taylorsville town, 211
+Temple city, 4237
+Tennille city, 1522
+Thomaston city, 9070
+Thomasville city, 18488
+Thomson city, 6718
+Thunderbolt town, 2601
+Tifton city, 16672
+Tiger town, 406
+Tignall town, 527
+Toccoa city, 8404
+Toomsboro city, 470
+Trenton city, 2279
+Trion town, 1803
+Tunnel Hill city, 865
+Turin town, 268
+Twin City city, 1739
+Tybee Island city, 3067
+Tyrone town, 6976
+Ty Ty city, 741
+Unadilla city, 3693
+Union City city, 20501
+Union Point city, 1634
+Uvalda city, 592
+Valdosta city, 57597
+Varnell city, 1762
+Vernonburg town, 125
+Vidalia city, 10609
+Vidette city, 111
+Vienna city, 3841
+Villa Rica city, 14226
+Waco city, 505
+Wadley city, 2009
+Waleska city, 663
+Walnut Grove city, 1339
+Walthourville city, 4224
+Warm Springs city, 410
+Warner Robins city, 70712
+Warrenton city, 1856
+Warwick city, 424
+Washington city, 4007
+Watkinsville city, 2888
+Waverly Hall town, 737
+Waycross city, 14322
+Waynesboro city, 5816
+Webster County unified government, 2793
+West Point city, 3523
+Whigham city, 479
+White city, 668
+White Plains city, 283
+Whitesburg city, 589
+Willacoochee city, 1371
+Williamson city, 353
+Winder city, 14271
+Winterville city, 1133
+Woodbine city, 1339
+Woodbury city, 921
+Woodland city, 381
+Woodstock city, 25135
+Woodville city, 320
+Woolsey town, 159
+Wrens city, 2117
+Wrightsville city, 2153
+Yatesville town, 349
+Young Harris city, 1005
+Zebulon city, 1155

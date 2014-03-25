@@ -1,0 +1,589 @@
+Achille town, 499
+Ada city, 17097
+Adair town, 820
+Addington town, 111
+Afton town, 1062
+Agra town, 338
+Albion town, 103
+Alderson town, 296
+Alex town, 551
+Aline town, 209
+Allen town, 936
+Altus city, 19681
+Alva city, 4913
+Amber town, 430
+Ames town, 244
+Amorita town, 37
+Anadarko city, 6830
+Antlers city, 2362
+Apache town, 1448
+Arapaho town, 815
+Arcadia town, 253
+Ardmore city, 24677
+Arkoma town, 1956
+Armstrong town, 107
+Arnett town, 520
+Asher town, 406
+Ashland town, 64
+Atoka city, 3100
+Atwood town, 73
+Avant town, 320
+Barnsdall city, 1237
+Bartlesville city, 36245
+Bearden town, 134
+Beaver town, 1498
+Beggs city, 1260
+Bennington town, 339
+Bernice town, 560
+Bessie town, 182
+Bethany city, 19418
+Bethel Acres town, 2973
+Big Cabin town, 260
+Billings town, 509
+Binger town, 668
+Bixby city, 22580
+Blackburn town, 107
+Blackwell city, 6982
+Blair town, 806
+Blanchard city, 7935
+Bluejacket town, 333
+Boise City city, 1216
+Bokchito town, 642
+Bokoshe town, 501
+Boley town, 1187
+Boswell town, 707
+Bowlegs town, 404
+Boynton town, 247
+Bradley town, 131
+Braggs town, 257
+Braman town, 214
+Bray town, 1202
+Breckenridge town, 248
+Bridge Creek town, 333
+Bridgeport city, 116
+Bristow city, 4236
+Broken Arrow city, 102019
+Broken Bow city, 4147
+Bromide town, 167
+Brooksville town, 60
+Buffalo town, 1289
+Burbank town, 141
+Burlington town, 154
+Burns Flat town, 2051
+Butler town, 297
+Byars town, 257
+Byng town, 1191
+Byron town, 35
+Cache city, 2957
+Caddo town, 1024
+Calera town, 2197
+Calumet town, 533
+Calvin town, 288
+Camargo town, 177
+Cameron town, 297
+Canadian town, 214
+Caney town, 202
+Canton town, 617
+Canute town, 543
+Carmen town, 355
+Carnegie town, 1721
+Carney town, 645
+Carrier town, 86
+Carter town, 267
+Cashion town, 809
+Castle town, 107
+Catoosa city, 7164
+Cedar Valley city, 301
+Cement town, 501
+Centrahoma city, 98
+Central High town, 1190
+Chandler city, 3095
+Chattanooga town, 465
+Checotah city, 3380
+Chelsea town, 1966
+Cherokee city, 1499
+Cheyenne town, 826
+Chickasha city, 16162
+Choctaw city, 11626
+Chouteau town, 2114
+Cimarron City town, 157
+Claremore city, 18867
+Clayton town, 795
+Clearview town, 48
+Cleo Springs town, 345
+Cleveland city, 3231
+Clinton city, 9326
+Coalgate city, 1976
+Colbert town, 1157
+Colcord town, 816
+Cole town, 560
+Collinsville city, 5873
+Colony town, 136
+Comanche city, 1650
+Commerce city, 2500
+Cooperton town, 16
+Copan town, 739
+Corn town, 500
+Cornish town, 161
+Council Hill town, 157
+Covington town, 533
+Coweta city, 9522
+Cowlington town, 152
+Coyle town, 339
+Crescent city, 1466
+Cromwell town, 286
+Crowder town, 419
+Cushing city, 7853
+Custer City town, 388
+Cyril town, 1059
+Dacoma town, 107
+Davenport town, 807
+Davidson town, 306
+Davis city, 2724
+Deer Creek town, 130
+Delaware town, 421
+Del City city, 21813
+Depew town, 479
+Devol town, 150
+Dewar town, 887
+Dewey city, 3490
+Dibble town, 825
+Dickson town, 1230
+Dill City town, 564
+Disney town, 308
+Dougherty town, 217
+Douglas town, 32
+Dover town, 459
+Drummond town, 455
+Drumright city, 2909
+Duncan city, 23287
+Durant city, 16425
+Dustin town, 383
+Eakly town, 338
+Earlsboro town, 634
+East Duke town, 415
+Edmond city, 84885
+Eldorado town, 441
+Elgin city, 2511
+Elk City city, 12251
+Elmer town, 95
+Elmore City town, 695
+El Reno city, 17510
+Empire City town, 935
+Enid city, 49854
+Erick city, 1098
+Etowah town, 94
+Eufaula city, 2895
+Fairfax town, 1374
+Fairland town, 1069
+Fairmont town, 136
+Fair Oaks town, 100
+Fairview city, 2632
+Fallis town, 27
+Fanshawe town, 412
+Fargo town, 363
+Faxon town, 137
+Fitzhugh town, 232
+Fletcher town, 1192
+Foraker town, 19
+Forest Park town, 1033
+Forgan town, 544
+Fort Cobb town, 630
+Fort Coffee town, 419
+Fort Gibson town, 4132
+Fort Supply town, 338
+Fort Towson town, 505
+Foss town, 151
+Foster town, 159
+Foyil town, 345
+Francis town, 318
+Frederick city, 3851
+Freedom town, 288
+Friendship town, 24
+Gage town, 435
+Gans town, 307
+Garber city, 827
+Garvin town, 253
+Gate town, 92
+Geary city, 1288
+Gene Autry town, 158
+Geronimo town, 1270
+Gerty town, 116
+Glencoe town, 605
+Glenpool city, 11411
+Goldsby town, 1891
+Goltry town, 251
+Goodwell town, 1329
+Gore town, 950
+Gotebo town, 224
+Gould town, 140
+Gracemont town, 318
+Grainola town, 31
+Grandfield city, 1016
+Grand Lake Towne town, 74
+Granite town, 2032
+Grayson town, 158
+Greenfield town, 93
+Grove city, 6673
+Guthrie city, 10623
+Guymon city, 11930
+Haileyville city, 792
+Hallett town, 124
+Hammon town, 589
+Hanna town, 140
+Hardesty town, 222
+Harrah city, 5398
+Hartshorne city, 2061
+Haskell town, 1994
+Hastings town, 141
+Haworth town, 297
+Headrick town, 93
+Healdton city, 2787
+Heavener city, 3392
+Helena town, 1407
+Hendrix town, 80
+Hennessey town, 2130
+Henryetta city, 5844
+Hickory town, 72
+Hillsdale town, 122
+Hinton town, 3212
+Hitchcock town, 120
+Hitchita town, 89
+Hobart city, 3695
+Hoffman town, 126
+Holdenville city, 5767
+Hollis city, 2048
+Hollister town, 49
+Hominy city, 3558
+Hooker city, 1995
+Hoot Owl town, 4
+Horntown town, 95
+Howe town, 801
+Hugo city, 5306
+Hulbert town, 601
+Hunter town, 167
+Hydro town, 968
+Idabel city, 7014
+Indiahoma town, 349
+Indianola town, 158
+Inola town, 1799
+IXL town, 52
+Jay city, 2486
+Jefferson town, 12
+Jenks city, 18059
+Jennings town, 361
+Jet town, 215
+Johnson town, 249
+Jones town, 2800
+Kansas town, 789
+Katie town, 346
+Kaw City city, 373
+Kellyville town, 1151
+Kemp town, 135
+Kendrick town, 139
+Kenefic town, 199
+Keota town, 571
+Ketchum town, 435
+Keyes town, 311
+Kiefer town, 1818
+Kildare town, 99
+Kingfisher city, 4643
+Kingston town, 1612
+Kinta town, 301
+Kiowa town, 712
+Knowles town, 11
+Konawa city, 1286
+Krebs city, 2000
+Kremlin town, 258
+Lahoma town, 618
+Lake Aluma town, 90
+Lamar town, 155
+Lambert town, 6
+Lamont town, 417
+Langley town, 827
+Langston town, 1777
+Laverne town, 1338
+Lawrence Creek town, 150
+Lawton city, 98376
+Leedey town, 433
+Le Flore town, 178
+Lehigh city, 359
+Lenapah town, 296
+Leon town, 92
+Lexington city, 2197
+Liberty town, 219
+Lima town, 53
+Lindsay city, 2800
+Loco town, 121
+Locust Grove town, 1417
+Lone Grove city, 5139
+Lone Wolf town, 430
+Longdale town, 260
+Lookeba town, 166
+Lotsee town, 2
+Loveland town, 13
+Loyal town, 78
+Luther town, 1354
+McAlester city, 18303
+McCurtain town, 523
+McLoud town, 4099
+Macomb town, 32
+Madill city, 3801
+Manchester town, 103
+Mangum city, 2921
+Manitou town, 178
+Mannford town, 3085
+Mannsville town, 861
+Maramec town, 91
+Marble City town, 255
+Marietta city, 2653
+Marland town, 225
+Marlow city, 4630
+Marshall town, 284
+Martha town, 160
+Maud city, 1054
+May town, 39
+Maysville town, 1217
+Mead town, 124
+Medford city, 992
+Medicine Park town, 414
+Meeker town, 1144
+Meno town, 240
+Meridian town, 40
+Miami city, 13737
+Midwest City city, 56080
+Milburn town, 318
+Mill Creek town, 320
+Millerton town, 320
+Minco city, 1645
+Moffett town, 124
+Moore city, 57810
+Mooreland town, 1214
+Morris city, 1463
+Morrison town, 732
+Mounds town, 1203
+Mountain Park town, 405
+Mountain View town, 783
+Muldrow town, 3348
+Mulhall town, 235
+Muskogee city, 38981
+Mustang city, 18543
+Mutual town, 63
+Nash town, 204
+New Alluwe town, 91
+Newcastle city, 8292
+New Cordell city, 2904
+Newkirk city, 2278
+Nichols Hills city, 3807
+Nicoma Park city, 2443
+Ninnekah town, 1018
+Noble city, 6653
+Norge town, 146
+Norman city, 115562
+North Enid town, 880
+North Miami town, 381
+Nowata city, 3752
+Oakland town, 1065
+Oaks town, 287
+Oakwood town, 65
+Ochelata town, 428
+Oilton city, 1019
+Okarche town, 1235
+Okay town, 626
+Okeene town, 1193
+Okemah city, 3308
+Oklahoma City city, 599199
+Okmulgee city, 12406
+Oktaha town, 388
+Olustee town, 601
+Oologah town, 1178
+Optima town, 372
+Orlando town, 155
+Osage town, 156
+Owasso city, 31453
+Paden town, 466
+Panama town, 1390
+Paoli town, 605
+Paradise Hill town, 83
+Pauls Valley city, 6105
+Pawhuska city, 3569
+Pawnee city, 2171
+Pensacola town, 125
+Peoria town, 134
+Perkins city, 2849
+Perry city, 5090
+Phillips town, 136
+Piedmont city, 6227
+Pink town, 2079
+Pittsburg town, 202
+Pocasset town, 158
+Pocola town, 4022
+Ponca City city, 24974
+Pond Creek city, 852
+Porter town, 576
+Porum town, 723
+Poteau city, 8532
+Prague city, 2394
+Prue town, 467
+Pryor Creek city, 9507
+Purcell city, 5952
+Putnam town, 29
+Quapaw town, 914
+Quinton town, 1025
+Ralston town, 328
+Ramona town, 543
+Randlett town, 435
+Ratliff City town, 120
+Rattan town, 300
+Ravia town, 526
+Redbird town, 138
+Red Oak town, 538
+Red Rock town, 283
+Renfrow town, 12
+Rentiesville town, 130
+Reydon town, 217
+Ringling town, 1022
+Ringwood town, 508
+Ripley town, 406
+Rock Island town, 645
+Rocky town, 163
+Roff town, 727
+Roland town, 3252
+Roosevelt town, 245
+Rosedale town, 69
+Rosston town, 31
+Rush Springs town, 1237
+Ryan town, 804
+St. Louis town, 160
+Salina town, 1396
+Sallisaw city, 8659
+Sand Springs city, 19101
+Sapulpa city, 20793
+Sasakwa town, 149
+Savanna town, 669
+Sawyer town, 320
+Sayre city, 4507
+Schulter town, 505
+Seiling city, 853
+Seminole city, 7493
+Sentinel town, 903
+Shady Point town, 1012
+Shamrock town, 101
+Sharon town, 138
+Shattuck town, 1339
+Shawnee city, 30649
+Shidler city, 442
+Silo town, 340
+Skedee town, 51
+Skiatook town, 7660
+Slaughterville town, 4249
+Slick town, 132
+Smith Village town, 68
+Snyder city, 1373
+Soper town, 260
+South Coffeyville town, 784
+Sparks town, 168
+Spaulding town, 174
+Spavinaw town, 436
+Spencer city, 3985
+Sperry town, 1212
+Spiro town, 2163
+Sportsmen Acres town, 321
+Springer town, 701
+Sterling town, 821
+Stidham town, 20
+Stigler city, 2729
+Stillwater city, 46560
+Stilwell city, 3980
+Stonewall town, 474
+Strang town, 89
+Stratford town, 1512
+Stringtown town, 403
+Strong City town, 49
+Stroud city, 2689
+Stuart town, 176
+Sugden town, 42
+Sulphur city, 4997
+Summit town, 138
+Sweetwater town, 91
+Taft town, 249
+Tahlequah city, 16333
+Talala town, 278
+Talihina town, 1118
+Taloga town, 301
+Tamaha town, 178
+Tatums town, 151
+Tecumseh city, 6553
+Temple town, 997
+Terlton town, 110
+Terral town, 389
+Texhoma town, 968
+Texola town, 38
+Thackerville town, 452
+The Village city, 9127
+Thomas city, 1213
+Tipton town, 830
+Tishomingo city, 3060
+Tonkawa city, 3164
+Tribbey town, 397
+Tryon town, 489
+Tullahassee town, 104
+Tulsa city, 393987
+Tupelo city, 331
+Tushka town, 307
+Tuttle city, 6218
+Tyrone town, 792
+Union City town, 1742
+Valley Brook town, 779
+Valley Park town, 77
+Valliant town, 752
+Velma town, 616
+Vera town, 237
+Verden town, 531
+Verdigris town, 4118
+Vian town, 1424
+Vici town, 696
+Vinita city, 5623
+Wagoner city, 8519
+Wainwright town, 164
+Wakita town, 344
+Walters city, 2572
+Wanette town, 354
+Wann town, 126
+Wapanucka town, 440
+Warner town, 1634
+Warr Acres city, 10286
+Warwick town, 148
+Washington town, 624
+Watonga city, 3000
+Watts town, 316
+Waukomis town, 1307
+Waurika city, 2028
+Wayne town, 694
+Waynoka city, 920
+Weatherford city, 11357
+Webb City town, 62
+Webbers Falls town, 614
+Welch town, 608
+Weleetka town, 1004
+Wellston town, 777
+Westport town, 300
+West Siloam Springs town, 844
+Westville town, 1599
+Wetumka city, 1258
+Wewoka city, 3447
+Whitefield town, 396
+Wilburton city, 2813
+Willow town, 145
+Wilson city, 1729
+Winchester town, 511
+Wister town, 1085
+Woodlawn Park town, 157
+Woodward city, 12274
+Wright City town, 758
+Wyandotte town, 337
+Wynnewood city, 2193
+Wynona town, 438
+Yale city, 1227
+Yeager town, 73
+Yukon city, 24128

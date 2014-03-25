@@ -1,0 +1,53 @@
+Agawam Town city, 28608
+Amesbury Town city, 16535
+Attleboro city, 43837
+Barnstable Town city, 44824
+Beverly city, 40286
+Boston city, 636479
+Braintree Town city, 36249
+Brockton city, 94094
+Cambridge city, 106471
+Chelsea city, 36828
+Chicopee city, 55490
+Easthampton Town city, 16007
+Everett city, 42567
+Fall River city, 88945
+Fitchburg city, 40411
+Franklin Town city, 32374
+Gardner city, 20254
+Gloucester city, 29191
+Greenfield Town city, 17553
+Haverhill city, 61797
+Holyoke city, 40135
+Lawrence city, 77326
+Leominster city, 40989
+Lowell city, 108522
+Lynn city, 91253
+Malden city, 60374
+Marlborough city, 39204
+Medford city, 57033
+Melrose city, 27435
+Methuen Town city, 48009
+New Bedford city, 94929
+Newburyport city, 17654
+Newton city, 86307
+North Adams city, 13583
+Northampton city, 28592
+Palmer Town city, 12152
+Peabody city, 51867
+Pittsfield city, 44168
+Quincy city, 93027
+Revere city, 53179
+Salem city, 42219
+Somerville city, 77104
+Southbridge Town city, 16799
+Springfield city, 153552
+Taunton city, 56055
+Waltham city, 61918
+Watertown Town city, 32863
+Westfield city, 41399
+West Springfield Town city, 28574
+Weymouth Town city, 54906
+Winthrop Town city, 17940
+Woburn city, 38949
+Worcester city, 182669

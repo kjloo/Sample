@@ -1,0 +1,8 @@
+Central Falls city, 19369
+Cranston city, 80529
+East Providence city, 47096
+Newport city, 24034
+Pawtucket city, 71170
+Providence city, 178432
+Warwick city, 81873
+Woonsocket city, 41032

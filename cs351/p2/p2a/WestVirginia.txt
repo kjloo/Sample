@@ -1,0 +1,232 @@
+Addison (Webster Springs) town, 763
+Albright town, 303
+Alderson town, 1184
+Anawalt town, 219
+Anmoore town, 771
+Ansted town, 1406
+Athens town, 1050
+Auburn town, 95
+Bancroft town, 593
+Barboursville village, 4065
+Barrackville town, 1307
+Bath (Berkeley Springs) town, 616
+Bayard town, 285
+Beckley city, 17606
+Beech Bottom village, 516
+Belington town, 1920
+Belle town, 1247
+Belmont city, 899
+Benwood city, 1396
+Bethany town, 1031
+Bethlehem village, 2479
+Beverly town, 697
+Blacksville town, 177
+Bluefield city, 10502
+Bolivar town, 1052
+Bradshaw town, 325
+Bramwell town, 368
+Brandonville town, 102
+Bridgeport city, 8355
+Bruceton Mills town, 86
+Buckhannon city, 5645
+Buffalo town, 1255
+Burnsville town, 503
+Cairo town, 276
+Camden-on-Gauley town, 163
+Cameron city, 930
+Capon Bridge town, 354
+Carpendale town, 965
+Cedar Grove town, 986
+Ceredo city, 1412
+Chapmanville town, 1257
+Charleston city, 51018
+Charles Town city, 5385
+Chesapeake town, 1541
+Chester city, 2553
+Clarksburg city, 16439
+Clay town, 486
+Clearview village, 557
+Clendenin town, 1216
+Cowen town, 524
+Danville town, 684
+Davis town, 650
+Davy town, 406
+Delbarton town, 568
+Dunbar city, 7851
+Durbin town, 290
+East Bank town, 957
+Eleanor town, 1550
+Elizabeth town, 838
+Elk Garden town, 229
+Elkins city, 7180
+Ellenboro town, 355
+Fairmont city, 18737
+Fairview town, 411
+Falling Spring town, 212
+Farmington town, 378
+Fayetteville town, 2890
+Flatwoods town, 276
+Flemington town, 313
+Follansbee city, 2956
+Fort Gay town, 692
+Franklin town, 707
+Friendly town, 130
+Gary city, 937
+Gassaway town, 901
+Gauley Bridge town, 610
+Gilbert town, 435
+Glasgow town, 896
+Glen Dale city, 1501
+Glenville town, 1551
+Grafton city, 5177
+Grantsville town, 556
+Grant Town town, 614
+Granville town, 1477
+Hambleton town, 226
+Hamlin town, 1137
+Handley town, 344
+Harman town, 143
+Harpers Ferry town, 285
+Harrisville town, 1831
+Hartford City town, 609
+Hedgesville town, 320
+Henderson town, 269
+Hendricks town, 263
+Hillsboro town, 256
+Hinton city, 2621
+Hundred town, 297
+Huntington city, 49160
+Hurricane city, 6359
+Huttonsville town, 221
+Iaeger town, 293
+Jane Lew town, 402
+Junior town, 513
+Kenova city, 3142
+Kermit town, 392
+Keyser city, 5337
+Keystone city, 271
+Kimball town, 188
+Kingwood city, 2955
+Leon town, 157
+Lester town, 344
+Lewisburg city, 3942
+Logan city, 1739
+Lost Creek town, 491
+Lumberport town, 880
+Mabscott town, 1400
+McMechen city, 1893
+Madison city, 3054
+Man town, 742
+Mannington city, 2070
+Marlinton town, 1051
+Marmet city, 1492
+Martinsburg city, 17513
+Mason town, 959
+Masontown town, 549
+Matewan town, 480
+Matoaka town, 222
+Meadow Bridge town, 374
+Middlebourne town, 801
+Mill Creek town, 720
+Milton town, 2498
+Mitchell Heights town, 318
+Monongah town, 1051
+Montgomery city, 1630
+Montrose town, 156
+Moorefield town, 2505
+Morgantown city, 31000
+Moundsville city, 9173
+Mount Hope city, 1401
+Mullens city, 1532
+Newburg town, 329
+New Cumberland city, 1087
+New Haven town, 1542
+New Martinsville city, 5350
+Nitro city, 7146
+Northfork town, 411
+North Hills town, 832
+Nutter Fort town, 1584
+Oak Hill city, 7713
+Oakvale town, 118
+Oceana town, 1364
+Paden City city, 2589
+Parkersburg city, 31261
+Parsons city, 1435
+Paw Paw town, 500
+Pax town, 167
+Pennsboro city, 1118
+Petersburg city, 2415
+Peterstown town, 648
+Philippi city, 2948
+Piedmont town, 862
+Pine Grove town, 544
+Pineville town, 654
+Pleasant Valley city, 3172
+Poca town, 988
+Point Pleasant city, 4310
+Pratt town, 596
+Princeton city, 6464
+Pullman town, 151
+Quinwood town, 291
+Rainelle town, 1491
+Ranson corporation, 4629
+Ravenswood city, 3858
+Reedsville town, 598
+Reedy town, 179
+Rhodell town, 173
+Richwood city, 2039
+Ridgeley town, 664
+Ripley city, 3251
+Rivesville town, 941
+Romney city, 1816
+Ronceverte city, 1775
+Rowlesburg town, 587
+Rupert town, 946
+St. Albans city, 10973
+St. Marys city, 1848
+Salem city, 1574
+Sand Fork town, 160
+Shepherdstown town, 1736
+Shinnston city, 2195
+Sistersville city, 1365
+Smithers city, 808
+Smithfield town, 147
+Sophia town, 1338
+South Charleston city, 13340
+Spencer city, 2252
+Star City town, 1887
+Stonewood city, 1790
+Summersville town, 3570
+Sutton town, 985
+Sylvester town, 159
+Terra Alta town, 1490
+Thomas city, 567
+Thurmond town, 5
+Triadelphia town, 797
+Tunnelton town, 297
+Union town, 561
+Valley Grove village, 377
+Vienna city, 10686
+War city, 818
+Wardensville town, 273
+Wayne town, 1401
+Weirton city, 19503
+Welch city, 2325
+Wellsburg city, 2769
+West Hamlin town, 767
+West Liberty town, 1539
+West Logan town, 418
+West Milford town, 625
+Weston city, 4081
+Westover city, 4103
+West Union town, 822
+Wheeling city, 28213
+White Hall town, 659
+White Sulphur Springs city, 2460
+Whitesville town, 500
+Williamson city, 3098
+Williamstown city, 2911
+Windsor Heights village, 416
+Winfield town, 2331
+Womelsdorf (Coalton) town, 246
+Worthington town, 156

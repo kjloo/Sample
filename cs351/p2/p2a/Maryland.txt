@@ -1,0 +1,157 @@
+Aberdeen city, 15018
+Accident town, 321
+Annapolis city, 38620
+Baltimore city, 621342
+Barclay town, 120
+Barnesville town, 176
+Barton town, 445
+Bel Air town, 10274
+Berlin town, 4563
+Berwyn Heights town, 3181
+Betterton town, 339
+Bladensburg town, 9328
+Boonsboro town, 3455
+Bowie city, 56129
+Brentwood town, 3100
+Brookeville town, 137
+Brookview town, 59
+Brunswick city, 6031
+Burkittsville town, 155
+Cambridge city, 12503
+Capitol Heights town, 4428
+Cecilton town, 665
+Centreville town, 4451
+Charlestown town, 1189
+Chesapeake Beach town, 5806
+Chesapeake City town, 686
+Chestertown town, 5368
+Cheverly town, 6291
+Chevy Chase town, 2907
+Chevy Chase Section Five village, 675
+Chevy Chase Section Three village, 779
+Chevy Chase View town, 949
+Chevy Chase Village town, 2008
+Church Creek town, 124
+Church Hill town, 750
+Clear Spring town, 357
+College Park city, 31208
+Colmar Manor town, 1429
+Cottage City town, 1331
+Crisfield city, 2672
+Cumberland city, 20572
+Deer Park town, 393
+Delmar town, 3037
+Denton town, 4372
+District Heights city, 5949
+Eagle Harbor town, 64
+East New Market town, 394
+Easton town, 16598
+Edmonston town, 1474
+Eldorado town, 58
+Elkton town, 15579
+Emmitsburg town, 3086
+Fairmount Heights town, 1523
+Federalsburg town, 2697
+Forest Heights town, 2491
+Frederick city, 66382
+Friendsville town, 484
+Frostburg city, 8805
+Fruitland city, 5089
+Funkstown town, 885
+Gaithersburg city, 62794
+Galena town, 603
+Galestown town, 137
+Garrett Park town, 1022
+Glenarden city, 6126
+Glen Echo town, 262
+Goldsboro town, 243
+Grantsville town, 762
+Greenbelt city, 23541
+Greensboro town, 1899
+Hagerstown city, 40638
+Hampstead town, 6335
+Hancock town, 1563
+Havre de Grace city, 13392
+Hebron town, 1099
+Henderson town, 144
+Highland Beach town, 98
+Hillsboro town, 159
+Hurlock town, 2068
+Hyattsville city, 17865
+Indian Head town, 3903
+Keedysville town, 1163
+Kensington town, 2264
+Kitzmiller town, 317
+Landover Hills town, 1768
+La Plata town, 8959
+Laurel city, 25554
+Laytonsville town, 362
+Leonardtown town, 3179
+Loch Lynn Heights town, 544
+Lonaconing town, 1170
+Luke town, 64
+Manchester town, 4807
+Mardela Springs town, 351
+Martin's Additions village, 963
+Marydel town, 139
+Middletown town, 4247
+Midland town, 441
+Millington town, 636
+Morningside town, 2039
+Mountain Lake Park town, 2135
+Mount Airy town, 9340
+Mount Rainier city, 8226
+Myersville town, 1678
+New Carrollton city, 12383
+New Market town, 676
+New Windsor town, 1392
+North Beach town, 1992
+North Brentwood town, 526
+North Chevy Chase village, 575
+North East town, 3678
+Oakland town, 1902
+Ocean City town, 7089
+Oxford town, 641
+Perryville town, 4392
+Pittsville town, 1434
+Pocomoke City city, 4168
+Poolesville town, 5049
+Port Deposit town, 656
+Port Tobacco Village town, 13
+Preston town, 707
+Princess Anne town, 3308
+Queen Anne town, 221
+Queenstown town, 659
+Ridgely town, 1616
+Rising Sun town, 2870
+Riverdale Park town, 7088
+Rock Hall town, 1318
+Rockville city, 63244
+Rosemont village, 302
+St. Michaels town, 1020
+Salisbury city, 31243
+Seat Pleasant city, 4628
+Secretary town, 528
+Sharpsburg town, 710
+Sharptown town, 654
+Smithsburg town, 2987
+Snow Hill town, 2111
+Somerset town, 1253
+Sudlersville town, 509
+Sykesville town, 4449
+Takoma Park city, 17205
+Taneytown city, 6731
+Templeville town, 137
+Thurmont town, 6351
+Trappe town, 1067
+Union Bridge town, 973
+University Park town, 2591
+Upper Marlboro town, 649
+Vienna town, 275
+Walkersville town, 5969
+Washington Grove town, 574
+Westernport town, 1850
+Westminster city, 18628
+Willards town, 972
+Williamsport town, 2138
+Woodsboro town, 1176

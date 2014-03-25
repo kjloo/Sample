@@ -1,0 +1,304 @@
+Abbeville city, 12382
+Abita Springs town, 2426
+Addis town, 3979
+Albany village, 1091
+Alexandria city, 48367
+Amite City town, 4210
+Anacoco village, 895
+Angie village, 247
+Arcadia town, 2927
+Arnaudville town, 1064
+Ashland village, 267
+Athens village, 242
+Atlanta village, 159
+Baker city, 13890
+Baldwin town, 2390
+Ball town, 4016
+Basile town, 1807
+Baskin village, 252
+Bastrop city, 11154
+Baton Rouge city, 230058
+Belcher village, 264
+Benton town, 2010
+Bernice town, 1655
+Berwick town, 4856
+Bienville village, 214
+Blanchard town, 2918
+Bogalusa city, 12044
+Bonita village, 279
+Bossier City city, 64655
+Boyce town, 997
+Breaux Bridge city, 8212
+Broussard city, 8625
+Brusly town, 2558
+Bryceland village, 106
+Bunkie city, 4121
+Calvin village, 233
+Campti town, 1050
+Cankton village, 487
+Carencro city, 8082
+Castor village, 253
+Central city, 27548
+Chataignier village, 359
+Chatham town, 556
+Cheneyville town, 617
+Choudrant village, 873
+Church Point town, 4535
+Clarence village, 494
+Clarks village, 1007
+Clayton town, 695
+Clinton town, 1625
+Colfax town, 1526
+Collinston village, 282
+Columbia town, 384
+Converse village, 441
+Cottonport town, 1980
+Cotton Valley town, 997
+Coushatta town, 1934
+Covington city, 9058
+Creola village, 209
+Crowley city, 13189
+Cullen town, 1151
+Delcambre town, 1862
+Delhi town, 2970
+Delta village, 285
+Denham Springs city, 10129
+DeQuincy city, 3182
+DeRidder city, 10758
+Dixie Inn village, 270
+Dodson village, 329
+Donaldsonville city, 7473
+Downsville village, 139
+Doyline village, 812
+Dry Prong village, 427
+Dubach town, 967
+Dubberly village, 270
+Duson town, 1728
+East Hodge village, 286
+Edgefield village, 215
+Elizabeth town, 537
+Elton town, 1124
+Epps village, 849
+Erath town, 2106
+Eros town, 154
+Estherwood village, 906
+Eunice city, 10379
+Evergreen town, 306
+Farmerville town, 3813
+Fenton village, 377
+Ferriday town, 3435
+Fisher village, 230
+Florien village, 634
+Folsom village, 725
+Fordoche town, 927
+Forest village, 351
+Forest Hill village, 813
+Franklin city, 7483
+Franklinton town, 3809
+French Settlement village, 1115
+Georgetown village, 320
+Gibsland town, 962
+Gilbert village, 570
+Gilliam village, 165
+Glenmora town, 1339
+Golden Meadow town, 2084
+Goldonna village, 428
+Gonzales city, 10176
+Grambling city, 4954
+Gramercy town, 3504
+Grand Cane village, 244
+Grand Coteau town, 933
+Grand Isle town, 1338
+Grayson village, 523
+Greensburg town, 713
+Greenwood town, 3258
+Gretna city, 17754
+Grosse Tete village, 641
+Gueydan town, 1398
+Hall Summit village, 296
+Hammond city, 20122
+Harahan city, 9291
+Harrisonburg village, 343
+Haughton town, 3491
+Haynesville town, 2264
+Heflin village, 238
+Henderson town, 1698
+Hessmer village, 791
+Hodge village, 466
+Homer town, 3137
+Hornbeck town, 493
+Hosston village, 320
+Houma city, 33707
+Ida village, 222
+Independence town, 1656
+Iota town, 1485
+Iowa town, 3119
+Jackson town, 3813
+Jamestown village, 136
+Jeanerette city, 5574
+Jean Lafitte town, 1923
+Jena town, 3408
+Jennings city, 10252
+Jonesboro town, 4680
+Jonesville town, 2229
+Junction City village, 573
+Kaplan city, 4598
+Keachi town, 294
+Kenner city, 66820
+Kentwood town, 2240
+Kilbourne village, 412
+Killian town, 1248
+Kinder town, 2438
+Krotz Springs town, 1210
+Lafayette city, 122761
+Lake Arthur town, 2731
+Lake Charles city, 73474
+Lake Providence town, 3848
+Lecompte town, 1216
+Leesville city, 6817
+Leonville town, 1094
+Lillie village, 116
+Lisbon village, 180
+Livingston town, 1876
+Livonia town, 1439
+Lockport town, 2565
+Logansport town, 1570
+Longstreet village, 159
+Loreauville village, 894
+Lucky village, 266
+Lutcher town, 3437
+McNary village, 208
+Madisonville town, 766
+Mamou town, 3208
+Mandeville city, 12112
+Mangham town, 667
+Mansfield city, 5027
+Mansura town, 1401
+Many town, 2823
+Maringouin town, 1088
+Marion town, 754
+Marksville city, 5645
+Martin village, 588
+Maurice village, 1025
+Melville town, 1045
+Mermentau village, 657
+Mer Rouge village, 621
+Merryville town, 1115
+Minden city, 12992
+Monroe city, 49156
+Montgomery town, 710
+Montpelier village, 262
+Mooringsport town, 802
+Moreauville village, 917
+Morgan City city, 12122
+Morganza village, 607
+Morse village, 806
+Mound village, 19
+Mount Lebanon town, 81
+Napoleonville village, 648
+Natchez village, 591
+Natchitoches city, 18299
+Newellton town, 1121
+New Iberia city, 30846
+New Llano town, 2579
+New Orleans city, 369250
+New Roads city, 4802
+Noble village, 252
+North Hodge village, 387
+Norwood village, 318
+Oakdale city, 7694
+Oak Grove town, 1707
+Oak Ridge village, 142
+Oberlin town, 1746
+Oil City town, 1018
+Olla town, 1392
+Opelousas city, 16554
+Palmetto village, 163
+Parks village, 665
+Patterson city, 6088
+Pearl River town, 2555
+Pine Prairie village, 1602
+Pineville city, 14557
+Pioneer village, 154
+Plain Dealing town, 1012
+Plaquemine city, 7040
+Plaucheville village, 245
+Pleasant Hill village, 725
+Pollock town, 459
+Ponchatoula city, 6712
+Port Allen city, 5101
+Port Barre town, 2078
+Port Vincent village, 735
+Powhatan village, 134
+Provencal village, 609
+Quitman village, 179
+Rayne city, 8007
+Rayville town, 3763
+Reeves village, 229
+Richmond village, 578
+Richwood town, 3389
+Ridgecrest town, 671
+Ringgold town, 1462
+Robeline village, 172
+Rodessa village, 272
+Rosedale village, 782
+Roseland town, 1150
+Rosepine town, 1736
+Ruston city, 21953
+St. Francisville town, 1704
+St. Gabriel city, 6755
+St. Joseph town, 1104
+St. Martinville city, 6094
+Saline village, 271
+Sarepta town, 887
+Scott city, 8760
+Shongaloo village, 180
+Shreveport city, 201867
+Sibley town, 1211
+Sicily Island village, 518
+Sikes village, 116
+Simmesport town, 2141
+Simpson village, 656
+Simsboro village, 847
+Slaughter town, 982
+Slidell city, 27369
+Sorrento town, 1482
+South Mansfield village, 349
+Spearsville village, 134
+Springfield town, 474
+Springhill city, 5231
+Stanley village, 108
+Sterlington town, 1662
+Stonewall town, 1841
+Sulphur city, 20157
+Sun village, 472
+Sunset town, 2918
+Tallulah city, 7335
+Tangipahoa village, 771
+Thibodaux city, 14546
+Tickfaw village, 708
+Tullos town, 385
+Turkey Creek village, 440
+Urania town, 1311
+Varnado village, 1457
+Vidalia town, 4178
+Vienna town, 387
+Ville Platte city, 7351
+Vinton town, 3201
+Vivian town, 3707
+Walker town, 6166
+Washington town, 959
+Waterproof town, 646
+Welsh town, 3219
+Westlake city, 4570
+West Monroe city, 13082
+Westwego city, 8524
+White Castle town, 1857
+Wilson village, 584
+Winnfield city, 4717
+Winnsboro city, 4835
+Wisner town, 947
+Woodworth town, 1100
+Youngsville city, 8985
+Zachary city, 15565
+Zwolle town, 1988

@@ -1,0 +1,937 @@
+Aberdeen village, 1627
+Ada village, 5804
+Adamsville village, 114
+Addyston village, 935
+Adelphi village, 378
+Adena village, 745
+Akron city, 198549
+Albany village, 865
+Alexandria village, 518
+Alger village, 846
+Alliance city, 22183
+Amanda village, 741
+Amberley village, 3585
+Amelia village, 4855
+Amesville village, 153
+Amherst city, 12038
+Amsterdam village, 498
+Andover village, 1133
+Anna village, 1552
+Ansonia village, 1162
+Antioch village, 86
+Antwerp village, 1719
+Apple Creek village, 1173
+Aquilla village, 341
+Arcadia village, 595
+Arcanum village, 2104
+Archbold village, 4327
+Arlington village, 1462
+Arlington Heights village, 742
+Ashland city, 20320
+Ashley village, 1344
+Ashtabula city, 18811
+Ashville village, 4115
+Athalia village, 373
+Athens city, 23755
+Attica village, 885
+Aurora city, 15479
+Avon city, 21772
+Avon Lake city, 22816
+Bailey Lakes village, 370
+Bainbridge village, 856
+Bairdstown village, 131
+Baltic village, 793
+Baltimore village, 2968
+Barberton city, 26316
+Barnesville village, 4145
+Barnhill village, 392
+Batavia village, 1630
+Batesville village, 101
+Bay View village, 625
+Bay Village city, 15484
+Beach City village, 1023
+Beachwood city, 11844
+Beallsville village, 407
+Beaver village, 444
+Beavercreek city, 45780
+Beaverdam village, 379
+Bedford city, 12907
+Bedford Heights city, 10641
+Bellaire village, 4220
+Bellbrook city, 7032
+Belle Center village, 802
+Bellefontaine city, 13197
+Belle Valley village, 223
+Bellevue city, 8133
+Bellville village, 1894
+Belmont village, 447
+Belmore village, 142
+Beloit village, 962
+Belpre city, 6430
+Bentleyville village, 863
+Benton Ridge village, 303
+Berea city, 18980
+Bergholz village, 649
+Berkey village, 235
+Berlin Heights village, 705
+Bethel village, 2732
+Bethesda village, 1246
+Bettsville village, 650
+Beverly village, 1304
+Bexley city, 13252
+Blakeslee village, 96
+Blanchester village, 4230
+Bloomdale village, 681
+Bloomingburg village, 930
+Bloomingdale village, 199
+Bloomville village, 941
+Blue Ash city, 12106
+Bluffton village, 4027
+Bolivar village, 991
+Boston Heights village, 1293
+Botkins village, 1150
+Bowerston village, 397
+Bowersville village, 314
+Bowling Green city, 31384
+Bradford village, 1838
+Bradner village, 998
+Brady Lake village, 460
+Bratenahl village, 1184
+Brecksville city, 13536
+Bremen village, 1438
+Brewster village, 2164
+Brice village, 116
+Bridgeport village, 1808
+Broadview Heights city, 19303
+Brooklyn city, 11026
+Brooklyn Heights village, 1522
+Brook Park city, 19003
+Brookside village, 621
+Brookville city, 5873
+Broughton village, 118
+Brunswick city, 34364
+Bryan city, 8514
+Buchtel village, 552
+Buckeye Lake village, 2723
+Buckland village, 232
+Bucyrus city, 12092
+Burbank village, 207
+Burgoon village, 171
+Burkettsville village, 245
+Burton village, 1458
+Butler village, 924
+Butlerville village, 164
+Byesville village, 2420
+Cadiz village, 3322
+Cairo village, 541
+Caldwell village, 1733
+Caledonia village, 565
+Cambridge city, 10555
+Camden village, 2011
+Campbell city, 8123
+Canal Fulton city, 5484
+Canal Winchester city, 7393
+Canfield city, 7434
+Canton city, 72683
+Cardington village, 2046
+Carey village, 3663
+Carlisle village, 5031
+Carroll village, 524
+Carrollton village, 3221
+Casstown village, 269
+Castalia village, 842
+Castine village, 129
+Catawba village, 270
+Cecil village, 186
+Cedarville village, 4032
+Celina city, 10395
+Centerburg village, 1861
+Centerville village, 103
+Centerville city, 23974
+Chagrin Falls village, 4079
+Chardon city, 5166
+Chatfield village, 188
+Chauncey village, 1039
+Cherry Fork village, 155
+Chesapeake village, 740
+Cheshire village, 132
+Chesterhill village, 287
+Chesterville village, 229
+Cheviot city, 8327
+Chickasaw village, 295
+Chillicothe city, 21735
+Chilo village, 63
+Chippewa Lake village, 718
+Christiansburg village, 516
+Cincinnati city, 296550
+Circleville city, 13453
+Clarington village, 382
+Clarksburg village, 455
+Clarksville village, 543
+Clay Center village, 277
+Clayton city, 13216
+Cleveland city, 390928
+Cleveland Heights city, 45475
+Cleves village, 3329
+Clifton village, 153
+Clinton village, 1212
+Cloverdale village, 166
+Clyde city, 6297
+Coal Grove village, 2158
+Coalton village, 472
+Coldwater village, 4443
+College Corner village, 406
+Columbiana city, 6334
+Columbus city, 809798
+Columbus Grove village, 2094
+Commercial Point village, 1587
+Conesville village, 348
+Congress village, 185
+Conneaut city, 12879
+Continental village, 1136
+Convoy village, 1078
+Coolville village, 490
+Corning village, 579
+Cortland city, 7041
+Corwin village, 430
+Coshocton city, 11173
+Covington village, 2593
+Craig Beach village, 1164
+Crestline village, 4521
+Creston village, 2171
+Cridersville village, 1843
+Crooksville village, 2518
+Crown City village, 411
+Cumberland village, 366
+Custar village, 181
+Cuyahoga Falls city, 49245
+Cuyahoga Heights village, 629
+Cygnet village, 604
+Dalton village, 1833
+Danville village, 1027
+Darbyville village, 224
+Dayton city, 141359
+Deer Park city, 5704
+Deersville village, 79
+Defiance city, 16838
+De Graff village, 1272
+Delaware city, 35925
+Dellroy village, 354
+Delphos city, 7094
+Delta village, 3083
+Dennison village, 2639
+Deshler village, 1795
+Dexter City village, 129
+Dillonvale village, 651
+Donnelsville village, 302
+Dover city, 12795
+Doylestown village, 3054
+Dresden village, 1519
+Dublin city, 42906
+Dunkirk village, 863
+Dupont village, 315
+East Canton village, 1589
+East Cleveland city, 17593
+Eastlake city, 18459
+East Liverpool city, 11062
+East Palestine village, 4653
+East Sparta village, 813
+Eaton city, 8330
+Edgerton village, 2001
+Edison village, 439
+Edon village, 831
+Eldorado village, 505
+Elgin village, 57
+Elida village, 1866
+Elmore village, 1407
+Elmwood Place village, 2173
+Elyria city, 54086
+Empire village, 290
+Englewood city, 13463
+Enon village, 2419
+Euclid city, 48281
+Evendale village, 2763
+Fairborn city, 32599
+Fairfax village, 1693
+Fairfield city, 42647
+Fairlawn city, 7390
+Fairport Harbor village, 3101
+Fairview village, 83
+Fairview Park city, 16612
+Farmersville village, 1009
+Fayette village, 1271
+Fayetteville village, 326
+Felicity village, 821
+Findlay city, 41526
+Fletcher village, 476
+Florida village, 231
+Flushing village, 869
+Forest village, 1432
+Forest Park city, 18682
+Fort Jennings village, 476
+Fort Loramie village, 1492
+Fort Recovery village, 1423
+Fort Shawnee village, 3643
+Fostoria city, 13282
+Frankfort village, 1065
+Franklin city, 11819
+Frazeysburg village, 1320
+Fredericksburg village, 423
+Fredericktown village, 2476
+Freeport village, 365
+Fremont city, 16564
+Fulton village, 259
+Fultonham village, 177
+Gahanna city, 33828
+Galena village, 666
+Galion city, 10276
+Gallipolis village, 3637
+Gambier village, 2408
+Gann village, 124
+Garfield Heights city, 28454
+Garrettsville village, 2312
+Gates Mills village, 2259
+Geneva city, 6147
+Geneva-on-the-Lake village, 1270
+Genoa village, 2332
+Georgetown village, 4466
+Germantown city, 5525
+Gettysburg village, 510
+Gibsonburg village, 2602
+Gilboa village, 182
+Girard city, 9813
+Glandorf village, 1003
+Glendale village, 2154
+Glenford village, 176
+Glenmont village, 277
+Glenwillow village, 915
+Gloria Glens Park village, 430
+Glouster village, 1772
+Gnadenhutten village, 1281
+Golf Manor village, 3591
+Gordon village, 211
+Grafton village, 5931
+Grand Rapids village, 980
+Grand River village, 398
+Grandview Heights city, 6910
+Granville village, 5638
+Gratiot village, 221
+Gratis village, 870
+Graysville village, 76
+Green city, 25789
+Green Camp village, 367
+Greenfield village, 4562
+Greenhills village, 3596
+Green Springs village, 1349
+Greenville city, 13105
+Greenwich village, 1463
+Grove City city, 36832
+Groveport city, 5540
+Grover Hill village, 392
+Hamden village, 867
+Hamersville village, 537
+Hamilton city, 62295
+Hamler village, 578
+Hanging Rock village, 221
+Hanover village, 1002
+Hanoverton village, 400
+Harbor View village, 122
+Harpster village, 204
+Harrisburg village, 326
+Harrison city, 10103
+Harrisville village, 234
+Harrod village, 411
+Hartford village, 393
+Hartville village, 2943
+Harveysburg village, 545
+Haskins village, 1207
+Haviland village, 212
+Hayesville village, 446
+Heath city, 10389
+Hebron village, 2350
+Helena village, 223
+Hemlock village, 155
+Hicksville village, 3504
+Higginsport village, 248
+Highland village, 252
+Highland Heights city, 8293
+Highland Hills village, 1006
+Hilliard city, 30564
+Hills and Dales village, 221
+Hillsboro city, 6522
+Hiram village, 1439
+Holgate village, 1103
+Holiday City village, 52
+Holland village, 1761
+Hollansburg village, 225
+Holloway village, 331
+Holmesville village, 379
+Hopedale village, 942
+Hoytville village, 301
+Hubbard city, 7783
+Huber Heights city, 38129
+Hudson city, 22323
+Hunting Valley village, 709
+Huntsville village, 426
+Huron city, 7096
+Independence city, 7136
+Irondale village, 373
+Ironton city, 11067
+Ithaca village, 135
+Jackson city, 6336
+Jacksonburg village, 63
+Jackson Center village, 1453
+Jacksonville village, 475
+Jamestown village, 2012
+Jefferson village, 3088
+Jeffersonville village, 1199
+Jenera village, 224
+Jeromesville village, 557
+Jerry City village, 431
+Jerusalem village, 161
+Jewett village, 685
+Johnstown village, 4806
+Junction City village, 816
+Kalida village, 1550
+Kelleys Island village, 313
+Kent city, 29807
+Kenton city, 8195
+Kettering city, 55990
+Kettlersville village, 178
+Killbuck village, 829
+Kingston village, 1029
+Kipton village, 242
+Kirby village, 118
+Kirkersville village, 528
+Kirtland city, 6855
+Kirtland Hills village, 644
+Lafayette village, 436
+LaGrange village, 2099
+Lakeline village, 225
+Lakemore village, 3062
+Lakeview village, 1061
+Lakewood city, 51385
+Lancaster city, 38880
+La Rue village, 733
+Latty village, 191
+Laura village, 472
+Laurelville village, 523
+Lebanon city, 20387
+Leesburg village, 1297
+Leesville village, 157
+Leetonia village, 1930
+Leipsic village, 2064
+Lewisburg village, 1800
+Lewisville village, 176
+Lexington village, 4766
+Liberty Center village, 1169
+Lima city, 38339
+Limaville village, 151
+Lincoln Heights village, 3366
+Lindsey village, 440
+Linndale village, 178
+Lisbon village, 2783
+Lithopolis village, 1181
+Lockbourne village, 241
+Lockington village, 140
+Lockland village, 3432
+Lodi village, 2771
+Logan city, 7157
+London city, 9876
+Lorain city, 63707
+Lordstown village, 3376
+Lore City village, 325
+Loudonville village, 2623
+Louisville city, 9152
+Loveland city, 12198
+Lowell village, 553
+Lowellville village, 1135
+Lower Salem village, 86
+Lucas village, 606
+Luckey village, 1026
+Ludlow Falls village, 209
+Lynchburg village, 1479
+Lyndhurst city, 13821
+Lyons village, 556
+McArthur village, 1683
+McClure village, 720
+McComb village, 1660
+McConnelsville village, 1803
+McDonald village, 3220
+Macedonia city, 11350
+McGuffey village, 492
+Macksburg village, 186
+Madeira city, 8809
+Madison village, 3180
+Magnetic Springs village, 270
+Magnolia village, 976
+Maineville village, 1005
+Malinta village, 264
+Malta village, 664
+Malvern village, 1187
+Manchester village, 2003
+Mansfield city, 47052
+Mantua village, 1033
+Maple Heights city, 22840
+Marble Cliff village, 580
+Marblehead village, 900
+Marengo village, 344
+Mariemont village, 3384
+Marietta city, 14027
+Marion city, 36904
+Marseilles village, 112
+Marshallville village, 756
+Martinsburg village, 232
+Martins Ferry city, 6831
+Martinsville village, 463
+Marysville city, 22051
+Mason city, 31091
+Massillon city, 32156
+Matamoras village, 889
+Maumee city, 14129
+Mayfield village, 3421
+Mayfield Heights city, 18974
+Mechanicsburg village, 1623
+Medina city, 26533
+Melrose village, 271
+Mendon village, 658
+Mentor city, 47023
+Mentor-on-the-Lake city, 7436
+Metamora village, 620
+Meyers Lake village, 568
+Miamisburg city, 20165
+Middleburg Heights city, 15806
+Middlefield village, 2704
+Middle Point village, 574
+Middleport village, 2511
+Middletown city, 48702
+Midland village, 315
+Midvale village, 750
+Midway village, 322
+Mifflin village, 137
+Milan village, 1356
+Milford city, 6681
+Milford Center village, 802
+Millbury village, 1221
+Milledgeville village, 113
+Miller City village, 140
+Millersburg village, 3070
+Millersport village, 1047
+Millville village, 711
+Milton Center village, 146
+Miltonsburg village, 43
+Mineral City village, 724
+Minerva village, 3703
+Minerva Park village, 1291
+Mingo Junction village, 3380
+Minster village, 2806
+Mogadore village, 3844
+Monroe city, 12844
+Monroeville village, 1394
+Montezuma village, 165
+Montgomery city, 10292
+Montpelier village, 4052
+Moraine city, 6316
+Moreland Hills village, 3306
+Morral village, 389
+Morristown village, 302
+Morrow village, 1218
+Moscow village, 185
+Mount Blanchard village, 493
+Mount Cory village, 206
+Mount Eaton village, 241
+Mount Gilead village, 3658
+Mount Healthy city, 6066
+Mount Orab village, 3648
+Mount Pleasant village, 466
+Mount Sterling village, 1716
+Mount Vernon city, 16812
+Mount Victory village, 621
+Mowrystown village, 356
+Munroe Falls city, 4994
+Murray City village, 445
+Mutual village, 103
+Napoleon city, 8680
+Nashville village, 200
+Navarre village, 1941
+Nellie village, 131
+Nelsonville city, 5349
+Nevada village, 756
+Neville village, 100
+New Albany city, 8507
+New Alexandria village, 268
+Newark city, 47688
+New Athens village, 327
+New Bavaria village, 99
+New Bloomington village, 503
+New Boston village, 2238
+New Bremen village, 2979
+Newburgh Heights village, 2135
+New Carlisle city, 5737
+Newcomerstown village, 3797
+New Concord village, 2490
+New Franklin city, 14231
+New Holland village, 827
+New Knoxville village, 871
+New Lebanon village, 3994
+New Lexington village, 4751
+New London village, 2434
+New Madison village, 884
+New Miami village, 2267
+New Middletown village, 1600
+New Paris village, 1607
+New Philadelphia city, 17292
+New Richmond village, 2599
+New Riegel village, 246
+New Straitsville village, 720
+Newton Falls village, 4739
+Newtonsville village, 393
+Newtown village, 2665
+New Vienna village, 1212
+New Washington village, 945
+New Waterford village, 1224
+New Weston village, 135
+Ney village, 351
+Niles city, 19020
+North Baltimore village, 3477
+North Bend village, 858
+North Canton city, 17404
+North College Hill city, 9352
+North Fairfield village, 553
+Northfield village, 3650
+North Hampton village, 475
+North Kingsville village, 2891
+North Lewisburg village, 1470
+North Olmsted city, 32354
+North Perry village, 891
+North Randall village, 1018
+North Ridgeville city, 30571
+North Robinson village, 202
+North Royalton city, 30325
+North Star village, 234
+Northwood city, 5344
+Norton city, 12030
+Norwalk city, 16931
+Norwich village, 102
+Norwood city, 19086
+Oak Harbor village, 2755
+Oak Hill village, 1528
+Oakwood village (Cuyahoga County), 3681
+Oakwood city, 9152
+Oakwood village (Paulding County), 598
+Oberlin city, 8300
+Obetz village, 4628
+Octa village, 59
+Ohio City village, 699
+Old Washington village, 278
+Olmsted Falls city, 8936
+Ontario city, 6156
+Orange village, 3295
+Orangeville village, 195
+Oregon city, 20221
+Orient village, 272
+Orrville city, 8395
+Orwell village, 1640
+Osgood village, 300
+Ostrander village, 656
+Ottawa village, 4417
+Ottawa Hills village, 4490
+Ottoville village, 975
+Otway village, 86
+Owensville village, 802
+Oxford city, 21351
+Painesville city, 19634
+Palestine village, 199
+Pandora village, 1147
+Parma city, 80597
+Parma Heights city, 20468
+Parral village, 218
+Pataskala city, 15091
+Patterson village, 137
+Paulding village, 3540
+Payne village, 1176
+Peebles village, 1780
+Pemberville village, 1391
+Peninsula village, 563
+Pepper Pike city, 6040
+Perry village, 1659
+Perrysburg city, 21161
+Perrysville village, 721
+Phillipsburg village, 557
+Philo village, 731
+Pickerington city, 18692
+Piketon village, 2158
+Pioneer village, 1374
+Piqua city, 20619
+Pitsburg village, 385
+Plain City village, 4221
+Plainfield village, 162
+Pleasant City village, 443
+Pleasant Hill village, 1205
+Pleasant Plain village, 158
+Pleasantville village, 955
+Plymouth village, 1836
+Poland village, 2520
+Polk village, 337
+Pomeroy village, 1845
+Portage village, 442
+Port Clinton city, 6047
+Port Jefferson village, 366
+Portsmouth city, 20302
+Port Washington village, 570
+Port William village, 254
+Potsdam village, 290
+Powell city, 11960
+Powhatan Point village, 1578
+Proctorville village, 569
+Prospect village, 1093
+Put-in-Bay village, 138
+Quaker City village, 498
+Quincy village, 696
+Racine village, 671
+Rarden village, 157
+Ravenna city, 11570
+Rawson village, 574
+Rayland village, 408
+Reading city, 10348
+Reminderville village, 3620
+Rendville village, 36
+Republic village, 538
+Reynoldsburg city, 36347
+Richfield village, 3651
+Richmond village, 471
+Richmond Heights city, 10488
+Richwood village, 2238
+Ridgeway village, 334
+Rio Grande village, 776
+Ripley village, 1739
+Risingsun village, 613
+Rittman city, 6501
+Riverlea village, 555
+Riverside city, 25145
+Roaming Shores village, 1495
+Rochester village, 181
+Rock Creek village, 524
+Rockford village, 1117
+Rocky Ridge village, 415
+Rocky River city, 20011
+Rogers village, 235
+Rome village, 94
+Roseville village, 1856
+Rossburg village, 200
+Rossford city, 6393
+Roswell village, 219
+Rushsylvania village, 508
+Rushville village, 304
+Russells Point village, 1371
+Russellville village, 552
+Russia village, 647
+Rutland village, 389
+Sabina village, 2548
+St. Bernard village, 4341
+St. Clairsville city, 5126
+St. Henry village, 2468
+St. Louisville village, 374
+St. Marys city, 8272
+St. Paris village, 2057
+Salem city, 12161
+Salesville village, 129
+Salineville village, 1294
+Sandusky city, 25493
+Sarahsville village, 171
+Sardinia village, 968
+Savannah village, 409
+Scio village, 756
+Scott village, 284
+Seaman village, 934
+Sebring village, 4355
+Senecaville village, 453
+Seven Hills city, 11724
+Seven Mile village, 752
+Seville village, 2325
+Shadyside village, 3736
+Shaker Heights city, 28039
+Sharonville city, 13521
+Shawnee village, 652
+Shawnee Hills village, 709
+Sheffield village, 3999
+Sheffield Lake city, 9071
+Shelby city, 9171
+Sherrodsville village, 303
+Sherwood village, 825
+Shiloh village, 637
+Shreve village, 1503
+Sidney city, 21031
+Silver Lake village, 2511
+Silverton village, 4772
+Sinking Spring village, 132
+Smithfield village, 852
+Smithville village, 1254
+Solon city, 23160
+Somerset village, 1473
+Somerville village, 282
+South Amherst village, 1676
+South Bloomfield village, 1770
+South Charleston village, 1679
+South Euclid city, 22012
+South Lebanon village, 4182
+South Point village, 3958
+South Russell village, 3822
+South Salem village, 207
+South Solon village, 355
+South Vienna village, 382
+South Webster village, 853
+South Zanesville village, 1979
+Sparta village, 162
+Spencer village, 764
+Spencerville village, 2204
+Springboro city, 17643
+Springdale city, 11198
+Springfield city, 60147
+Spring Valley village, 484
+Stafford village, 81
+Steubenville city, 18429
+Stockport village, 495
+Stone Creek village, 177
+Stoutsville village, 563
+Stow city, 34674
+Strasburg village, 2617
+Stratton village, 285
+Streetsboro city, 16098
+Strongsville city, 44620
+Struthers city, 10564
+Stryker village, 1332
+Sugar Bush Knolls village, 176
+Sugarcreek village, 2217
+Sugar Grove village, 423
+Summerfield village, 252
+Summitville village, 134
+Sunbury village, 4605
+Swanton village, 3690
+Sycamore village, 853
+Sylvania city, 18892
+Syracuse village, 823
+Tallmadge city, 17515
+Tarlton village, 285
+Terrace Park village, 2249
+The Village of Indian Hill city, 5788
+Thornville village, 995
+Thurston village, 607
+Tiffin city, 17828
+Tiltonsville village, 1340
+Timberlake village, 669
+Tipp City city, 9775
+Tiro village, 276
+Toledo city, 284012
+Tontogany village, 371
+Toronto city, 4972
+Tremont City village, 373
+Trenton city, 12126
+Trimble village, 384
+Trotwood city, 24326
+Troy city, 25374
+Tuscarawas village, 1049
+Twinsburg city, 18761
+Uhrichsville city, 5394
+Union city, 6402
+Union City village, 1651
+Unionville Center village, 235
+Uniopolis village, 221
+University Heights city, 13442
+Upper Arlington city, 34203
+Upper Sandusky city, 6627
+Urbana city, 11639
+Urbancrest village, 975
+Utica village, 2130
+Valley Hi village, 211
+Valley View village, 2020
+Valleyview village, 627
+Van Buren village, 339
+Vandalia city, 15204
+Vanlue village, 358
+Van Wert city, 10844
+Venedocia village, 124
+Vermilion city, 10507
+Verona village, 488
+Versailles village, 2661
+Vinton village, 222
+Wadsworth city, 21729
+Waite Hill village, 470
+Wakeman village, 1044
+Walbridge village, 3053
+Waldo village, 331
+Walton Hills village, 2257
+Wapakoneta city, 9824
+Warren city, 40723
+Warrensville Heights city, 13380
+Warsaw village, 679
+Washington Court House city, 14110
+Washingtonville village, 789
+Waterville city, 5502
+Wauseon city, 7312
+Waverly village, 4338
+Wayne village, 894
+Wayne Lakes village, 713
+Waynesburg village, 920
+Waynesfield village, 849
+Waynesville village, 2917
+Wellington village, 4812
+Wellston city, 5600
+Wellsville village, 3485
+West Alexandria village, 1360
+West Carrollton city, 13099
+West Elkton village, 196
+Westerville city, 37073
+West Farmington village, 492
+Westfield Center village, 1129
+West Jefferson village, 4199
+West Lafayette village, 2307
+Westlake city, 32487
+West Leipsic village, 204
+West Liberty village, 1789
+West Manchester village, 468
+West Mansfield village, 675
+West Millgrove village, 176
+West Milton village, 4657
+Weston village, 1610
+West Rushville village, 135
+West Salem village, 1468
+West Union village, 3219
+West Unity village, 1670
+Wharton village, 355
+Whitehall city, 18403
+Whitehouse village, 4280
+Wickliffe city, 12663
+Wilkesville village, 148
+Willard city, 6180
+Williamsburg village, 2509
+Williamsport village, 1032
+Willoughby city, 22353
+Willoughby Hills city, 9457
+Willowick city, 14082
+Willshire village, 394
+Wilmington city, 12448
+Wilmot village, 304
+Wilson village, 125
+Winchester village, 1045
+Windham village, 2191
+Wintersville village, 3844
+Woodlawn village, 3285
+Woodmere village, 874
+Woodsfield village, 2366
+Woodstock village, 304
+Woodville village, 2112
+Wooster city, 26375
+Worthington city, 13757
+Wren village, 193
+Wyoming city, 8398
+Xenia city, 25944
+Yankee Lake village, 78
+Yellow Springs village, 3526
+Yorkshire village, 95
+Yorkville village, 1059
+Youngstown city, 65405
+Zaleski village, 272
+Zanesfield village, 196
+Zanesville city, 25411
+Zoar village, 173
