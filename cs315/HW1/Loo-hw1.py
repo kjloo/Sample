@@ -16,22 +16,23 @@ def countPairs(filename):
 
 def getTopFivePairs(pairDict):
     list = []
-    length = 5
-    max = 0
+    tmp = []
+    max = 5
     count = 0
     for pair in pairDict:
-        if pairDict[pair] > max:
-            max = pairDict[pair]
-    while count < length and count < len(pairDict):
-        tmp = []
-        for pair in pairDict:
-            if pairDict[pair] == max:
-                tmp.append((pair, pairDict[pair]))
+        tmp.append((pair, pairDict[pair]))
+    #Sort Alphabetically
+    tmp.sort()
+    #Sort Numerically
+    tmp.sort(key = lambda x: x[1], reverse = True)
+    
+    while count < len(tmp) and count < max:
+        list.append(tmp[count])
+        count = count + 1
+        if count == max:
+            while count < len(tmp) and tmp[count][1] == tmp[count - 1][1]:
+                list.append(tmp[count])
                 count = count + 1
-            tmp.sort()
-        for item in tmp:
-            list.append(item)
-        max = max - 1;
     return list
 
 def createFollowsDict(pairDict, letter):
@@ -62,12 +63,15 @@ dict2 = countPairs("text2.txt")
 #3
 list1 = getTopFivePairs(dict1)
 #4
+print("Step 4")
 print(list1)
 #5
 list2 = getTopFivePairs(dict2)
 #6
+print("Step 6")
 print(list2)
 #7
+print("Step 7")
 for vowel in "aeiou":
 #a
     print(vowel)
@@ -78,16 +82,18 @@ for vowel in "aeiou":
 #d
     print(list)
 #8
+print("Step 8")
 for vowel in "aeiou":
-#a                                                                              
+#a    
     print(vowel)
-#b                                                                              
+#b
     dict = createFollowsDict(dict2, vowel)
-#c                                                                              
+#c
     list = [dict[chr(letter)] for letter in range(ord('a'), ord('z') + 1)]
-#d                                                                              
+#d
     print(list)
 #9
 dict3 = combineDict(dict1, dict2)
 #10
+print("Step 10")
 print(dict3)
