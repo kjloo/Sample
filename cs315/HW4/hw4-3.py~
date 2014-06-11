@@ -81,7 +81,7 @@ targetDate = (month, day, year)
 dateCompare = genDateCompare(targetDate)
 
 #4
-bestDate = getBestDate(dateList, dateCompare, True)
+bestDate = getBestDate(dateList, dateCompare)
 
 #5
 print(bestDate)
