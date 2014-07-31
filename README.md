@@ -4,4 +4,5 @@ at Seattle University.
 Fundamentals of Computer Science I -> cs151
 Fundamentals of Computer Science II -> cs152
 Data Structures -> cs250
+Languages and Computations -> cs315
 Operating Systems -> cs351
